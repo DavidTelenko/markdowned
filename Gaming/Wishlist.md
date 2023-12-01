@@ -1,0 +1,11 @@
+- [ ] Baldur's Gate 3
+- [ ] Horizon Zero Dawn
+- [ ] Horizon Forbidden West
+- [ ] Elden Ring
+- [ ] Dark Souls 3
+- [ ] Kenshi
+- [ ] Sekiro: Shadows Die Twice
+- [ ] Hollow Knight
+- [ ] Nier: Automata
+- [ ] God of War
+- [ ] Spider man

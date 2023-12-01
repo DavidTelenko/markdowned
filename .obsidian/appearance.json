@@ -1,0 +1,6 @@
+{
+  "accentColor": "#bd0065",
+  "enabledCssSnippets": [
+    "no-strikethrough-for-checkboxes"
+  ]
+}
