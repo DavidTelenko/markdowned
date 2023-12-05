@@ -1,5 +1,6 @@
 - [x] [Monster](https://myanimelist.net/anime/19/Monster?q=Monster&cat=anime)
 - [x] [Perfect Blue](https://myanimelist.net/anime/437/Perfect_Blue)
+- [ ] [Sousou no Frieren (Frieren: Beyond Journey's End)](https://myanimelist.net/anime/52991/Sousou_no_Frieren)
 - [ ] [Cowboy Bebop](https://myanimelist.net/manga/173/Cowboy_Bebop?q=Cowboy%20Bebop&cat=manga)
 - [x] [Vampire Hunter D](https://myanimelist.net/anime/543/Vampire_Hunter_D_2000?q=vampire%20hunter%20d&cat=anime)
 - [ ] [Fullmetal Alchemist: Brotherhood](https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood)
@@ -54,7 +55,6 @@
 - [ ] [Kimagure Orange☆Road](https://myanimelist.net/anime/1087/Kimagure_Orange%E2%98%86Road)
 - [ ] [Noragami](https://myanimelist.net/anime/20507/Noragami)
 - [ ] [Boku no Hero Academia (My Hero Academia)](https://myanimelist.net/anime/31964/Boku_no_Hero_Academia)
-- [ ] [Sousou no Frieren (Frieren: Beyond Journey's End)](https://myanimelist.net/anime/52991/Sousou_no_Frieren)
 - [x] [Oshi no Ko](https://myanimelist.net/anime/52034/Oshi_no_Ko)[1]
 - [ ] [Oshi no Ko](https://myanimelist.net/anime/52034/Oshi_no_Ko)[2]
 - [x] [Kage no Jitsuryokusha ni Naritakute!](https://myanimelist.net/anime/48316/Kage_no_Jitsuryokusha_ni_Naritakute)[1]
