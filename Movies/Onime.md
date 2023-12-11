@@ -25,6 +25,7 @@
 - [ ] [Demon Slayer: Kimetsu no Yaiba](https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba)
 - [ ] [One Piece](https://myanimelist.net/anime/21/One_Piece)
 - [ ] [Mob Psycho 100](https://myanimelist.net/anime/32182/Mob_Psycho_100)
+- [ ] [Spy x Family](https://myanimelist.net/anime/50265/Spy_x_Family)
 - [x] [One Punch Man](https://myanimelist.net/anime/30276/One_Punch_Man)[1]
 - [x] [One Punch Man](https://myanimelist.net/anime/34134/One_Punch_Man_2nd_Season)[2]
 - [ ] [Naruto](https://myanimelist.net/anime/20/Naruto)
