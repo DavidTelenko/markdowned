@@ -9,3 +9,4 @@
 - [ ] Nier: Automata
 - [ ] God of War
 - [ ] Spider man
+- [ ] Fears to Fathom
