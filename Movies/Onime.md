@@ -24,6 +24,7 @@
 - [ ] [Attack on Titan](https://myanimelist.net/anime/16498/Shingeki_no_Kyojin)
 - [ ] [Demon Slayer: Kimetsu no Yaiba](https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba)
 - [ ] [One Piece](https://myanimelist.net/anime/21/One_Piece)
+- [ ] [Jigokuraku](https://myanimelist.net/anime/46569/Jigokuraku)
 - [ ] [Ao no Exorcist](https://myanimelist.net/anime/9919/Ao_no_Exorcist)
 - [ ] [Kusuriya no Hitorigoto](https://myanimelist.net/manga/107562/Kusuriya_no_Hitorigoto)
 - [ ] [Zom 100: Zombie ni Naru made ni Shitai 100 no Koto](https://myanimelist.net/anime/54112/Zom_100__Zombie_ni_Naru_made_ni_Shitai_100_no_Koto)
