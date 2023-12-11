@@ -24,6 +24,10 @@
 - [ ] [Attack on Titan](https://myanimelist.net/anime/16498/Shingeki_no_Kyojin)
 - [ ] [Demon Slayer: Kimetsu no Yaiba](https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba)
 - [ ] [One Piece](https://myanimelist.net/anime/21/One_Piece)
+- [ ] [Kusuriya no Hitorigoto](https://myanimelist.net/manga/107562/Kusuriya_no_Hitorigoto)
+- [ ] [Zom 100: Zombie ni Naru made ni Shitai 100 no Koto](https://myanimelist.net/anime/54112/Zom_100__Zombie_ni_Naru_made_ni_Shitai_100_no_Koto)
+- [ ] [Mairimashita Iruma-kun](https://myanimelist.net/anime/39196/Mairimashita_Iruma-kun)
+- [ ] [Kami no Tou](https://myanimelist.net/anime/40221/Kami_no_Tou)
 - [ ] [Mob Psycho 100](https://myanimelist.net/anime/32182/Mob_Psycho_100)
 - [ ] [Spy x Family](https://myanimelist.net/anime/50265/Spy_x_Family)
 - [x] [One Punch Man](https://myanimelist.net/anime/30276/One_Punch_Man)[1]
