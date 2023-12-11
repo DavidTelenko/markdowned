@@ -1,8 +1,8 @@
+# Series
+
 - [x] [Monster](https://myanimelist.net/anime/19/Monster?q=Monster&cat=anime)
-- [x] [Perfect Blue](https://myanimelist.net/anime/437/Perfect_Blue)
 - [ ] [Sousou no Frieren (Frieren: Beyond Journey's End)](https://myanimelist.net/anime/52991/Sousou_no_Frieren)
 - [ ] [Cowboy Bebop](https://myanimelist.net/manga/173/Cowboy_Bebop?q=Cowboy%20Bebop&cat=manga)
-- [x] [Vampire Hunter D](https://myanimelist.net/anime/543/Vampire_Hunter_D_2000?q=vampire%20hunter%20d&cat=anime)
 - [ ] [Fullmetal Alchemist: Brotherhood](https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood)
 - [x] [Fullmetal Alchemist](https://myanimelist.net/anime/121/Fullmetal_Alchemist)
 - [x] [Jobless Reincarnation](https://myanimelist.net/anime/39535/Mushoku_Tensei__Isekai_Ittara_Honki_Dasu)[1]
@@ -58,6 +58,7 @@
 - [ ] [Dimension W](https://myanimelist.net/anime/31163/Dimension_W)
 - [ ] [The Seven Deadly Sins](https://myanimelist.net/anime/23755/Nanatsu_no_Taizai)
 - [ ] [Hell's Paradise](https://myanimelist.net/anime/46569/Jigokuraku)
+- [ ] [Nana](https://myanimelist.net/manga/28/Nana)
 - [ ] [Overlord](https://myanimelist.net/anime/29803/Overlord)
 - [ ] [Great Teacher Onizuka](https://myanimelist.net/anime/245/Great_Teacher_Onizuka)
 - [ ] [Cyberpunk](https://myanimelist.net/anime/42310/Cyberpunk__Edgerunners)
@@ -72,4 +73,23 @@
 - [ ] [Bastard!! Ankoku no Hakaishin (Bastard!!)](https://myanimelist.net/anime/404/Bastard_Ankoku_no_Hakaishin)
 - [ ] [Lodoss-tou Senki (Record of Lodoss War)](https://myanimelist.net/anime/207/Lodoss-tou_Senki)
 - [ ] [Akame ga Kill!](https://myanimelist.net/anime/22199/Akame_Ga_Kill)
-- [ ] 
+
+# Movies
+**Work in progress** [Hayao Miyazaki](https://myanimelist.net/people/1870/Hayao_Miyazaki?q=hayao&cat=person) movies list is not finished.
+
+- [x] [Perfect Blue](https://myanimelist.net/anime/437/Perfect_Blue)
+- [x] [Vampire Hunter D](https://myanimelist.net/anime/543/Vampire_Hunter_D_2000?q=vampire%20hunter%20d&cat=anime)
+
+- [x] [Sen to Chihiro no Kamikakushi](https://myanimelist.net/anime/199/Sen_to_Chihiro_no_Kamikakushi)
+- [x] [Howl no Ugoku Shiro](https://myanimelist.net/anime/431/Howl_no_Ugoku_Shiro)
+- [ ] [Mononoke Hime](https://myanimelist.net/anime/164/Mononoke_Hime)
+- [x] [Tonari no Totoro](https://myanimelist.net/anime/523/Tonari_no_Totoro)
+- [x] [Majo no Takkyuubin](https://myanimelist.net/anime/512/Majo_no_Takkyuubin)
+- [ ] [Gake no Ue no Ponyo](https://myanimelist.net/anime/2890/Gake_no_Ue_no_Ponyo)
+- [x] [Tenkuu no Shiro Laputa](https://myanimelist.net/anime/513/Tenkuu_no_Shiro_Laputa)
+- [x] [Kaze no Tani no Nausicaä](https://myanimelist.net/anime/572/Kaze_no_Tani_no_Nausica%C3%A4)
+- [x] [Mimi wo Sumaseba](https://myanimelist.net/anime/585/Mimi_wo_Sumaseba)
+- [x] [Karigurashi no Arrietty](https://myanimelist.net/anime/7711/Karigurashi_no_Arrietty)
+- [x] [Kaze Tachinu](https://myanimelist.net/anime/16662/Kaze_Tachinu)
+- [ ] [Neko no Ongaeshi](https://myanimelist.net/anime/597/Neko_no_Ongaeshi)
+
