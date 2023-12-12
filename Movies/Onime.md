@@ -12,6 +12,7 @@
 - [x] | [Tensei shitara Slime Datta Ken](https://myanimelist.net/anime/37430/Tensei_shitara_Slime_Datta_Ken/)[1]
 - [x] | [Tensei shitara Slime Datta Ken](https://myanimelist.net/anime/37430/Tensei_shitara_Slime_Datta_Ken/)[2]
 - [ ] | [No Game No Life (No Game, No Life)](https://myanimelist.net/anime/19815/No_Game_No_Life)
+- [ ] | [Tonari no Seki-kun](https://myanimelist.net/anime/18139/Tonari_no_Seki-kun/)
 - [ ] | [Dororo](https://myanimelist.net/anime/37520/Dororo?q=dororo&cat=anime)
 - [ ] | [Undead Unluck](https://myanimelist.net/anime/52741/Undead_Unluck)
 - [ ] | [Gintama](https://myanimelist.net/anime/918/Gintama/)
@@ -62,7 +63,7 @@
 - [ ] | [Overlord](https://myanimelist.net/anime/29803/Overlord)
 - [ ] | [Great Teacher Onizuka](https://myanimelist.net/anime/245/Great_Teacher_Onizuka)
 - [ ] | [Cyberpunk](https://myanimelist.net/anime/42310/Cyberpunk__Edgerunners)
-- [ ] | [Kimagure Orange☆Road](https://myanimelist.net/anime/1087/Kimagure_Orange%E2%98%86Road)
+- [ ] | [Kimagure Orange Road](https://myanimelist.net/anime/1087/Kimagure_Orange%E2%98%86Road)
 - [ ] | [Noragami](https://myanimelist.net/anime/20507/Noragami)
 - [ ] | [Boku no Hero Academia (My Hero Academia)](https://myanimelist.net/anime/31964/Boku_no_Hero_Academia)
 - [x] | [Oshi no Ko](https://myanimelist.net/anime/52034/Oshi_no_Ko)[1]
