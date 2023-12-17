@@ -80,6 +80,7 @@
 
 - [x] | [Perfect Blue](https://myanimelist.net/anime/437/Perfect_Blue)
 - [x] | [Vampire Hunter D](https://myanimelist.net/anime/543/Vampire_Hunter_D_2000?q=vampire%20hunter%20d&cat=anime)
+- [ ] | [Suzume no Tojimari](https://myanimelist.net/anime/50594/Suzume_no_Tojimari)
 
 - [x] | [Sen to Chihiro no Kamikakushi](https://myanimelist.net/anime/199/Sen_to_Chihiro_no_Kamikakushi)
 - [x] | [Howl no Ugoku Shiro](https://myanimelist.net/anime/431/Howl_no_Ugoku_Shiro)
