@@ -11,17 +11,18 @@ This is the list of series i'm watching, seen and wanna watch, also with thought
 
 # To Watch
 
-- Ozark
-- 1899
-- The Sopranos
-- Wane
-- Black Mirror
-- Brooklyn Nine-Nine (If you like the Office section)
-- The Witcher (Huh?)
-- Peaky Blinders
-- Narcos
-- Castelvania (Huh?)
-- Dead Cells (Huh?)
+ - Ozark
+ - 1899
+ - The Sopranos
+ - Wane
+ - The Punisher
+ - Black Mirror
+ - Brooklyn Nine-Nine (If you like the Office section)
+ - The Witcher (Huh?)
+ - Peaky Blinders
+ - Narcos
+ - Castelvania (Huh?)
+ - Dead Cells (Huh?)
 
 # Seen
 
