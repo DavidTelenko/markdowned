@@ -12,7 +12,6 @@
 - [x] | [Tensei shitara Slime Datta Ken](https://myanimelist.net/anime/37430/Tensei_shitara_Slime_Datta_Ken/)[1]
 - [x] | [Tensei shitara Slime Datta Ken](https://myanimelist.net/anime/37430/Tensei_shitara_Slime_Datta_Ken/)[2]
 - [ ] | [No Game No Life (No Game, No Life)](https://myanimelist.net/anime/19815/No_Game_No_Life)
-- [ ] | [Tonari no Seki-kun](https://myanimelist.net/anime/18139/Tonari_no_Seki-kun/)
 - [ ] | [Dororo](https://myanimelist.net/anime/37520/Dororo?q=dororo&cat=anime)
 - [ ] | [Undead Unluck](https://myanimelist.net/anime/52741/Undead_Unluck)
 - [ ] | [Gintama](https://myanimelist.net/anime/918/Gintama/)
@@ -58,6 +57,7 @@
 - [ ] | [Gyakkyou Burai Kaiji](https://myanimelist.net/anime/3002/Gyakkyou_Burai_Kaiji__Ultimate_Survivor)
 - [ ] | [Dimension W](https://myanimelist.net/anime/31163/Dimension_W)
 - [ ] | [The Seven Deadly Sins](https://myanimelist.net/anime/23755/Nanatsu_no_Taizai)
+- [ ] | [Tonari no Seki-kun](https://myanimelist.net/anime/18139/Tonari_no_Seki-kun/)
 - [ ] | [Hell's Paradise](https://myanimelist.net/anime/46569/Jigokuraku)
 - [ ] | [Nana](https://myanimelist.net/manga/28/Nana)
 - [ ] | [Overlord](https://myanimelist.net/anime/29803/Overlord)
