@@ -57,12 +57,13 @@
 - [ ] | [Gyakkyou Burai Kaiji](https://myanimelist.net/anime/3002/Gyakkyou_Burai_Kaiji__Ultimate_Survivor)
 - [ ] | [Dimension W](https://myanimelist.net/anime/31163/Dimension_W)
 - [ ] | [The Seven Deadly Sins](https://myanimelist.net/anime/23755/Nanatsu_no_Taizai)
+- [ ] | [Tonari no Seki-kun](https://myanimelist.net/anime/18139/Tonari_no_Seki-kun/)
 - [ ] | [Hell's Paradise](https://myanimelist.net/anime/46569/Jigokuraku)
 - [ ] | [Nana](https://myanimelist.net/manga/28/Nana)
 - [ ] | [Overlord](https://myanimelist.net/anime/29803/Overlord)
 - [ ] | [Great Teacher Onizuka](https://myanimelist.net/anime/245/Great_Teacher_Onizuka)
 - [ ] | [Cyberpunk](https://myanimelist.net/anime/42310/Cyberpunk__Edgerunners)
-- [ ] | [Kimagure Orange☆Road](https://myanimelist.net/anime/1087/Kimagure_Orange%E2%98%86Road)
+- [ ] | [Kimagure Orange Road](https://myanimelist.net/anime/1087/Kimagure_Orange%E2%98%86Road)
 - [ ] | [Noragami](https://myanimelist.net/anime/20507/Noragami)
 - [ ] | [Boku no Hero Academia (My Hero Academia)](https://myanimelist.net/anime/31964/Boku_no_Hero_Academia)
 - [x] | [Oshi no Ko](https://myanimelist.net/anime/52034/Oshi_no_Ko)[1]
@@ -79,6 +80,7 @@
 
 - [x] | [Perfect Blue](https://myanimelist.net/anime/437/Perfect_Blue)
 - [x] | [Vampire Hunter D](https://myanimelist.net/anime/543/Vampire_Hunter_D_2000?q=vampire%20hunter%20d&cat=anime)
+- [ ] | [Suzume no Tojimari](https://myanimelist.net/anime/50594/Suzume_no_Tojimari)
 
 - [x] | [Sen to Chihiro no Kamikakushi](https://myanimelist.net/anime/199/Sen_to_Chihiro_no_Kamikakushi)
 - [x] | [Howl no Ugoku Shiro](https://myanimelist.net/anime/431/Howl_no_Ugoku_Shiro)
