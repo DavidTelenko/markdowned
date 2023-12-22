@@ -26,12 +26,12 @@ This is the list of series i'm watching, seen and wanna watch, also with thought
 
 # Seen
 
- - Game of Thrones S1-S8 (died from cringe)
- - Dark S1-S3 (died from cringe)
- - The Office S1-S9 (finished marvel, glass eaten)
- - Parks and Recreations (finished, amazing, glass eaten)
- - Breaking Bad S1-S5 (marvel)
- - Better Call Saul S1-S6 (marvel, glass eaten)
- - The end of the fucking world S1-S2 (quality)
- - I Am Not Okay With This S1 (interesting, short)
+ - Game of Thrones S1-S8 (died from cringe) [7/10]
+ - Dark S1-S3 (died from cringe) [7.5/10]
+ - The Office S1-S9 (finished marvel, glass eaten) [9.5/10]
+ - Parks and Recreations (finished, amazing, glass eaten) [9/10]
+ - Breaking Bad S1-S5 (marvel) [9.5/10]
+ - Better Call Saul S1-S6 (marvel, glass eaten) [9.5/10]
+ - The end of the fucking world S1-S2 (quality) [8/10]
+ - I Am Not Okay With This S1 (interesting, short) [8/10]
 
