@@ -23,9 +23,11 @@ This is the list of series i'm watching, seen and wanna watch, also with thought
  - Narcos
  - Castelvania (Huh?)
  - Dead Cells (Huh?)
+ - Alchemy of the Souls (Something interesting?)
 
 # Seen
 
+ - True Detective S1 (it was perfect down to every minute detail) [10/10]
  - Game of Thrones S1-S8 (died from cringe) [7/10]
  - Dark S1-S3 (died from cringe) [7.5/10]
  - The Office S1-S9 (finished marvel, glass eaten) [9.5/10]
@@ -34,4 +36,5 @@ This is the list of series i'm watching, seen and wanna watch, also with thought
  - Better Call Saul S1-S6 (marvel, glass eaten) [9.5/10]
  - The end of the fucking world S1-S2 (quality) [8/10]
  - I Am Not Okay With This S1 (interesting, short) [8/10]
+ - Big mouse (interesting, stuffed, a bit broken) [7/10]
 
