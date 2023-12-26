@@ -68,8 +68,12 @@ flying islands
 # Styles:
 
 Jean Moebius Giraud
+Paolo Girardi
+Phillipe Caza
+Zdzislaw Beksinski
+Philippe Druillet
 Hayao Miyazaki
-Wimmelbilder - Insanely detailed Where's Waldo
+Wimmelbilder
 Dan Mumford
 Jesse van Dijk
 Leon Tukker
