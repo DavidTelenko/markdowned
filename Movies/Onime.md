@@ -16,6 +16,7 @@
 - [ ] | [Undead Unluck](https://myanimelist.net/anime/52741/Undead_Unluck)
 - [ ] | [Gintama](https://myanimelist.net/anime/918/Gintama/)
 - [ ] | [Vinland Saga](https://myanimelist.net/anime/37521/Vinland_Saga)
+- [ ] | [86](https://myanimelist.net/anime/41457/86)
 - [ ] | [Mo Dao Zu Shi (The Founder of Diabolism)](https://myanimelist.net/anime/37208/Mo_Dao_Zu_Shi)
 - [ ] | [DanDaDan](https://myanimelist.net/anime/57334/Dandadan)
 - [ ] | [City Hunter](https://myanimelist.net/anime/1473/City_Hunter_91)
