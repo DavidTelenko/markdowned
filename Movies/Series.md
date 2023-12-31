@@ -36,5 +36,5 @@ This is the list of series i'm watching, seen and wanna watch, also with thought
  - Better Call Saul S1-S6 (marvel, glass eaten) [9.5/10]
  - The end of the fucking world S1-S2 (quality) [8/10]
  - I Am Not Okay With This S1 (interesting, short) [8/10]
- - Big mouse (interesting, stuffed, a bit broken) [7/10]
+ - Big mouse S1 (interesting, stuffed, a bit broken) [7/10]
 
