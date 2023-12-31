@@ -2,4 +2,9 @@
 
 This is the compilation of ideas about generative and procedural algorithms used in gaming.
 
-- [WFC](https://www.youtube.com/watch?v=dFYMOzoSDNE)
+- Use [WFC](https://www.youtube.com/watch?v=dFYMOzoSDNE) at global scale to create generally random maps
+- Locally use premade models and combined models to create random locations inside wfc grid
+- Combine large wfc grids into open world
+- Generate trees (using ebnf grammar) and rocks using noise
+- Generate clouds using 3d noise combined with shaders
+- Quests and lore generation based on static rules using gpt or similar technique
