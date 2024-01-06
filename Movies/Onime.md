@@ -63,6 +63,7 @@
 - [ ] | [Nana](https://myanimelist.net/manga/28/Nana)
 - [ ] | [Overlord](https://myanimelist.net/anime/29803/Overlord)
 - [ ] | [Great Teacher Onizuka](https://myanimelist.net/anime/245/Great_Teacher_Onizuka)
+- [ ] | [Tate no Yuusha no Nariagari](https://myanimelist.net/anime/35790/Tate_no_Yuusha_no_Nariagari)
 - [ ] | [Cyberpunk](https://myanimelist.net/anime/42310/Cyberpunk__Edgerunners)
 - [ ] | [Kimagure Orange Road](https://myanimelist.net/anime/1087/Kimagure_Orange%E2%98%86Road)
 - [ ] | [Noragami](https://myanimelist.net/anime/20507/Noragami)

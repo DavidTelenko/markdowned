@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🎬Movies/Onime.md",
+                "file": "IT/Projects/Image Creator Old.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🎬Movies/Onime.md",
+                "file": "IT/Projects/Image Creator Old.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🎬Movies/Onime.md",
+                "file": "IT/Projects/Image Creator Old.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🎬Movies/Onime.md"
+                "file": "IT/Projects/Image Creator Old.md"
               }
             }
           },
@@ -169,6 +169,10 @@
   },
   "active": "1661506aa002647f",
   "lastOpenFiles": [
+    "AI/Art/Crystal Warrior.md",
+    "Backup/Resources/Pasted image 20231010175433.png",
+    "Gaming/Ideas/BountySpace.md",
+    "Gaming/Ideas/Generative.md",
     "🎨AI Art/Data/Generated Id's.md",
     "🎨AI Art/Data",
     "📁Backup/Soft.md",
@@ -201,8 +205,6 @@
     "🖥Programming/MT Plan.md",
     "⚙️For AI/GPT Chats/_Temporary.md",
     "⚙️For AI/GPT Chats/How to fix error in macro definition.md",
-    "⚙️For AI/GPT Chats/Algorithm for Making Turns in 2048 Game.md",
-    "⚙️For AI/GPT Chats/Adding Tabs to Windows Explorer with QtTabBar.md",
     "⚙️For AI/GPT Templates",
     "⚙️For AI/GPT Chats",
     "Shared",
