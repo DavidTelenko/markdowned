@@ -40,6 +40,7 @@
  - Show Trueman
  - The Wolf of Wall Street
  - The Shawshank Redemption
+ - A Bronx Tale
  - Shutter Island
  - Fight Club
  - Abnormalities
