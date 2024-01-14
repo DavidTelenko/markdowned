@@ -47,6 +47,7 @@
 - [ ] | [Tengen Toppa Gurren Lagann (Gurren Lagann)](https://myanimelist.net/anime/2001/Tengen_Toppa_Gurren_Lagann)
 - [ ] | [Bungou Stray Dogs (Bungo Stray Dogs)](https://myanimelist.net/anime/31478/Bungou_Stray_Dogs)
 - [ ] | [Samurai Champloo](https://myanimelist.net/anime/205/Samurai_Champloo)
+- [ ] | [Ore dake Level Up na Ken](https://myanimelist.net/anime/52299/Ore_dake_Level_Up_na_Ken)
 - [ ] | [Evangelion: 1.0 You Are (Not) Alone](https://myanimelist.net/anime/2759/Evangelion__10_You_Are_Not_Alone)
 - [x] | [Hunter x Hunter](https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011)
 - [x] | [Death Note](https://myanimelist.net/anime/1535/Death_Note)
