@@ -1,0 +1,11 @@
+bin
+    A
+        A.exe
+    C
+        C.exe
+
+persist
+    A
+        settings.json
+        regist.reg
+    C
