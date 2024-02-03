@@ -33,12 +33,12 @@
 
 # To watch
 
- - Duna
+ - Dune
  - American Psycho
  - Kill Bill: Vol. 1
  - Kill Bill: Vol. 2
  - Inglorious Bastards
- - Show Trueman
+ - Trueman Show
  - The Wolf of Wall Street
  - The Shawshank Redemption
  - A Bronx Tale

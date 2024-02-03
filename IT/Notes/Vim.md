@@ -16,3 +16,6 @@ J join lines (removes \n in the end)
 q<any char> <record shit> q
 @<any char> - repeats shit
 
+ctrl + f in command mode opens up editable buffer
+ctrl + x completion
+
