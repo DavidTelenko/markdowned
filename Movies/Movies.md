@@ -33,6 +33,8 @@
 
 # To watch
 
+ - Borat
+ - The Unbearable Weight of Massive Talent
  - Dune
  - American Psycho
  - Kill Bill: Vol. 1
