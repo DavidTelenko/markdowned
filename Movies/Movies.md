@@ -34,6 +34,7 @@
 # To watch
 
  - Borat
+ - The Talented Mr. Ripley
  - The Unbearable Weight of Massive Talent
  - Dune
  - American Psycho
