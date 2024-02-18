@@ -1,0 +1,112 @@
+# List of Skyrim mods that kinda neat
+
+ - AGO + BFQ Animations
+ - Archery Gameplay Overhaul
+ - BCC
+ - BCC Config Example
+ - Belt
+ - BethINI Standalone Version
+ - Better SkyUI Config
+ - Better Third Person Selection SE Russian Translate
+ - CPS Legends Icons
+ - Casting Bar
+ - Character Size x0
+ - Clean Menu 
+ - Configurable Notification Messages
+ - Console Commands Extender
+ - ConsoleUtilSSE
+ - Convenient Dialogue UI (Nordic UI look)
+ - Convenient Dialogue UI (Vanilla look)
+ - CorrectRussianFontsSSE
+ - CrashLogger
+ - Curated Bosses for True HUD
+ - Customizable Camera 2
+ - Dear Diary DM Extended Merged
+ - Dear Diary
+ - Dialogue Interface ReShaped
+ - Disable Spell EffectShader
+ - Dragon Claws Auto
+ - Dynamically Disable Eye Adaptation and Bloom
+ - ELFX Fixes 
+ - Enhanced Textures Detail (UV
+ - Equipment Toggle
+ - Extended Hotkey System
+ - Extended UI
+ - FSR2
+ - God Of War Berzerker Font 1
+ - Graphics
+ - GreenTea v1
+ - HDDScan
+ - HavokFix64
+ - Immersive Dragons
+ - Improved Alternate Conversation Camera SE
+ - Improved Follower Dialogue 
+ - Improved Loading Screen Colors
+ - Insignificant Object Remover
+ - Instantly Skip Dialogue NG
+ - Interface Mods
+ - LOD Unloading Bug Fix
+ - LazyItemHiderRedux 0
+ - LeanWolfs Better
+ - Lights On AIO
+ - Loading Screen Smoke Removed v1
+ - Loading Screens + Main Menu + Skill Screen
+ - MUSIC REPLACER
+ - MainMenuRandomizerSE
+ - Minimalistic Graphics
+ - Mod Organizer 
+ - My Main Menu Theme Replacer
+ - NORDIC UI (Final Design)
+ - NORDIC UI 
+ - NORDIC UI Markers (RESTORE UNDISCOVER MARKERS)
+ - Name Those Ash Piles
+ - Nordic Grey to Purple
+ - Nordic UI 
+ - Nordic
+ - NordicUI
+ - Nyclix's Reshade for Rudy's Obsidian Weathers ENB
+ - Opt
+ - Oxygen Meter 2 Nordic like Skin
+ - Party Combat Parameters SE
+ - Performance ENB v5
+ - Poisoning Extended SE
+ - PrivateProfileRedirector SE 0
+ - Quick Light SE
+ - RFAB AE 8
+ - Reduced Intensity ImageSpace Settings Complete v1
+ - Requiem 
+ - SKSE64 Elys UFR 1 0 3 0
+ - SSE ReShade Helper
+ - SafetyLoad 1 2
+ - Savage Wolves and Feral Foxes
+ - ShaderTools Updated
+ - SkyUILib
+ - SkyUI 5 2 SE
+ - Skyrim Priority SE AE
+ - SkyrimUpscaler
+ - Skyrim Particle Patch for ENB
+ - SmoothCam
+ - Start On Save
+ - Surreal Lighting
+ - Sweeping Organizes Stuff 
+ - TW3MO
+ - True Directional Movement
+ - True Honey FPS Boost for Potato Computers
+ - True Shades of Skyrim
+ - Ukrainian Localization OPN
+ - UpscalerBasePlugin
+ - Utillity Mods
+ - Various Tweaks
+ - Vendor Sale Delay SSE
+ - Victoria537
+ - WHITERUN TUNDRA
+ - Windhelm Docks Pathways SE
+ - Windhelm Exterior Altered 2
+ - WindowFocusLogger
+ - d3dcompiler 47
+ - enbseries fallout4 v0283
+ - moreHUD SE 
+ - powerofthree's Tweaks
+ - square fix
+ - toggle compass hotkey
+ - xTranslator
