@@ -47,6 +47,7 @@
 - [ ] | [Tengen Toppa Gurren Lagann (Gurren Lagann)](https://myanimelist.net/anime/2001/Tengen_Toppa_Gurren_Lagann)
 - [ ] | [Bungou Stray Dogs (Bungo Stray Dogs)](https://myanimelist.net/anime/31478/Bungou_Stray_Dogs)
 - [ ] | [Samurai Champloo](https://myanimelist.net/anime/205/Samurai_Champloo)
+- [ ] | [Ore dake Level Up na Ken](https://myanimelist.net/anime/52299/Ore_dake_Level_Up_na_Ken)
 - [ ] | [Evangelion: 1.0 You Are (Not) Alone](https://myanimelist.net/anime/2759/Evangelion__10_You_Are_Not_Alone)
 - [x] | [Hunter x Hunter](https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011)
 - [x] | [Death Note](https://myanimelist.net/anime/1535/Death_Note)
@@ -78,12 +79,12 @@
 - [ ] | [Akame ga Kill!](https://myanimelist.net/anime/22199/Akame_Ga_Kill)
 
 # Movies
+
 **Work in progress** [Hayao Miyazaki](https://myanimelist.net/people/1870/Hayao_Miyazaki?q=hayao&cat=person) movies list is not finished.
 
 - [x] | [Perfect Blue](https://myanimelist.net/anime/437/Perfect_Blue)
 - [x] | [Vampire Hunter D](https://myanimelist.net/anime/543/Vampire_Hunter_D_2000?q=vampire%20hunter%20d&cat=anime)
 - [ ] | [Suzume no Tojimari](https://myanimelist.net/anime/50594/Suzume_no_Tojimari)
-
 - [x] | [Sen to Chihiro no Kamikakushi](https://myanimelist.net/anime/199/Sen_to_Chihiro_no_Kamikakushi)
 - [x] | [Howl no Ugoku Shiro](https://myanimelist.net/anime/431/Howl_no_Ugoku_Shiro)
 - [ ] | [Mononoke Hime](https://myanimelist.net/anime/164/Mononoke_Hime)
@@ -96,4 +97,3 @@
 - [x] | [Karigurashi no Arrietty](https://myanimelist.net/anime/7711/Karigurashi_no_Arrietty)
 - [x] | [Kaze Tachinu](https://myanimelist.net/anime/16662/Kaze_Tachinu)
 - [ ] | [Neko no Ongaeshi](https://myanimelist.net/anime/597/Neko_no_Ongaeshi)
-

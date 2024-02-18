@@ -6,6 +6,7 @@
  - Titanic (1997) (weird, why they did not float on the same plank?) [8/10]
  - Passengers (2016) (sentimental, conceptually interesting) [7/10]
  - Man of steel (2013) (default) [6/10]
+ - Blade runner (1982, 2017) (deep, conceptually interesting) [8/10]
  - The Ballad of Buster Scruggs (2018) (out of the box, death vibes, meditative) [8/10]
  - No Country for Old Men (2007) (box out of the box, deeper meaning, meditative) [8/10]
  - The Big Lebowski (1998) (deeper meaning?, meditative) [7/10]
@@ -32,12 +33,16 @@
 
 # To watch
 
- - Duna
+ - Borat
+ - The Martian
+ - The Talented Mr. Ripley
+ - The Unbearable Weight of Massive Talent
+ - Dune
  - American Psycho
  - Kill Bill: Vol. 1
  - Kill Bill: Vol. 2
  - Inglorious Bastards
- - Show Trueman
+ - Trueman Show
  - The Wolf of Wall Street
  - The Shawshank Redemption
  - A Bronx Tale
