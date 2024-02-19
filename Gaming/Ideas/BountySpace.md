@@ -43,9 +43,68 @@ you can integrate into society of a big cities, you can live solitary life.
 
 ## Gameplay
 
-The gameplay is basically split between visual narrative and tactics / planning. 
+### General
 
-## Soundtrack
+The gameplay is basically split between visual narrative and tactics /
+planning. Main character has no actual final goal or target, however it has
+general missions and random (or not so random) encounters. The gameplay loop is
+something along this lines:
+
+  - Receive bounty mission in missives / from notice board / from npc.
+  - Start planning and investigating about the general location and traits of
+    outlaw.
+  - Manage resources and needs of character.
+  - Seek plan and destroy / capture target, loot / capture / free outpost.
+
+This is the general route of character, most noticeable is full freedom and
+realism in the way mission can be finished: you can free outlaw, you can kill
+or capture, you can get captured. Other really controversial and in the same
+time interesting idea is the absence of classical journal and map. I like when
+the gameplay is dynamic, and fast paced, however in such game like this it is
+more viable to make map and journal "up to player". Everything is up to you yo
+remember and accomplish, there can be several quests and tasks that you can
+simply forget if do not pay attention and it is completely normal. Also map is
+not opened until you visit that location and without you scanner or equipment
+you lose all ability to locate yourself other then up to you senses.
+
+### NPC says no lies
+
+Other notable thing i dislike in games is hyperbolization of enemy powers.
+Often they just say some misinformation or plain simple lore, without more
+details and information about mission. I want the NPC to be the source of truth
+(or lies) that effectively crafts your journal and targets. If some buddy says
+that this or that outlaw band is dangerous they really mean it and in you
+current situation it is dangerous to go and deal with them, however based on
+level of a player and their abilities npc's can notice that "Oh they are
+dangerous but judging by your looks you are capable to deal with them" and so
+on and so forth. Generally that means game will give you simple hint on whether
+you are ready or not to ambush the band.
+
+### Loneliness, rewards, fears
+
+The Long Dark has this really nice feeling of danger, of inevitability, I
+really want this game to have similar vibe. There needs to be minimum
+information from interface and other outer sources to make it happen. You have
+to be lonely one against the world, you have to fight. When you accomplish
+something it is really rewarding, looting some higher level enemy getting their
+equipment, doesn't just makes you stronger it makes you more **capable**. You
+can loot map of a location, some tool that can unlock more interesting
+locations, some skill point which are impossible to obtain just from playing
+and advancing. You can upgrade your helper robots, you can find new
+modification for yourself.
+
+Sometimes in games you can emerge yourself really deep into the world and
+atmosphere so that you really can feel some fears and inevitabilities that may
+player feel. For example in Far Cry 3 there is starting mission where you get
+captured. First time I played this game and listened to Vaas from cage, that
+was really magical. When we escaped from outpost and did all the steals stuff,
+nevertheless it was just the tutorial still it felt really emerging. In Fears
+To Fathom there are also several occasions where the atmosphere just strikes,
+sometimes it is just plain horror, but sometimes it makes you feel several
+emotions at once it is both fascination and fear, and it's really what i wish
+to incorporate in this games missions.
+
+## Soundtrack and sound design
 
 ## Interface
 
