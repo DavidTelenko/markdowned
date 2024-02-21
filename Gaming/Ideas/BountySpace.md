@@ -106,6 +106,90 @@ to incorporate in this games missions.
 
 ## Soundtrack and sound design
 
+### Atmosphere
+
+Yet again The Long Dark is one of the best in creating the sound atmosphere.
+There is simple yet powerful techniques when certain situations just underlined
+using the sound design. When you enter or exit cave, when the stamina is low,
+when you meet sunrise or sunset, when you meet a wolf or a bear. I really like
+this approach, there is a lot of melodic soundtracks still the most memorable
+situations I have involves the soundtrack that contains simple riff of sound
+effect. It's just this simple and sudden sound effects and melodic slicks that
+makes the situation marvelous.
+
+In this game I really want to incorporate quite similar but more advanced
+system. The idea is to write simple and memorable effects and melodies, then
+mix them up in one giant track using both AI and manual techniques. Then in
+game the soundtrack will be generated on the go based on the parameters
+collected from the current situation you're in. Simply put each and every
+effect will be somehow different and yet resemble basic melody and idea. The
+key difference from classic approach is the variability and non intrusiveness.
+When in classic games (e.g. Witcher, The Elder Scrolls, Heroes of Might and
+Magic, Genshin Impact) the combat starts you always hear the same 3-10
+melodies, and even if they are written extraordinarily good (as in all of
+listed above), it still can get pretty boring after 1-10 thousand of battles,
+especially with simple scripts of `entering` and `exiting` hostile areas or
+battles. My approach is to generate simple sounds and effects that just
+underline the vitality of the situation and everything else leave to the
+imagination.
+
+Imagine hearing simple powerful melodies as you walk by the sand
+mountain and spot enemy camp, as you stamina falls low and you realize there is
+nothing left to eat, when you meet new dawn, when the sandstorm strikes. That
+makes the situation 10 times more epic, and it is not unimaginably hard to
+implement. The basic idea is to reference areas in memory where parameters
+interesting for the soundtrack engine are located, read and analyze the
+situation (resource numbers, coordinates and locations, hostile mobs nearby
+etc.) and based on this values read noisily generated index from soundtrack
+mix. After that comes complicated part which is harder to implement but it is
+still possible, we need to decide how to mix in the track we got so that it
+plays in a compositional beginning and ending. The easiest solution is to
+simply fade in and out this sounds, however i cannot say that this is the most
+beautiful technique I've ever heard.
+
+### Sound design
+
+Another extremely high quality technique is one used in Red Dead Redemption 2.
+There is no over the top ideas or something unimaginably interesting, however
+the real feature lies in a quality of sound design. Every horse breath, every
+clack, every tree leaf fall, everything is deep, everything has a weight to it.
+It's like the music playing from a powerful dynamics from far away. You hear
+the bass itself. Imagine the same weight but in sounds from nature, from city,
+from your own and others breath.
+
+I really like sound design and approach of Fallout and Bioshock series. They
+give you real world old songs from 20-40s and add up with own atomic and
+steampunk style. Another example is Far Cry 5 and Far Cry New Dawn. In both
+games there are outposts which play licensed music that has some impact on the
+actual lore of the game and the situation itself. This fashion of playing
+related to the outpost music started back from the Far Cry 3 (and maybe even
+earlier) but the idea of playing it right at the outpost with effects of bass
+and mumble over it started from the fifth game. The basic idea is to layer
+several EQ effects over the track and apply spacial sound. Then depending on
+the distance to the source change appropriate effect to the lower or higher
+values and fade in or fade out if it is really far or the weather changes and
+sound of wind layers over it. There are several build in techniques in the game
+engines already and couple of really high quality C libraries.
+
+### Tech, city, TV/radio sounds, effects
+
+Another interesting idea is to use sound recordings of television and radio
+programmes and shows similar to what the Grand Theft Auto series does. Record
+bunch of related stuff to the game lore and situation in the game world, hire
+several voice actors that are ready to discuss all those topics just like in
+real world podcasts (or AI generate all of those media) and play those
+recordings between licensed tracks in the radio. It is really fascinating how
+"real" the radio and soundtrack became after this technique. It is not
+necessary to use it abusively everywhere, we can sprinkle lots of voiced
+programmes among the radio songs, or we can make the dedicated radio that plays
+podcasts. The downside of this method is actual filling of the programmes. The
+topics could vary from the general lore situation down to the local player
+decisions and the impact it had on the world. It is really complicated to
+generate or prerecord all of the possible topics, and thus it can be really
+costly.
+
+- your audio systems
+
 ## Interface
 
 ## Plot and lore
