@@ -188,7 +188,14 @@ decisions and the impact it had on the world. It is really complicated to
 generate or prerecord all of the possible topics, and thus it can be really
 costly.
 
-- your audio systems
+The main player throughout the gameplay can get newer equipment and newer bots,
+so it also could be really nice to add voice of the bots and on-board computer.
+The main target is to make this systems non-intrusive and optional. With that
+said receiving notification about low hp with voice on the background as the
+part of the audio system without too much intimidation could probably be nice
+and more appropriate in this kind of game even instead of UI elements. Also
+audio voices of your system and bots may be changeable and it would be nice
+feature to get the voice of any npc, record it and use it with your bot. 
 
 ## Interface
 
