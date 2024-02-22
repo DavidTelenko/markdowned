@@ -199,6 +199,8 @@ feature to get the voice of any npc, record it and use it with your bot.
 
 ## Interface
 
+Oh interface dear interface. There are a countless ways of placing and designing HUD elements. Some might prefer more "gamish" more fantasy style looks, some might prefer simplicity. Personally, I really like interfaces where most of the time you just look into the camera and nothing else. 
+
 ## Plot and lore
 
 ## Show don't tell, quasi-lore
