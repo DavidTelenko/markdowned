@@ -207,3 +207,6 @@ Oh interface dear interface. There are a countless ways of placing and designing
 
 ## Small details and general atmosphere
 
+## Notes to expand
+
+ - Point cloud, weighted Voronoi stippling, dithering (some cyberspace lore stuff)
