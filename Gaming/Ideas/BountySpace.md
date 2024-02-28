@@ -74,7 +74,8 @@ In order to complete your mission you can use several mechanics:
   - **Obvious guns and blasters**
   - **Paralyzing tech**: tranquilizers, shockers, lasso
   - **Traps**: sand holes, quicksand machines, mimics
-  - **Grenades**: flash, smoke, molotov, cassette, mine, net, airstrike
+  - **Grenades**: flash, smoke, molotov, cassette, mine, net, airstrike,
+    fireflies grenade
   - **Turrets / bots**: auto-target, taunt, kamikaze, remotely controlled
     fighter and eagle, shield-bots, fireflies, bugs
 
@@ -311,7 +312,20 @@ First thing first: everything should be configurable. That is the rule of
 thumb, if your game has an action which cannot be assigned to keybinding
 it is already bad trait. 
 
-Next is context. One key should serve more than one purpose in different contexts, it is obvious thing but sometimes devs tend to forget that (Sea of Thieves). Red Dead Redemption show really good example of context keybinding usage and its variability, the only thing that I don't really like is the need to hold the button to be able to perform certain actions (e.g. horse management and inventory). We should leverage the keyboard and mouse abilities and add more keybindings for actions like: using items, calling bots, managing party and so on, it is really not that hard to remember couple combinations especially if they are unified and widely used. Also there will be no pause in a game menus (except system, book UI and console) so it is crucial to be able to quickly swap items, use consumable, scan surroundings or call for bots. In order to balance the amount of buttons on keyboard vs gamepad the context and modal system must be implemented. And that's where the HUD pop up menus and wheels are really useful.
+Next is context. One key should serve more than one purpose in different
+contexts, it is obvious thing but sometimes devs tend to forget that (Sea of
+Thieves). Red Dead Redemption show really good example of context keybinding
+usage and its variability, the only thing that I don't really like is the need
+to hold the button to be able to perform certain actions (e.g. horse management
+and inventory). We should leverage the keyboard and mouse abilities and add
+more keybindings for actions like: using items, calling bots, managing party
+and so on, it is really not that hard to remember couple combinations
+especially if they are unified and widely used. Also there will be no pause in
+a game menus (except system, book UI and console) so it is crucial to be able
+to quickly swap items, use consumable, scan surroundings or call for bots. In
+order to balance the amount of buttons on keyboard vs gamepad the context and
+modal system must be implemented. And that's where the HUD pop up menus and
+wheels are really useful.
 
 ## Small details and general atmosphere
 
