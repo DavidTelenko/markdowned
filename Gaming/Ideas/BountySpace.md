@@ -331,3 +331,7 @@ wheels are really useful.
 
 ## Modding
 
+## Notes to expand
+
+ - Point cloud, weighted Voronoi stippling, dithering (some cyberspace lore stuff)
+

@@ -24,6 +24,7 @@ This is the list of series i'm watching, seen and wanna watch, also with thought
  - Castelvania (Huh?)
  - Dead Cells (Huh?)
  - Alchemy of the Souls (Something interesting?)
+ - Succession
 
 # Seen
 
