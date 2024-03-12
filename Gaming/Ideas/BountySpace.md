@@ -74,7 +74,8 @@ In order to complete your mission you can use several mechanics:
   - **Obvious guns and blasters**
   - **Paralyzing tech**: tranquilizers, shockers, lasso
   - **Traps**: sand holes, quicksand machines, mimics
-  - **Grenades**: flash, smoke, molotov, cassette, mine, net, airstrike
+  - **Grenades**: flash, smoke, molotov, cassette, mine, net, airstrike,
+    fireflies grenade
   - **Turrets / bots**: auto-target, taunt, kamikaze, remotely controlled
     fighter and eagle, shield-bots, fireflies, bugs
 
@@ -155,7 +156,78 @@ to incorporate in this games missions.
 
 ## Plot and lore
 
-## Show don't tell, quasi-lore
+Plot of the game is not yet designed, however I have several ideas which could
+put up a baseline for the plot and plot related content. Firstly, let's remind
+where are we. We are at a lonely planet near two suns, the lands are desolated,
+there are couple large cities and bunch of small towns, near big cities there
+are some artificial fields and greenhouses which provides food, however it is
+obvious that it's not enough. The main twist of all of this is that the two
+suns which are located further away relatively to our Earth, are about to
+collapse, and form a new star. The government of a planet realises it and tries
+to hide details from people.
+
+The story and lore of the planet are quite blurry and hidden behind the recent
+several thousand years. Everything that was happening before then is hidden
+from average folk and only government of several cities dig that deep into the
+slate ground of a planet to realise that other civilizations also occurred here
+before and left a lot of vital information towards the solution of two suns
+collapse.
+
+## Show don't tell
+
+That's exactly where main protagonist can fit really well. From a gameplay
+perspective, there will be several cavern systems which are guarded by
+governmental elite officers and mercenaries. Technically it would be extremely
+hard missions and thus requires the player to advance on the skills and
+equipment to actually get into that cavern systems. The main secrets and
+interesting trinkets will be located deeper in the caves. First and most
+important is the way the lore will actually be delivered to our protagonist. I
+don't really like the cutscenes, long text walls, frescos, unskippable
+dialogues and so on, that's why my idea is to use in game scenes where player
+can actually play as previous generations and see the scene from first point
+perspective, also I really like point cloud technique to show some holographic
+black and white scenes. In combination it could be really good gameplay
+concept.
+
+First you enter the cave, you deal with the mercenaries, you dig
+deeper, find entrance to ancient temple underground, find linking port to see
+the past, see the beginning of a scene in a point cloud, enter the scene as a
+protagonist and receive information and lore by being teleported to the past.
+Similar technique is used in Far Cry 4 when the player gets teleported to
+Shangri-La and move around as completely different person, with different
+gameplay mechanics and equipment. (For me personally it was quite a bit of a
+shock realising that devs really went that far and compressed full fledged game
+into the game. Only then I realised that it was actually a preface for their
+next game Far Cry Primal). The main goal of this approach is not to overload
+the player with information and other hard to grasp things instead we give the
+player the opportunity to interact and explore different world which is filled
+with lore and story, and will help to unravel the answers to the main problem -
+the two suns collision. Main concept behind all of this is to use the technique
+called "show don't tell", most of the scene will be like a silent movie, it
+will show the scenes, show the solutions, show actions, show characters, the
+dialogue and text should be minimized or even completely removed, probably only
+voiced lines and subtitles will be preserved. Also this caverns will not
+require player to pass them one by one in relative order, in contrary, it will
+be possible advance in random order and even skip some. It's up to player if
+they decide to take their time and find out about lore, or just simply chill in
+game and have fun playing or enjoying atmosphere.
+
+## Quasi-lore
+
+Other than this giant underground cavern systems practically filled with lore,
+there will be smaller locations under and above the ground which will show the
+architecture and art of ancient civilizations. Just as in real world, you won't
+understand the meaning or purpose of this things however it will match with
+once found underground. Also there will be not one but several types of art and
+structures which will hint on different civilizations on the planet existing
+hand in hand. Main idea of this buildings is to serve the hideout places for
+outlaw bands and the main field of war for the player. It will not mean
+anything to the player until they actually start the story investigations.
+Similar to Minecraft where you simply don't have any point on what is happening
+in the world, who are pillagers, villagers, enderman and ender dragon, why
+there is a zombies, why there is a creeper wall paintings in desert temples and
+so on. I really like this approach and want to incorporate similar techniques
+n this games.
 
 ## Soundtrack and sound design
 
@@ -311,7 +383,20 @@ First thing first: everything should be configurable. That is the rule of
 thumb, if your game has an action which cannot be assigned to keybinding
 it is already bad trait. 
 
-Next is context. One key should serve more than one purpose in different contexts, it is obvious thing but sometimes devs tend to forget that (Sea of Thieves). Red Dead Redemption show really good example of context keybinding usage and its variability, the only thing that I don't really like is the need to hold the button to be able to perform certain actions (e.g. horse management and inventory). We should leverage the keyboard and mouse abilities and add more keybindings for actions like: using items, calling bots, managing party and so on, it is really not that hard to remember couple combinations especially if they are unified and widely used. Also there will be no pause in a game menus (except system, book UI and console) so it is crucial to be able to quickly swap items, use consumable, scan surroundings or call for bots. In order to balance the amount of buttons on keyboard vs gamepad the context and modal system must be implemented. And that's where the HUD pop up menus and wheels are really useful.
+Next is context. One key should serve more than one purpose in different
+contexts, it is obvious thing but sometimes devs tend to forget that (Sea of
+Thieves). Red Dead Redemption show really good example of context keybinding
+usage and its variability, the only thing that I don't really like is the need
+to hold the button to be able to perform certain actions (e.g. horse management
+and inventory). We should leverage the keyboard and mouse abilities and add
+more keybindings for actions like: using items, calling bots, managing party
+and so on, it is really not that hard to remember couple combinations
+especially if they are unified and widely used. Also there will be no pause in
+a game menus (except system, book UI and console) so it is crucial to be able
+to quickly swap items, use consumable, scan surroundings or call for bots. In
+order to balance the amount of buttons on keyboard vs gamepad the context and
+modal system must be implemented. And that's where the HUD pop up menus and
+wheels are really useful.
 
 ## Small details and general atmosphere
 
@@ -320,4 +405,5 @@ Next is context. One key should serve more than one purpose in different context
 ## Notes to expand
 
  - Point cloud, weighted Voronoi stippling, dithering (some cyberspace lore stuff)
+ - Cooperative, multiplayer, balancing of players attributes and attributes of enemies
 
