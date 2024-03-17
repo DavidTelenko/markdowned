@@ -67,6 +67,7 @@
 - [ ] | [Tate no Yuusha no Nariagari](https://myanimelist.net/anime/35790/Tate_no_Yuusha_no_Nariagari)
 - [ ] | [Cyberpunk](https://myanimelist.net/anime/42310/Cyberpunk__Edgerunners)
 - [ ] | [Kimagure Orange Road](https://myanimelist.net/anime/1087/Kimagure_Orange%E2%98%86Road)
+- [ ] | [Hellsing](https://myanimelist.net/anime/270/Hellsing)
 - [ ] | [Noragami](https://myanimelist.net/anime/20507/Noragami)
 - [ ] | [Boku no Hero Academia (My Hero Academia)](https://myanimelist.net/anime/31964/Boku_no_Hero_Academia)
 - [x] | [Oshi no Ko](https://myanimelist.net/anime/52034/Oshi_no_Ko)[1]
