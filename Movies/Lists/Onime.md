@@ -25,6 +25,7 @@
 - [ ] | [Attack on Titan](https://myanimelist.net/anime/16498/Shingeki_no_Kyojin)
 - [ ] | [Demon Slayer: Kimetsu no Yaiba](https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba)
 - [ ] | [One Piece](https://myanimelist.net/anime/21/One_Piece)
+- [ ] | [Shangri-La Frontier](https://myanimelist.net/anime/52347/Shangri-La_Frontier__Kusoge_Hunter_Kamige_ni_Idoman_to_su)
 - [ ] | [Jigokuraku](https://myanimelist.net/anime/46569/Jigokuraku)
 - [ ] | [Vanitas no Carte](https://myanimelist.net/anime/46569/Jigokuraku)
 - [ ] | [Ao no Exorcist](https://myanimelist.net/anime/9919/Ao_no_Exorcist)
