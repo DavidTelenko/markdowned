@@ -38,9 +38,9 @@ features would probably include less power and abilities with more thought
 process and planning. You are not the most capable nor talented however you
 have a lot of experience and knowledge. You a free to choose your own path and
 do completely different from an archetype initially built into the character.
-  You can became merchant and earn money, you can became criminal, rob and
-  kill, you can integrate into society of a big cities, you can live solitary
-  life.
+You can became merchant and earn money, you can became criminal, rob and
+kill, you can integrate into society of a big cities, you can live solitary
+life.
 
 ## Gameplay
 
@@ -51,11 +51,11 @@ planning. Main character has no actual final goal or target, however it has
 general missions and random (or not so random) encounters. The gameplay loop is
 something along this lines:
 
-  - Receive bounty mission in missives / from notice board / from npc.
-  - Start planning and investigating about the general location and traits of
-    outlaw.
-  - Manage resources and needs of character.
-  - Seek plan and destroy / capture target, loot / capture / free outpost.
+- Receive bounty mission in missives / from notice board / from npc.
+- Start planning and investigating about the general location and traits of
+  outlaw.
+- Manage resources and needs of character.
+- Seek plan and destroy / capture target, loot / capture / free outpost.
 
 This is the general route of character, most noticeable is full freedom and
 realism in the way mission can be finished: you can free outlaw, you can kill
@@ -71,13 +71,14 @@ you lose all ability to locate yourself other then up to you senses.
 ### Mechanics, advancement
 
 In order to complete your mission you can use several mechanics:
-  - **Obvious guns and blasters**
-  - **Paralyzing tech**: tranquilizers, shockers, lasso
-  - **Traps**: sand holes, quicksand machines, mimics
-  - **Grenades**: flash, smoke, molotov, cassette, mine, net, airstrike,
-    fireflies grenade
-  - **Turrets / bots**: auto-target, taunt, kamikaze, remotely controlled
-    fighter and eagle, shield-bots, fireflies, bugs
+
+- **Obvious guns and blasters**
+- **Paralyzing tech**: tranquilizers, shockers, lasso
+- **Traps**: sand holes, quicksand machines, mimics
+- **Grenades**: flash, smoke, molotov, cassette, mine, net, airstrike,
+  fireflies grenade
+- **Turrets / bots**: auto-target, taunt, kamikaze, remotely controlled
+  fighter and eagle, shield-bots, fireflies, bugs
 
 All of this items can be obtained from merchant and / or as a loot from the
 world. The important thing that i don't really like in games is consumables and
@@ -105,13 +106,14 @@ will not affect the gameplay and you won't need to complete several missions to
 unlock certain item that unlocks insane abilities and so on.
 
 Simple ideas on the perks that can be obtained from enemies and world are:
-  - Item that increases the capacity of bots under control
-  - Map of the area
-  - Lie detector (to certain degree)
-  - Recipe for molotov)
-  - Updated AI operating system for bots
-  - Sandstorm scanner
-  - Stealth cloak
+
+- Item that increases the capacity of bots under control
+- Map of the area
+- Lie detector (to certain degree)
+- Recipe for molotov)
+- Updated AI operating system for bots
+- Sandstorm scanner
+- Stealth cloak
 
 It is really important to balance those items well, hide them behind strong
 enemy bands, deep cavern monsters and other gameplay-wise interesting and
@@ -320,7 +322,7 @@ said receiving notification about low hp with voice on the background as the
 part of the audio system without too much intimidation could probably be nice
 and more appropriate in this kind of game even instead of UI elements. Also
 audio voices of your system and bots may be changeable and it would be nice
-feature to get the voice of any npc, record it and use it with your bot. 
+feature to get the voice of any npc, record it and use it with your bot.
 
 ## Interface
 
@@ -358,7 +360,7 @@ fingers placed onto `A` `W` `S` `D` keys). In my case it is really convenient
 to be able to move around menus using same keys I use to walk, and do other
 context actions with keys located around them. With addition of gamepad support
 it is way easier to comprehend the problem and use the very same code of menu
-actions for the keyboard and mouse players. 
+actions for the keyboard and mouse players.
 
 Speaking of the actual interface design it should be simple, monochrome and
 rounded. I know that it is a matter of taste, however I don't want to
@@ -381,7 +383,7 @@ it.
 
 First thing first: everything should be configurable. That is the rule of
 thumb, if your game has an action which cannot be assigned to keybinding
-it is already bad trait. 
+it is already bad trait.
 
 Next is context. One key should serve more than one purpose in different
 contexts, it is obvious thing but sometimes devs tend to forget that (Sea of
@@ -404,6 +406,5 @@ wheels are really useful.
 
 ## Notes to expand
 
- - Point cloud, weighted Voronoi stippling, dithering (some cyberspace lore stuff)
- - Cooperative, multiplayer, balancing of players attributes and attributes of enemies
-
+- Point cloud, weighted Voronoi stippling, dithering (some cyberspace lore stuff)
+- Cooperative, multiplayer, balancing of players attributes and attributes of enemies
