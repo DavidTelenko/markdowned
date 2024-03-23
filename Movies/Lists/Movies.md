@@ -37,6 +37,7 @@
  - The Martian
  - The Talented Mr. Ripley
  - The Unbearable Weight of Massive Talent
+ - Kiss Kiss Bang Bang
  - The Lovely Bones
  - Dune
  - American Psycho
