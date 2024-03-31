@@ -1,0 +1,81 @@
+# Game playlist
+
+- [ ] Alien: Isolation
+- [ ] Baldurs Gate 3
+- [ ] BioShock
+- [ ] Blasphemous
+- [ ] Bully: Scholarship Edition
+- [ ] Call of the Sea
+- [ ] Cossacks 3
+- [ ] Cuphead
+- [ ] Cyberpunk 2077
+- [ ] Dead Cells
+- [ ] Detroit: Become Human
+- [ ] Dishonored 2
+- [ ] Divinity: Original Sin
+- [ ] Do Not Feed the Monkeys
+- [ ] Doom Eternal
+- [ ] Far Changing Tides
+- [ ] Firewatch
+- [ ] Ghostrunner
+- [ ] Ghostrunner 2
+- [ ] Gothic 1 Classic
+- [ ] Gothic 2: Gold Classic
+- [ ] Gothic 3
+- [ ] Grand Theft Auto: IV
+- [ ] Hellblade: Senua's Sacrifice
+- [ ] Hollow Knight
+- [ ] Horizon: Zero Dawn
+- [ ] INSIDE
+- [ ] Just Cause 3
+- [ ] LIMBO
+- [ ] Loop Hero
+- [ ] Mafia
+- [ ] Mafia I
+- [ ] Mafia II
+- [ ] Mafia III
+- [ ] Magicka
+- [ ] Marver's Guardians of the Galaxy
+- [ ] Middle Earth Shadow of War
+- [ ] Mortal Combat X
+- [ ] NieR:Automata
+- [ ] Ori and the Blind Forest
+- [ ] Ori and the Will of the Wisps
+- [ ] Potion Craft
+- [ ] Prince of Persia: Sands of Time
+- [ ] S.T.A.L.K.E.R.: Call of Pripyat
+- [ ] S.T.A.L.K.E.R.: Clear Sky
+- [ ] S.T.A.L.K.E.R.: Shadow of Chernobyl
+- [ ] Sea of Theives
+- [ ] Shadow Tactic's: Aiko's Choice
+- [ ] Sleeping Dogs
+- [ ] Song of Conquest (co-op)
+- [ ] Subnautica
+- [ ] Subnautica: Below Zero
+- [ ] The Elder Scrolls III: Morrowind
+- [ ] The Elder Scrolls IV: Oblivion
+- [ ] The Long Dark
+- [ ] The Sims 3
+- [ ] The Vanishing of Ethan Carter
+- [x] Disco Elysium
+- [x] Dishonored
+- [x] Divinity: Original Sin 2
+- [x] Enderal: Forgotten Stories
+- [x] Far 3 (3)
+- [x] Far 4 (2)
+- [x] Far Lone Sails
+- [x] Grand Theft Auto: III
+- [x] Grand Theft Auto: Liberty City Stories
+- [x] Grand Theft Auto: San Andreas
+- [x] Grand Theft Auto: V
+- [x] Grand Theft Auto: Vice City
+- [x] Graveyard Keeper
+- [x] Magicka 2
+- [x] Pilgrims
+- [x] Prince of Persia: The Two Thrones (3)
+- [x] Prince of Persia: Warrir Within (4)
+- [x] Stardew Valley
+- [x] Terraria
+- [x] The Elder Scrolls V: Skyrim (Vanilla, RFAB) (15)
+- [x] The Survivalist
+- [x] The Witcher 3: Wild Hunt

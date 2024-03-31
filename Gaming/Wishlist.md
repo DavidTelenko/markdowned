@@ -1,12 +1,15 @@
-- [x] Baldur's Gate 3
-- [x] Horizon Zero Dawn
-- [ ] Horizon Forbidden West
-- [ ] Elden Ring
+# Game wishlist
+
 - [ ] Dark Souls 3
+- [ ] Dragon Dogma 2
+- [ ] Elden Ring
+- [ ] Fears to Fathom
+- [ ] God of War
+- [ ] Horizon Forbidden West
 - [ ] Kenshi
 - [ ] Sekiro: Shadows Die Twice
-- [x] Hollow Knight
-- [ ] Nier: Automata
-- [ ] God of War
 - [ ] Spider man
-- [ ] Fears to Fathom
+- [x] Baldur's Gate 3
+- [x] Hollow Knight
+- [x] Horizon Zero Dawn
+- [x] Nier: Automata
