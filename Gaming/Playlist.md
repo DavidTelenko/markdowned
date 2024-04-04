@@ -16,7 +16,6 @@
 - [ ] Do Not Feed the Monkeys
 - [ ] Doom Eternal
 - [ ] Far Changing Tides
-- [ ] Firewatch
 - [ ] Ghostrunner
 - [ ] Ghostrunner 2
 - [ ] Gothic 1 Classic
@@ -64,6 +63,7 @@
 - [x] Far 3 (3)
 - [x] Far 4 (2)
 - [x] Far Lone Sails
+- [x] Firewatch
 - [x] Grand Theft Auto: III
 - [x] Grand Theft Auto: Liberty City Stories
 - [x] Grand Theft Auto: San Andreas
