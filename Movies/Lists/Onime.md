@@ -7,12 +7,16 @@
 - [x] | [Fullmetal Alchemist](https://myanimelist.net/anime/121/Fullmetal_Alchemist)
 - [x] | [Jobless Reincarnation](https://myanimelist.net/anime/39535/Mushoku_Tensei__Isekai_Ittara_Honki_Dasu)[1]
 - [x] | [Jobless Reincarnation](https://myanimelist.net/anime/39535/Mushoku_Tensei__Isekai_Ittara_Honki_Dasu)[2]
+- [ ] | [Jobless Reincarnation](https://myanimelist.net/anime/39535/Mushoku_Tensei__Isekai_Ittara_Honki_Dasu)[ ]
 - [x] | [Heion Sedai no Idaten-tachi](https://myanimelist.net/anime/42625/Heion_Sedai_no_Idaten-tachi)
+- [ ] | [Paranoia Agent](https://myanimelist.net/anime/323/Mousou_Dairinin/)
 - [ ] | [Goblin Slayer: Goblin's Crown](https://myanimelist.net/anime/39576/Goblin_Slayer__Goblins_Crown)
 - [x] | [Tensei shitara Slime Datta Ken](https://myanimelist.net/anime/37430/Tensei_shitara_Slime_Datta_Ken/)[1]
 - [x] | [Tensei shitara Slime Datta Ken](https://myanimelist.net/anime/37430/Tensei_shitara_Slime_Datta_Ken/)[2]
+- [ ] | [Tensei shitara Slime Datta Ken](https://myanimelist.net/anime/37430/Tensei_shitara_Slime_Datta_Ken/)[3]
 - [ ] | [No Game No Life (No Game, No Life)](https://myanimelist.net/anime/19815/No_Game_No_Life)
 - [ ] | [Dororo](https://myanimelist.net/anime/37520/Dororo?q=dororo&cat=anime)
+- [ ] | [Kaiju No. 8](https://myanimelist.net/anime/52588/Kaijuu_8-gou)
 - [ ] | [Undead Unluck](https://myanimelist.net/anime/52741/Undead_Unluck)
 - [ ] | [Gintama](https://myanimelist.net/anime/918/Gintama/)
 - [ ] | [Vinland Saga](https://myanimelist.net/anime/37521/Vinland_Saga)
