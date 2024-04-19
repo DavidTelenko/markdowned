@@ -1,4 +1,5 @@
 I have the following macro to create a struct:
+
 ```c
 #define CREATE_MATRIX(dtype, rows, cols, data) { \
     .rows = rows,                                \
@@ -9,6 +10,7 @@ I have the following macro to create a struct:
 ```
 
 The structure looks like this:
+
 ```c
 typedef struct {
     size_t rows;
@@ -19,11 +21,13 @@ typedef struct {
 ```
 
 Then i use this macro to create a struct object like this:
+
 ```c
 const matrix2 m = CREATE_MATRIX(float, 5, 6, &data);
 ```
 
-The error i receive is the following: 
+The error i receive is the following:
+
 ```
 <source>: In function 'main':
 <source>:80:44: error: expected identifier before numeric constant
@@ -43,7 +47,7 @@ The error i receive is the following:
       |                                                ^
 <source>:80:23: note: in expansion of macro 'CREATE_MATRIX'
    80 |     const matrix2 m = CREATE_MATRIX(float, 5, 6, &data);
-      |    
+      |
 ```
 
 How to fix this?
@@ -86,4 +90,3 @@ You're correct, I apologize for the confusion. The issue was indeed caused by th
 <hr class="__chatgpt_plugin">
 
 role::user
-
