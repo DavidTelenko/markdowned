@@ -1,105 +1,105 @@
 # Series
 
-- [x] | [Monster](https://myanimelist.net/anime/19/Monster?q=Monster&cat=anime)
-- [ ] | [Sousou no Frieren (Frieren: Beyond Journey's End)](https://myanimelist.net/anime/52991/Sousou_no_Frieren)
-- [ ] | [Cowboy Bebop](https://myanimelist.net/manga/173/Cowboy_Bebop?q=Cowboy%20Bebop&cat=manga)
-- [ ] | [Fullmetal Alchemist: Brotherhood](https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood)
-- [x] | [Fullmetal Alchemist](https://myanimelist.net/anime/121/Fullmetal_Alchemist)
-- [x] | [Jobless Reincarnation](https://myanimelist.net/anime/39535/Mushoku_Tensei__Isekai_Ittara_Honki_Dasu)[1]
-- [x] | [Jobless Reincarnation](https://myanimelist.net/anime/39535/Mushoku_Tensei__Isekai_Ittara_Honki_Dasu)[2]
-- [ ] | [Jobless Reincarnation](https://myanimelist.net/anime/39535/Mushoku_Tensei__Isekai_Ittara_Honki_Dasu)[ ]
-- [x] | [Heion Sedai no Idaten-tachi](https://myanimelist.net/anime/42625/Heion_Sedai_no_Idaten-tachi)
-- [ ] | [Paranoia Agent](https://myanimelist.net/anime/323/Mousou_Dairinin/)
-- [ ] | [Goblin Slayer: Goblin's Crown](https://myanimelist.net/anime/39576/Goblin_Slayer__Goblins_Crown)
-- [x] | [Tensei shitara Slime Datta Ken](https://myanimelist.net/anime/37430/Tensei_shitara_Slime_Datta_Ken/)[1]
-- [x] | [Tensei shitara Slime Datta Ken](https://myanimelist.net/anime/37430/Tensei_shitara_Slime_Datta_Ken/)[2]
-- [ ] | [Tensei shitara Slime Datta Ken](https://myanimelist.net/anime/37430/Tensei_shitara_Slime_Datta_Ken/)[3]
-- [ ] | [No Game No Life (No Game, No Life)](https://myanimelist.net/anime/19815/No_Game_No_Life)
-- [ ] | [Dororo](https://myanimelist.net/anime/37520/Dororo?q=dororo&cat=anime)
-- [ ] | [Kaiju No. 8](https://myanimelist.net/anime/52588/Kaijuu_8-gou)
-- [ ] | [Undead Unluck](https://myanimelist.net/anime/52741/Undead_Unluck)
-- [ ] | [Gintama](https://myanimelist.net/anime/918/Gintama/)
-- [ ] | [Vinland Saga](https://myanimelist.net/anime/37521/Vinland_Saga)
-- [ ] | [86](https://myanimelist.net/anime/41457/86)
-- [ ] | [Mo Dao Zu Shi (The Founder of Diabolism)](https://myanimelist.net/anime/37208/Mo_Dao_Zu_Shi)
-- [ ] | [DanDaDan](https://myanimelist.net/anime/57334/Dandadan)
-- [ ] | [City Hunter](https://myanimelist.net/anime/1473/City_Hunter_91)
-- [x] | [Jujutsu Kaisen](https://myanimelist.net/anime/40748/Jujutsu_Kaisen_TV)[1]
-- [ ] | [Jujutsu Kaisen](https://myanimelist.net/anime/51009/Jujutsu_Kaisen_2nd_Season)[2]
-- [ ] | [Attack on Titan](https://myanimelist.net/anime/16498/Shingeki_no_Kyojin)
-- [ ] | [Demon Slayer: Kimetsu no Yaiba](https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba)
-- [ ] | [One Piece](https://myanimelist.net/anime/21/One_Piece)
-- [ ] | [Shangri-La Frontier](https://myanimelist.net/anime/52347/Shangri-La_Frontier__Kusoge_Hunter_Kamige_ni_Idoman_to_su)
-- [ ] | [Jigokuraku](https://myanimelist.net/anime/46569/Jigokuraku)
-- [ ] | [Vanitas no Carte](https://myanimelist.net/anime/46569/Jigokuraku)
-- [ ] | [Ao no Exorcist](https://myanimelist.net/anime/9919/Ao_no_Exorcist)
-- [ ] | [Kusuriya no Hitorigoto](https://myanimelist.net/manga/107562/Kusuriya_no_Hitorigoto)
-- [ ] | [Zom 100: Zombie ni Naru made ni Shitai 100 no Koto](https://myanimelist.net/anime/54112/Zom_100__Zombie_ni_Naru_made_ni_Shitai_100_no_Koto)
-- [ ] | [Mairimashita Iruma-kun](https://myanimelist.net/anime/39196/Mairimashita_Iruma-kun)
-- [ ] | [Kami no Tou](https://myanimelist.net/anime/40221/Kami_no_Tou)
-- [ ] | [Mob Psycho 100](https://myanimelist.net/anime/32182/Mob_Psycho_100)
-- [ ] | [Spy x Family](https://myanimelist.net/anime/50265/Spy_x_Family)
-- [x] | [One Punch Man](https://myanimelist.net/anime/30276/One_Punch_Man)[1]
-- [x] | [One Punch Man](https://myanimelist.net/anime/34134/One_Punch_Man_2nd_Season)[2]
-- [ ] | [Naruto](https://myanimelist.net/anime/20/Naruto)
-- [ ] | [Jojo's Bizzare Adventures](https://myanimelist.net/anime/14719/JoJo_no_Kimyou_na_Bouken_TV)
-- [ ] | [Bleach](https://myanimelist.net/anime/269/Bleach)
-- [ ] | [D.Gray-man](https://myanimelist.net/anime/1482/DGray-man)
-- [ ] | [Dr. Stone](https://myanimelist.net/anime/38691/Dr_Stone)
-- [ ] | [Soul Eater](https://myanimelist.net/anime/3588/Soul_Eater)
-- [ ] | [Kill la Kill](https://myanimelist.net/anime/18679/Kill_la_Kill)
-- [ ] | [Enen no Shouboutai (Fire Force)](https://myanimelist.net/anime/38671/Enen_no_Shouboutai)
-- [ ] | [Tengen Toppa Gurren Lagann (Gurren Lagann)](https://myanimelist.net/anime/2001/Tengen_Toppa_Gurren_Lagann)
-- [ ] | [Bungou Stray Dogs (Bungo Stray Dogs)](https://myanimelist.net/anime/31478/Bungou_Stray_Dogs)
-- [ ] | [Samurai Champloo](https://myanimelist.net/anime/205/Samurai_Champloo)
-- [ ] | [Ore dake Level Up na Ken](https://myanimelist.net/anime/52299/Ore_dake_Level_Up_na_Ken)
-- [ ] | [Evangelion: 1.0 You Are (Not) Alone](https://myanimelist.net/anime/2759/Evangelion__10_You_Are_Not_Alone)
-- [x] | [Hunter x Hunter](https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011)
-- [x] | [Death Note](https://myanimelist.net/anime/1535/Death_Note)
-- [x] | [Kenpuu Denki Berserk](https://myanimelist.net/anime/33/Kenpuu_Denki_Berserk)
-- [ ] | [Tokyo Revengers](https://myanimelist.net/anime/42249/Tokyo_Revengers)
-- [x] | [Ranking of Kings](https://myanimelist.net/anime/40834/Ousama_Ranking)[1]
-- [ ] | [Ranking of Kings](https://myanimelist.net/anime/40834/Ousama_Ranking)[2]
-- [ ] | [Yasuke](https://myanimelist.net/anime/43697/Yasuke)
-- [ ] | [Gyakkyou Burai Kaiji](https://myanimelist.net/anime/3002/Gyakkyou_Burai_Kaiji__Ultimate_Survivor)
-- [ ] | [Dimension W](https://myanimelist.net/anime/31163/Dimension_W)
-- [ ] | [The Seven Deadly Sins](https://myanimelist.net/anime/23755/Nanatsu_no_Taizai)
-- [ ] | [Tonari no Seki-kun](https://myanimelist.net/anime/18139/Tonari_no_Seki-kun/)
-- [ ] | [Hell's Paradise](https://myanimelist.net/anime/46569/Jigokuraku)
-- [ ] | [Nana](https://myanimelist.net/manga/28/Nana)
-- [ ] | [Overlord](https://myanimelist.net/anime/29803/Overlord)
-- [ ] | [Great Teacher Onizuka](https://myanimelist.net/anime/245/Great_Teacher_Onizuka)
-- [ ] | [Tate no Yuusha no Nariagari](https://myanimelist.net/anime/35790/Tate_no_Yuusha_no_Nariagari)
-- [ ] | [Cyberpunk](https://myanimelist.net/anime/42310/Cyberpunk__Edgerunners)
-- [ ] | [Kimagure Orange Road](https://myanimelist.net/anime/1087/Kimagure_Orange%E2%98%86Road)
-- [ ] | [Hellsing](https://myanimelist.net/anime/270/Hellsing)
-- [ ] | [Noragami](https://myanimelist.net/anime/20507/Noragami)
-- [ ] | [Boku no Hero Academia (My Hero Academia)](https://myanimelist.net/anime/31964/Boku_no_Hero_Academia)
-- [x] | [Oshi no Ko](https://myanimelist.net/anime/52034/Oshi_no_Ko)[1]
-- [ ] | [Oshi no Ko](https://myanimelist.net/anime/52034/Oshi_no_Ko)[2]
-- [x] | [Kage no Jitsuryokusha ni Naritakute!](https://myanimelist.net/anime/48316/Kage_no_Jitsuryokusha_ni_Naritakute)[1]
-- [ ] | [Kage no Jitsuryokusha ni Naritakute!](https://myanimelist.net/anime/48316/Kage_no_Jitsuryokusha_ni_Naritakute)[2]
-- [ ] | [Tengoku Daimakyou](https://myanimelist.net/anime/53393/Tengoku_Daimakyou)
-- [ ] | [Bastard!! Ankoku no Hakaishin (Bastard!!)](https://myanimelist.net/anime/404/Bastard_Ankoku_no_Hakaishin)
-- [ ] | [Lodoss-tou Senki (Record of Lodoss War)](https://myanimelist.net/anime/207/Lodoss-tou_Senki)
-- [ ] | [Akame ga Kill!](https://myanimelist.net/anime/22199/Akame_Ga_Kill)
+- [x] [Monster](https://myanimelist.net/anime/19/Monster?q=Monster&cat=anime)
+- [ ] [Sousou no Frieren (Frieren: Beyond Journey's End)](https://myanimelist.net/anime/52991/Sousou_no_Frieren)
+- [ ] [Cowboy Bebop](https://myanimelist.net/manga/173/Cowboy_Bebop?q=Cowboy%20Bebop&cat=manga)
+- [ ] [Fullmetal Alchemist: Brotherhood](https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood)
+- [x] [Fullmetal Alchemist](https://myanimelist.net/anime/121/Fullmetal_Alchemist)
+- [x] [Jobless Reincarnation](https://myanimelist.net/anime/39535/Mushoku_Tensei__Isekai_Ittara_Honki_Dasu)[1]
+- [x] [Jobless Reincarnation](https://myanimelist.net/anime/39535/Mushoku_Tensei__Isekai_Ittara_Honki_Dasu)[2]
+- [ ] [Jobless Reincarnation](https://myanimelist.net/anime/39535/Mushoku_Tensei__Isekai_Ittara_Honki_Dasu)[ ]
+- [x] [Heion Sedai no Idaten-tachi](https://myanimelist.net/anime/42625/Heion_Sedai_no_Idaten-tachi)
+- [ ] [Paranoia Agent](https://myanimelist.net/anime/323/Mousou_Dairinin/)
+- [ ] [Goblin Slayer: Goblin's Crown](https://myanimelist.net/anime/39576/Goblin_Slayer__Goblins_Crown)
+- [x] [Tensei shitara Slime Datta Ken](https://myanimelist.net/anime/37430/Tensei_shitara_Slime_Datta_Ken/)[1]
+- [x] [Tensei shitara Slime Datta Ken](https://myanimelist.net/anime/37430/Tensei_shitara_Slime_Datta_Ken/)[2]
+- [ ] [Tensei shitara Slime Datta Ken](https://myanimelist.net/anime/37430/Tensei_shitara_Slime_Datta_Ken/)[3]
+- [ ] [No Game No Life (No Game, No Life)](https://myanimelist.net/anime/19815/No_Game_No_Life)
+- [ ] [Dororo](https://myanimelist.net/anime/37520/Dororo?q=dororo&cat=anime)
+- [ ] [Kaiju No. 8](https://myanimelist.net/anime/52588/Kaijuu_8-gou)
+- [ ] [Undead Unluck](https://myanimelist.net/anime/52741/Undead_Unluck)
+- [ ] [Gintama](https://myanimelist.net/anime/918/Gintama/)
+- [ ] [Vinland Saga](https://myanimelist.net/anime/37521/Vinland_Saga)
+- [ ] [86](https://myanimelist.net/anime/41457/86)
+- [ ] [Mo Dao Zu Shi (The Founder of Diabolism)](https://myanimelist.net/anime/37208/Mo_Dao_Zu_Shi)
+- [ ] [DanDaDan](https://myanimelist.net/anime/57334/Dandadan)
+- [ ] [City Hunter](https://myanimelist.net/anime/1473/City_Hunter_91)
+- [x] [Jujutsu Kaisen](https://myanimelist.net/anime/40748/Jujutsu_Kaisen_TV)[1]
+- [ ] [Jujutsu Kaisen](https://myanimelist.net/anime/51009/Jujutsu_Kaisen_2nd_Season)[2]
+- [ ] [Attack on Titan](https://myanimelist.net/anime/16498/Shingeki_no_Kyojin)
+- [ ] [Demon Slayer: Kimetsu no Yaiba](https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba)
+- [ ] [One Piece](https://myanimelist.net/anime/21/One_Piece)
+- [ ] [Shangri-La Frontier](https://myanimelist.net/anime/52347/Shangri-La_Frontier__Kusoge_Hunter_Kamige_ni_Idoman_to_su)
+- [ ] [Jigokuraku](https://myanimelist.net/anime/46569/Jigokuraku)
+- [ ] [Vanitas no Carte](https://myanimelist.net/anime/46569/Jigokuraku)
+- [ ] [Ao no Exorcist](https://myanimelist.net/anime/9919/Ao_no_Exorcist)
+- [ ] [Kusuriya no Hitorigoto](https://myanimelist.net/manga/107562/Kusuriya_no_Hitorigoto)
+- [ ] [Zom 100: Zombie ni Naru made ni Shitai 100 no Koto](https://myanimelist.net/anime/54112/Zom_100__Zombie_ni_Naru_made_ni_Shitai_100_no_Koto)
+- [ ] [Mairimashita Iruma-kun](https://myanimelist.net/anime/39196/Mairimashita_Iruma-kun)
+- [ ] [Kami no Tou](https://myanimelist.net/anime/40221/Kami_no_Tou)
+- [ ] [Mob Psycho 100](https://myanimelist.net/anime/32182/Mob_Psycho_100)
+- [ ] [Spy x Family](https://myanimelist.net/anime/50265/Spy_x_Family)
+- [x] [One Punch Man](https://myanimelist.net/anime/30276/One_Punch_Man)[1]
+- [x] [One Punch Man](https://myanimelist.net/anime/34134/One_Punch_Man_2nd_Season)[2]
+- [ ] [Naruto](https://myanimelist.net/anime/20/Naruto)
+- [ ] [Jojo's Bizzare Adventures](https://myanimelist.net/anime/14719/JoJo_no_Kimyou_na_Bouken_TV)
+- [ ] [Bleach](https://myanimelist.net/anime/269/Bleach)
+- [ ] [D.Gray-man](https://myanimelist.net/anime/1482/DGray-man)
+- [ ] [Dr. Stone](https://myanimelist.net/anime/38691/Dr_Stone)
+- [ ] [Soul Eater](https://myanimelist.net/anime/3588/Soul_Eater)
+- [ ] [Kill la Kill](https://myanimelist.net/anime/18679/Kill_la_Kill)
+- [ ] [Enen no Shouboutai (Fire Force)](https://myanimelist.net/anime/38671/Enen_no_Shouboutai)
+- [ ] [Tengen Toppa Gurren Lagann (Gurren Lagann)](https://myanimelist.net/anime/2001/Tengen_Toppa_Gurren_Lagann)
+- [ ] [Bungou Stray Dogs (Bungo Stray Dogs)](https://myanimelist.net/anime/31478/Bungou_Stray_Dogs)
+- [ ] [Samurai Champloo](https://myanimelist.net/anime/205/Samurai_Champloo)
+- [ ] [Ore dake Level Up na Ken](https://myanimelist.net/anime/52299/Ore_dake_Level_Up_na_Ken)
+- [ ] [Evangelion: 1.0 You Are (Not) Alone](https://myanimelist.net/anime/2759/Evangelion__10_You_Are_Not_Alone)
+- [x] [Hunter x Hunter](https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011)
+- [x] [Death Note](https://myanimelist.net/anime/1535/Death_Note)
+- [x] [Kenpuu Denki Berserk](https://myanimelist.net/anime/33/Kenpuu_Denki_Berserk)
+- [ ] [Tokyo Revengers](https://myanimelist.net/anime/42249/Tokyo_Revengers)
+- [x] [Ranking of Kings](https://myanimelist.net/anime/40834/Ousama_Ranking)[1]
+- [ ] [Ranking of Kings](https://myanimelist.net/anime/40834/Ousama_Ranking)[2]
+- [ ] [Yasuke](https://myanimelist.net/anime/43697/Yasuke)
+- [ ] [Gyakkyou Burai Kaiji](https://myanimelist.net/anime/3002/Gyakkyou_Burai_Kaiji__Ultimate_Survivor)
+- [ ] [Dimension W](https://myanimelist.net/anime/31163/Dimension_W)
+- [ ] [The Seven Deadly Sins](https://myanimelist.net/anime/23755/Nanatsu_no_Taizai)
+- [ ] [Tonari no Seki-kun](https://myanimelist.net/anime/18139/Tonari_no_Seki-kun/)
+- [ ] [Hell's Paradise](https://myanimelist.net/anime/46569/Jigokuraku)
+- [ ] [Nana](https://myanimelist.net/manga/28/Nana)
+- [ ] [Overlord](https://myanimelist.net/anime/29803/Overlord)
+- [ ] [Great Teacher Onizuka](https://myanimelist.net/anime/245/Great_Teacher_Onizuka)
+- [ ] [Tate no Yuusha no Nariagari](https://myanimelist.net/anime/35790/Tate_no_Yuusha_no_Nariagari)
+- [ ] [Cyberpunk](https://myanimelist.net/anime/42310/Cyberpunk__Edgerunners)
+- [ ] [Kimagure Orange Road](https://myanimelist.net/anime/1087/Kimagure_Orange%E2%98%86Road)
+- [ ] [Hellsing](https://myanimelist.net/anime/270/Hellsing)
+- [ ] [Noragami](https://myanimelist.net/anime/20507/Noragami)
+- [ ] [Boku no Hero Academia (My Hero Academia)](https://myanimelist.net/anime/31964/Boku_no_Hero_Academia)
+- [x] [Oshi no Ko](https://myanimelist.net/anime/52034/Oshi_no_Ko)[1]
+- [ ] [Oshi no Ko](https://myanimelist.net/anime/52034/Oshi_no_Ko)[2]
+- [x] [Kage no Jitsuryokusha ni Naritakute!](https://myanimelist.net/anime/48316/Kage_no_Jitsuryokusha_ni_Naritakute)[1]
+- [ ] [Kage no Jitsuryokusha ni Naritakute!](https://myanimelist.net/anime/48316/Kage_no_Jitsuryokusha_ni_Naritakute)[2]
+- [ ] [Tengoku Daimakyou](https://myanimelist.net/anime/53393/Tengoku_Daimakyou)
+- [ ] [Bastard!! Ankoku no Hakaishin (Bastard!!)](https://myanimelist.net/anime/404/Bastard_Ankoku_no_Hakaishin)
+- [ ] [Lodoss-tou Senki (Record of Lodoss War)](https://myanimelist.net/anime/207/Lodoss-tou_Senki)
+- [ ] [Akame ga Kill!](https://myanimelist.net/anime/22199/Akame_Ga_Kill)
 
 # Movies
 
 **Work in progress** [Hayao Miyazaki](https://myanimelist.net/people/1870/Hayao_Miyazaki?q=hayao&cat=person) movies list is not finished.
 
-- [x] | [Perfect Blue](https://myanimelist.net/anime/437/Perfect_Blue)
-- [x] | [Vampire Hunter D](https://myanimelist.net/anime/543/Vampire_Hunter_D_2000?q=vampire%20hunter%20d&cat=anime)
-- [ ] | [Suzume no Tojimari](https://myanimelist.net/anime/50594/Suzume_no_Tojimari)
-- [x] | [Sen to Chihiro no Kamikakushi](https://myanimelist.net/anime/199/Sen_to_Chihiro_no_Kamikakushi)
-- [x] | [Howl no Ugoku Shiro](https://myanimelist.net/anime/431/Howl_no_Ugoku_Shiro)
-- [ ] | [Mononoke Hime](https://myanimelist.net/anime/164/Mononoke_Hime)
-- [x] | [Tonari no Totoro](https://myanimelist.net/anime/523/Tonari_no_Totoro)
-- [x] | [Majo no Takkyuubin](https://myanimelist.net/anime/512/Majo_no_Takkyuubin)
-- [ ] | [Gake no Ue no Ponyo](https://myanimelist.net/anime/2890/Gake_no_Ue_no_Ponyo)
-- [x] | [Tenkuu no Shiro Laputa](https://myanimelist.net/anime/513/Tenkuu_no_Shiro_Laputa)
-- [x] | [Kaze no Tani no Nausicaä](https://myanimelist.net/anime/572/Kaze_no_Tani_no_Nausica%C3%A4)
-- [x] | [Mimi wo Sumaseba](https://myanimelist.net/anime/585/Mimi_wo_Sumaseba)
-- [x] | [Karigurashi no Arrietty](https://myanimelist.net/anime/7711/Karigurashi_no_Arrietty)
-- [x] | [Kaze Tachinu](https://myanimelist.net/anime/16662/Kaze_Tachinu)
-- [ ] | [Neko no Ongaeshi](https://myanimelist.net/anime/597/Neko_no_Ongaeshi)
+- [x] [Perfect Blue](https://myanimelist.net/anime/437/Perfect_Blue)
+- [x] [Vampire Hunter D](https://myanimelist.net/anime/543/Vampire_Hunter_D_2000?q=vampire%20hunter%20d&cat=anime)
+- [ ] [Suzume no Tojimari](https://myanimelist.net/anime/50594/Suzume_no_Tojimari)
+- [x] [Sen to Chihiro no Kamikakushi](https://myanimelist.net/anime/199/Sen_to_Chihiro_no_Kamikakushi)
+- [x] [Howl no Ugoku Shiro](https://myanimelist.net/anime/431/Howl_no_Ugoku_Shiro)
+- [ ] [Mononoke Hime](https://myanimelist.net/anime/164/Mononoke_Hime)
+- [x] [Tonari no Totoro](https://myanimelist.net/anime/523/Tonari_no_Totoro)
+- [x] [Majo no Takkyuubin](https://myanimelist.net/anime/512/Majo_no_Takkyuubin)
+- [ ] [Gake no Ue no Ponyo](https://myanimelist.net/anime/2890/Gake_no_Ue_no_Ponyo)
+- [x] [Tenkuu no Shiro Laputa](https://myanimelist.net/anime/513/Tenkuu_no_Shiro_Laputa)
+- [x] [Kaze no Tani no Nausicaä](https://myanimelist.net/anime/572/Kaze_no_Tani_no_Nausica%C3%A4)
+- [x] [Mimi wo Sumaseba](https://myanimelist.net/anime/585/Mimi_wo_Sumaseba)
+- [x] [Karigurashi no Arrietty](https://myanimelist.net/anime/7711/Karigurashi_no_Arrietty)
+- [x] [Kaze Tachinu](https://myanimelist.net/anime/16662/Kaze_Tachinu)
+- [ ] [Neko no Ongaeshi](https://myanimelist.net/anime/597/Neko_no_Ongaeshi)
