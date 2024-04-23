@@ -17,11 +17,11 @@
       [ansible](https://docs.ansible.com/ansible/latest/getting_started/index.html)
       and try automate fedora and windows installations, and also check chezmoi
 
-- [ ] Check all of this
-      [plugins](https://github.com/ThePrimeagen/init.lua/blob/master/lua/theprimeagen/lazy/snippets.lua)
+- [x] Check all of this
+      [plugins](https://github.com/ThePrimeagen/init.lua)
       and all of this [plugins](https://github.com/echasnovski/mini.nvim)
 
-- [ ] Apply and finish this
+- [x] Apply and finish this
       [task](https://server.think-cell.com/portal/en/recruitingtest.srf?sid=vm8mXnrhp1Kmw_jU2KsEtpdQOE267EMqWVfVzJ-nBItKyVxwERowX_Bhw1gD6Q5D)
 
 - [ ] Try git reuse recorded resolution
