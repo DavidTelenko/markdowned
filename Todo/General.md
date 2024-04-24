@@ -6,8 +6,13 @@
 - [ ] Check [this](https://fly.io/dist-sys/) and try to finish all tasks using
       rust/go
 
-- [ ] Finish [python
+- [x] Finish [python
       course](https://access.epam.com/auth/realms/plusx/protocol/openid-connect/auth?client_id=learnId&redirect_uri=https://elearn.epam.com/auth/complete/prod-elearn-iam/&state=XRu5HfMQQ9WfiRlnChVbwGH7KU1pVUyS&response_type=code&nonce=JTap4acsPlfyVtD2jSHiQ1Vi5wYtwUIbjgyTIBnEAxE2gg9QfP0nankWLB5IouBr&scope=openid+profile+email)
+
+- [ ] Finish [python
+      course 2](https://elearn.epam.com/courses/course-v1:EPAM+Python_TA+0122/courseware/39eded415f5e4491af9453184c309a4f/3769b70cafbb4a5a888fd7b81d268eed/)
+
+- [ ] Check [sway window manager](https://swaywm.org/)
 
 - [ ] Read this
       [book](file:///C:/Users/User/scoop/persist/rustup-gnu/.rustup/toolchains/stable-x86_64-pc-windows-gnu/share/doc/rust/html/book/ch04-01-what-is-ownership.html)
