@@ -1,5 +1,7 @@
 # General TODO
 
+- [ ] Watch [this series](https://www.youtube.com/watch?v=tSodBEAJz9Y&list=PLF1hDMPPRqGxpYdo0ctaa7MxfOi9vjs1u&pp=iAQB)
+
 - [ ] Check all unsafe gnome extensions, use this command to get this done
       `gsettings set org.gnome.shell disable-extension-version-validation true`
 
