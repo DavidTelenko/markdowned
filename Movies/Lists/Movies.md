@@ -1,86 +1,86 @@
 # Seen
 
- - Groundhog Day (1993) (it was perfect down to every last minute detail) [10/10]
- - Alita: Battle Angel (2019) (interesting) [7/10]
- - Catch Me If You Can (2002) (good one, classic plot, interesting, true story) [9/10]
- - Titanic (1997) (weird, why they did not float on the same plank?) [8/10]
- - Passengers (2016) (sentimental, conceptually interesting) [7/10]
- - Man of steel (2013) (default) [6/10]
- - Blade runner (1982, 2017) (deep, conceptually interesting) [8/10]
- - The Ballad of Buster Scruggs (2018) (out of the box, death vibes, meditative) [8/10]
- - No Country for Old Men (2007) (box out of the box, deeper meaning, meditative) [8/10]
- - The Big Lebowski (1998) (deeper meaning?, meditative) [7/10]
- - Burn After Reading (2008) (chaotic, deeper meaning absent) [7/10]
- - Interstellar (2014) (based, sci-fi'ish, interesting) [9/10]
- - Green Book (2018) (racism problems, kind, nice) [9/10]
- - The Banker (2020) (racism problems, kind, sneaky, adventurous) [8/10]
- - Ocean's 11 (2001) (nice one, adventurous, classic plot) [7/10]
- - Jerry & Marge Go Large (2022) (kind, classic plot, adventurous) [8/10]
- - Barbie (2023) (Weird, cringe, too deep) [7?/10]
- - Once Upon a Time in Hollywood (2019) (chaotic, weird, meditative) [9/10]
- - Pulp Fiction (1994) (chaotic, weird, flashy, heroine) [8/10]
- - Django Unchained (2012) (flashy, western, revenge) [8/10]
- - Forrest Gump (1994) (meditative, lively, magical, glass eaten) [9/10]
- - Fast and Furious (2001) (racing?) [8/10]
- - Mystic River (2003) (murder?, meditative) [7/10]
- - Boss level (2021) (Huh?, groundhog day with kill bill and gaming a bit) [6/10]
- - Matrix (1999, 2003) (interesting at the time of creation) [7/10]
- - Terminator (1984, 1991, 2003) (based, interesting at the time of creation) [8/10]
- - The Lord Of The Rings (2001, 2002, 2003) (based fantasy, no plot holes, no cringe) [10/10]
- - The Hobbit (2012, 2013, 2014) (based fantasy, adventurous) [9/10]
- - Harry Potter (2001, 2002, 2004, 2005, 2007, 2009, 2010, 2011) (based with little pinches of cringe here and there) [9/10]
-
+- Groundhog Day (1993) (it was perfect down to every last minute detail) [10/10]
+- Alita: Battle Angel (2019) (interesting) [7/10]
+- Catch Me If You Can (2002) (good one, classic plot, interesting, true story) [9/10]
+- Titanic (1997) (weird, why they did not float on the same plank?) [8/10]
+- Passengers (2016) (sentimental, conceptually interesting) [7/10]
+- Man of steel (2013) (default) [6/10]
+- Blade runner (1982, 2017) (deep, conceptually interesting) [8/10]
+- The Ballad of Buster Scruggs (2018) (out of the box, death vibes, meditative) [8/10]
+- No Country for Old Men (2007) (box out of the box, deeper meaning, meditative) [8/10]
+- The Big Lebowski (1998) (deeper meaning?, meditative) [7/10]
+- Burn After Reading (2008) (chaotic, deeper meaning absent) [7/10]
+- Interstellar (2014) (based, sci-fi'ish, interesting) [9/10]
+- Green Book (2018) (racism problems, kind, nice) [9/10]
+- The Banker (2020) (racism problems, kind, sneaky, adventurous) [8/10]
+- Ocean's 11 (2001) (nice one, adventurous, classic plot) [7/10]
+- Jerry & Marge Go Large (2022) (kind, classic plot, adventurous) [8/10]
+- Barbie (2023) (Weird, cringe, too deep) [7?/10]
+- Once Upon a Time in Hollywood (2019) (chaotic, weird, meditative) [9/10]
+- Pulp Fiction (1994) (chaotic, weird, flashy, heroine) [8/10]
+- Django Unchained (2012) (flashy, western, revenge) [8/10]
+- Forrest Gump (1994) (meditative, lively, magical, glass eaten) [9/10]
+- Fast and Furious (2001) (racing?) [8/10]
+- Mystic River (2003) (murder?, meditative) [7/10]
+- Boss level (2021) (Huh?, groundhog day with kill bill and gaming a bit) [6/10]
+- Matrix (1999, 2003) (interesting at the time of creation) [7/10]
+- Terminator (1984, 1991, 2003) (based, interesting at the time of creation) [8/10]
+- The Lord Of The Rings (2001, 2002, 2003) (based fantasy, no plot holes, no cringe) [10/10]
+- The Hobbit (2012, 2013, 2014) (based fantasy, adventurous) [9/10]
+- Harry Potter (2001, 2002, 2004, 2005, 2007, 2009, 2010, 2011) (based with little pinches of cringe here and there) [9/10]
 
 # To watch
 
- - Borat
- - The Martian
- - The Talented Mr. Ripley
- - The Unbearable Weight of Massive Talent
- - Kiss Kiss Bang Bang
- - The Lovely Bones
- - Dune
- - American Psycho
- - Kill Bill: Vol. 1
- - Kill Bill: Vol. 2
- - Inglorious Bastards
- - Trueman Show
- - The Wolf of Wall Street
- - The Shawshank Redemption
- - A Bronx Tale
- - Shutter Island
- - Fight Club
- - Abnormalities
- - The Row
- - Kaiji: Final Game
- - Movie 43
- - Inception
- - What Just Happened
- - J. Edgar
- - The Revenant
- - Cube
- - Seven Psychopaths
- - V for Vendetta
- - Zoolander
- - The Voyage of Doctor Dolittle
- - Johnny English Reborn
- - The Day the Earth Stood Still
- - Free Guy
- - The Cloverfield Paradox
- - Openhaimer
- - Hunter Killer
- - Insidious
- - 1408
- - Charlie and the Chocolate Factory
- - Willy Wonka & the Chocolate Factory
- - The Onion Movie
- - From Paris with Love
- - 57 Seconds
- - Hereditary
- - Chronicle
- - Diary of a Wimpy Kid
- - The Belko Experiment
- - Killers of the Flower Moon
- - Napoleon
- - Wonka
- - Gisaengchung
+- Borat
+- The Martian
+- The Talented Mr. Ripley
+- The Unbearable Weight of Massive Talent
+- Kiss Kiss Bang Bang
+- The Lovely Bones
+- Dune
+- American Psycho
+- Kill Bill: Vol. 1
+- Kill Bill: Vol. 2
+- Inglorious Bastards
+- Trueman Show
+- The Wolf of Wall Street
+- The Shawshank Redemption
+- The Italian Job
+- A Bronx Tale
+- Shutter Island
+- Fight Club
+- Abnormalities
+- The Row
+- Kaiji: Final Game
+- Movie 43
+- Inception
+- What Just Happened
+- J. Edgar
+- The Revenant
+- Cube
+- Seven Psychopaths
+- V for Vendetta
+- Zoolander
+- The Voyage of Doctor Dolittle
+- Johnny English Reborn
+- The Day the Earth Stood Still
+- Free Guy
+- The Cloverfield Paradox
+- Openhaimer
+- Hunter Killer
+- Insidious
+- 1408
+- Charlie and the Chocolate Factory
+- Willy Wonka & the Chocolate Factory
+- The Onion Movie
+- From Paris with Love
+- 57 Seconds
+- Hereditary
+- Chronicle
+- Diary of a Wimpy Kid
+- The Belko Experiment
+- Killers of the Flower Moon
+- Napoleon
+- Wonka
+- Gisaengchung
