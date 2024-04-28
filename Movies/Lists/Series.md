@@ -25,6 +25,7 @@ This is the list of series i'm watching, seen and wanna watch, also with thought
 - Dead Cells (Huh?)
 - Alchemy of the Souls (Something interesting?)
 - Succession
+- How I Met Your Mother
 
 # Seen
 
