@@ -41,6 +41,8 @@
 - [ ] [Spy x Family](https://myanimelist.net/anime/50265/Spy_x_Family)
 - [x] [One Punch Man](https://myanimelist.net/anime/30276/One_Punch_Man)[1]
 - [x] [One Punch Man](https://myanimelist.net/anime/34134/One_Punch_Man_2nd_Season)[2]
+- [ ] [Macross](https://myanimelist.net/anime/1088/Macross)
+- [ ] [Macross Plus](https://myanimelist.net/anime/474/Macross_Plus)
 - [ ] [Naruto](https://myanimelist.net/anime/20/Naruto)
 - [ ] [Jojo's Bizzare Adventures](https://myanimelist.net/anime/14719/JoJo_no_Kimyou_na_Bouken_TV)
 - [ ] [Bleach](https://myanimelist.net/anime/269/Bleach)
