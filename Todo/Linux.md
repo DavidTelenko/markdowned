@@ -8,7 +8,7 @@ The road to greatness.
 - [x] Desktop environment config (GNOME)
 - [ ] Window manager config [hint](https://github.com/Aylur/dotfiles/tree/main)
   - [ ] hyprland config
-    - [ ] different keyboard layout per workspace
+    - [ ] different keyboard layout per workspace [hint](https://askubuntu.com/questions/655628/assign-default-keyboard-language-per-application)
     - [ ] modular config
     - [ ] screenshot utility
     - [ ] night light
