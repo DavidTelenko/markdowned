@@ -10,7 +10,7 @@ The road to greatness.
   - [ ] hyprland config
     - [ ] different keyboard layout per workspace [hint](https://askubuntu.com/questions/655628/assign-default-keyboard-language-per-application)
     - [ ] modular config
-    - [ ] screenshot utility
+    - [ ] screenshot utility [hyprshot](https://github.com/Gustash/hyprshot)
     - [ ] night light
     - [x] keybinding
     - [ ] notifications
