@@ -9,16 +9,18 @@ The road to greatness.
 - [ ] Window manager config [hint](https://github.com/Aylur/dotfiles/tree/main)
   - [ ] hyprland config
     - [ ] different keyboard layout per workspace [hint](https://askubuntu.com/questions/655628/assign-default-keyboard-language-per-application)
-    - [ ] modular config
+    - [x] modular config
     - [ ] screenshot utility
-    - [ ] night light
+    - [x] night light
     - [x] keybinding
-    - [ ] notifications
     - [ ] wifi, bluetooth
+  - [x] wallpapers
+  - [x] notifications
   - [ ] sway config
-  - [ ] wofi
-  - [ ] rofi
-  - [ ] waybar
+  - [x] wofi
+  - [x] rofi
+  - [ ] media player
+  - [~] waybar
   - [ ] swaylock
   - [ ] swayidle
   - [ ] ags
