@@ -21,19 +21,22 @@ The road to greatness.
     - [x] bluetooth
     - [ ] wifi
     - [x] clipboard
+    - [ ] disable keyboard backlight when not active
     - [ ] login right into hyprland [hint](https://www.reddit.com/r/hyprland/comments/127m3ef/starting_hyprland_directy_from_systemd_a_guide_to/)
   - [ ] eww
+  - [ ] playerctl next, prev source shortcut + notification
   - [x] wallpapers
   - [x] notifications
   - [ ] low battery notification
+  - [ ] mail notification
   - [ ] sway config
   - [x] wofi
   - [x] rofi
   - [ ] media player
   - [~] waybar
   - [ ] swaylock
-  - [ ] swayidle
-  - [ ] ags
+  - [x] hypridle
+  - [~] ags
   - [x] keyd
   - [x] kitty
     - [x] modular config
