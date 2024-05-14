@@ -6,16 +6,26 @@ The road to greatness.
   - [x] modular config
 - [ ] Tmux config
 - [x] Desktop environment config (GNOME)
+- [ ] Dots repo
 - [ ] Window manager config [hint](https://github.com/Aylur/dotfiles/tree/main)
   - [ ] hyprland config
-    - [ ] different keyboard layout per workspace [hint](https://askubuntu.com/questions/655628/assign-default-keyboard-language-per-application)
+    - [x] different keyboard layout per workspace
     - [x] modular config
-    - [ ] screenshot utility
+    - [ ] inactive cursor timeout
+    - [x] notify on volume changes
+    - [x] notify on brightness changes
+    - [ ] notify on keyboard layout
+    - [x] screenshot utility
     - [x] night light
     - [x] keybinding
-    - [ ] wifi, bluetooth
+    - [x] bluetooth
+    - [ ] wifi
+    - [x] clipboard
+    - [ ] login right into hyprland [hint](https://www.reddit.com/r/hyprland/comments/127m3ef/starting_hyprland_directy_from_systemd_a_guide_to/)
+  - [ ] eww
   - [x] wallpapers
   - [x] notifications
+  - [ ] low battery notification
   - [ ] sway config
   - [x] wofi
   - [x] rofi
