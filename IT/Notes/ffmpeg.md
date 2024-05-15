@@ -15,3 +15,5 @@ ffmpeg -i `file/path.mp4` -ss 00:00:00 -to 00:00:00 -c copy `file/out.mp4`
 # Record screen
 ffmpeg -f gdigrab -framerate 60 -offset_x 1920 -video_size 1920x1080 -i desktop -b:v 15000000 $"D:/Videos/Captures/Capture_(date now | format date '%Y-%m-%d %H-%M-%S').mp4"
 ```
+
+See [this](https://trac.ffmpeg.org/wiki/Capture/Desktop) link to get more info on how to record screen
