@@ -20,6 +20,7 @@ The road to greatness.
     - [x] keybinding
     - [x] bluetooth
     - [ ] wifi
+    - [ ] dashboard (clock, battery, player, one shortcut opens menu with everything)
     - [x] clipboard
     - [ ] disable keyboard backlight when not active
     - [ ] login right into hyprland [hint](https://www.reddit.com/r/hyprland/comments/127m3ef/starting_hyprland_directy_from_systemd_a_guide_to/)
