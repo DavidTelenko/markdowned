@@ -29,11 +29,10 @@ ffmpeg -i `file/path.mp4` -ss 00:00:00 -to 00:00:00 -c copy `file/out.mp4`
     ls | each {
         echo $"file '($in.name)'\n" | save -af $"($list)"
     };
-    mkdir Merged;
     ffmpeg -f concat # demuxer
            -i $list # list of liles to merge
            -c copy
-           $"Merged/Merged_(date now | format date '%Y-%m-%d_%H-%M-%S').mp4";
+           $"Merged_(date now | format date '%Y-%m-%d_%H-%M-%S').mp4";
     rm -f $list;
 )
 ```
