@@ -24,6 +24,7 @@ The road to greatness.
     - [x] clipboard
     - [ ] disable keyboard backlight when not active
     - [ ] login right into hyprland [hint](https://www.reddit.com/r/hyprland/comments/127m3ef/starting_hyprland_directy_from_systemd_a_guide_to/)
+  - [ ] [mangohud](https://github.com/flightlessmango/MangoHud)
   - [ ] eww
   - [ ] playerctl next, prev source shortcut + notification
   - [x] wallpapers
