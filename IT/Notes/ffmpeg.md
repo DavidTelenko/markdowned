@@ -26,7 +26,7 @@ ffmpeg -i `file/path.mp4` -ss 00:00:00 -to 00:00:00 -c copy `file/out.mp4`
 # Merge all videos in folder IMPORTANT: don't forget to cd into right directory
 (
     let list = "list.txt";
-    ls | each {
+    ls | where type =~ file | each {
         echo $"file '($in.name)'\n" | save -af $"($list)"
     };
     ffmpeg -f concat # demuxer
