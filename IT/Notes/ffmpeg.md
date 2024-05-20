@@ -13,14 +13,29 @@ ffmpeg -i `file/path.mp4` -filter:v "setpts=0.25*PTS" `file/out.mp4`
 ffmpeg -i `file/path.mp4` -ss 00:00:00 -to 00:00:00 -c copy `file/out.mp4`
 
 # Record screen (Windows)
+# Here each option listed before the source applies to this source
 (
-    ffmpeg -f gdigrab # demuxer
+    ffmpeg
         -framerate 60
         -offset_x 1920 # this selects offset to second monitor
         -video_size 1920x1080
+        -f gdigrab # video grabber
         -i desktop # input device
         -b:v 15000000 # bitrate
         $"D:/Videos/Captures/Capture_(date now | format date '%Y-%m-%d_%H-%M-%S').mp4"
+)
+
+# Record audio (Windows)
+(
+    ffmpeg
+        -f dshow # video & audio grabber
+        -i audio="Microphone (Realtek(R) Audio)" # audio source
+        $"D:/Videos/Captures/Capture_(date now | format date '%Y-%m-%d_%H-%M-%S').mp3"
+)
+
+# List all devices for dshow grabber (Windows)
+(
+    ffmpeg -list_devices true -f dshow -i dummy
 )
 
 # Merge all videos in folder IMPORTANT: don't forget to cd into right directory
