@@ -64,6 +64,7 @@
 - [x] [Ranking of Kings](https://myanimelist.net/anime/40834/Ousama_Ranking)[1]
 - [ ] [Ranking of Kings](https://myanimelist.net/anime/40834/Ousama_Ranking)[2]
 - [ ] [Yasuke](https://myanimelist.net/anime/43697/Yasuke)
+- [ ] [Gasaraki](https://myanimelist.net/anime/782/gasaraki)
 - [ ] [Gyakkyou Burai Kaiji](https://myanimelist.net/anime/3002/Gyakkyou_Burai_Kaiji__Ultimate_Survivor)
 - [ ] [Dimension W](https://myanimelist.net/anime/31163/Dimension_W)
 - [ ] [The Seven Deadly Sins](https://myanimelist.net/anime/23755/Nanatsu_no_Taizai)
