@@ -1,4 +1,4 @@
-# Simple gameplay ides
+# Simple gameplay ideas
 
 You are followed by a monster of some sort and the main target is to survive 
 but never stay in the same place for the long time. Similar to challenge in 
