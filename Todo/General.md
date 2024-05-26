@@ -2,7 +2,7 @@
 
 - [ ] Watch [this series about networking](https://www.youtube.com/watch?v=tSodBEAJz9Y&list=PLF1hDMPPRqGxpYdo0ctaa7MxfOi9vjs1u&pp=iAQB)
 
-- [ ] Check all unsafe gnome extensions, use this command to get this done
+- [x] Check all unsafe gnome extensions, use this command to get this done
       `gsettings set org.gnome.shell disable-extension-version-validation true`
 
 - [ ] Check [this](https://fly.io/dist-sys/) and try to finish all tasks using
@@ -37,8 +37,8 @@
 
 - [ ] Check groff and write generalized script for pandoc md automation
 
-- [ ] Generate more music using [this tool](https://www.udio.com/my-creations)
+- [x] Generate more music using [this tool](https://www.udio.com/my-creations)
       and form lite pipeline for gamedev from all generative tools
 
-- [ ] Check this [guy's
+- [x] Check this [guy's
       work](https://github.com/folke?tab=repositories&q=&type=&language=lua&sort=stargazers)
