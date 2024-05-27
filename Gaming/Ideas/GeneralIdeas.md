@@ -149,6 +149,7 @@ What is this document? This is just my long list of general already implemented 
 
 # Qazilore:
 
+- Show don't tell
 - Unknown locations, obelisks, signs
 - Large uninhabited towns, castles
 - Qaziquests (player has to be self motivated to explore areas)
@@ -187,7 +188,34 @@ What is this document? This is just my long list of general already implemented 
 
 - When turned on you have timer from last kill / hp drain if time passes you die
 
+# Grenades
+
+- Firefly grenade
+- Laughing gas
+- Smoke, fire mix (flammable smoke grenade)
+- Love gas (duh)
+
 # Interface
 
 - Use player achievements, killed bosses, finished quests for the loading screens arts.
+- Minimalistic, toggle able
+- Every element can be disabled (difficulty levels)
 
+# Generative
+
+- Use [WFC](https://www.youtube.com/watch?v=dFYMOzoSDNE) at global scale to create generally random maps
+- Locally use premade models and combined models to create random locations inside wfc grid
+- Generate crossfading locations between bioms
+- Premade structures differ on differenct bioms and in cross regions
+- Combine large wfc grids into open world
+- Generate trees (using ebnf grammar) and rocks using noise
+- Generate clouds using 3d noise combined with shaders
+- Quests and lore generation based on static rules using gpt or similar technique
+
+# Soundtrack
+
+- Atmospheric sound effects, upon entering, exiting POI
+- Continuous ambient
+- No cuts
+- A LOT of combat rhythmic music
+- Deeper sounds, low, bass, sound design
