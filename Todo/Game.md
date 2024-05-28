@@ -52,3 +52,7 @@
 - [ ] Rules
 - [ ] Skills
 - [ ] The rest
+
+# Links
+
+- [Interesting style](https://www.youtube.com/watch?v=zNzzmjma7hg)
