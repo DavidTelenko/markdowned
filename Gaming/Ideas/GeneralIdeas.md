@@ -219,3 +219,8 @@ What is this document? This is just my long list of general already implemented 
 - No cuts
 - A LOT of combat rhythmic music
 - Deeper sounds, low, bass, sound design
+
+# Spying mechanics
+
+- Spells, bullets, druid spying
+- Map icon, smell, trace
