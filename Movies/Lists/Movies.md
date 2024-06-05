@@ -38,6 +38,7 @@
 - The Unbearable Weight of Massive Talent
 - Kiss Kiss Bang Bang
 - The Lovely Bones
+- The Quiet Place
 - Dune
 - American Psycho
 - Kill Bill: Vol. 1
