@@ -87,6 +87,7 @@
 - [ ] [Bastard!! Ankoku no Hakaishin (Bastard!!)](https://myanimelist.net/anime/404/Bastard_Ankoku_no_Hakaishin)
 - [ ] [Lodoss-tou Senki (Record of Lodoss War)](https://myanimelist.net/anime/207/Lodoss-tou_Senki)
 - [ ] [Akame ga Kill!](https://myanimelist.net/anime/22199/Akame_Ga_Kill)
+- [ ] [Boku no Pico](https://myanimelist.net/anime/1639/Boku_no_Picu)
 
 # Movies
 

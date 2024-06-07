@@ -25,3 +25,5 @@ tab to select some items and alt+q to add to quick list
 :cdo with buffer command to execute shit
 
 ctrl+q $ A to add to end of each line
+
+K - info about token under cursor (lsp help / man)
