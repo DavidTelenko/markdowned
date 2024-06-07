@@ -1,4 +1,4 @@
-# 7z reminder
+# Archivers reminder
 
 This is a reminder of general 7z commands
 
@@ -15,4 +15,22 @@ This is a reminder of general 7z commands
 # V TL;DR this is the one
 cd path/to/dir
 7z a -tzip ../dir *
+```
+
+Tar commands
+
+```nu
+
+# Unpack archive
+
+tar -xf path/to/archive.tar.gz
+
+# Create compressed archive
+
+tar -czf backup.tar.gz path/to/dir
+
+# Create simple archive
+
+tar -cf backup.tar path/to/dir
+
 ```
