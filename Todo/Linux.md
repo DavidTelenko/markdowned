@@ -11,15 +11,16 @@ The road to greatness.
   - [ ] hyprland config
     - [x] different keyboard layout per workspace
     - [x] modular config
-    - [ ] inactive cursor timeout
+    - [x] inactive cursor timeout
     - [x] notify on volume changes
     - [x] notify on brightness changes
     - [ ] notify on keyboard layout
     - [x] screenshot utility
+    - [ ] touchpad vs mouse sensitivity
     - [x] night light
     - [x] keybinding
     - [x] bluetooth
-    - [ ] wifi
+    - [ ] wifi status
     - [ ] dashboard (clock, battery, player, one shortcut opens menu with everything)
     - [x] clipboard
     - [ ] disable keyboard backlight when not active
