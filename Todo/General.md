@@ -1,5 +1,7 @@
 # General TODO
 
+- [ ] Offline dictionary either by downloading one, or simply in markdown file
+
 - [ ] Watch [this series about networking](https://www.youtube.com/watch?v=tSodBEAJz9Y&list=PLF1hDMPPRqGxpYdo0ctaa7MxfOi9vjs1u&pp=iAQB)
 
 - [x] Check all unsafe gnome extensions, use this command to get this done

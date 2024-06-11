@@ -40,6 +40,7 @@
 - The Lovely Bones
 - The Quiet Place
 - Dune
+- Slovo House
 - American Psycho
 - Kill Bill: Vol. 1
 - Kill Bill: Vol. 2
