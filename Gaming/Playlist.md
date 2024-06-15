@@ -59,8 +59,8 @@
 - [x] Dishonored
 - [x] Divinity: Original Sin 2
 - [x] Enderal: Forgotten Stories
-- [x] Far 3 (3)
-- [x] Far 4 (2)
+- [x] Far Cry 3 (3)
+- [x] Far Cry 4 (2)
 - [x] Far Lone Sails
 - [x] Firewatch
 - [x] Grand Theft Auto: III
