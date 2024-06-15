@@ -49,7 +49,6 @@
 - [ ] Shadow Tactic's: Aiko's Choice
 - [ ] Sleeping Dogs
 - [ ] Song of Conquest (co-op)
-- [ ] Subnautica
 - [ ] Subnautica: Below Zero
 - [ ] The Elder Scrolls III: Morrowind
 - [ ] The Elder Scrolls IV: Oblivion
@@ -75,6 +74,7 @@
 - [x] Prince of Persia: The Two Thrones (3)
 - [x] Prince of Persia: Warrir Within (4)
 - [x] Stardew Valley
+- [x] Subnautica
 - [x] Terraria
 - [x] The Elder Scrolls V: Skyrim (Vanilla, RFAB) (15)
 - [x] The Survivalist

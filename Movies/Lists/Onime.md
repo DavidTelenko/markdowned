@@ -25,6 +25,7 @@
 - [ ] [DanDaDan](https://myanimelist.net/anime/57334/Dandadan)
 - [ ] [City Hunter](https://myanimelist.net/anime/1473/City_Hunter_91)
 - [ ] [Elfen Lied](https://myanimelist.net/anime/226/Elfen_Lied)
+- [ ] [Dungeon Meshi](https://myanimelist.net/anime/52701/Dungeon_Meshi)
 - [x] [Jujutsu Kaisen](https://myanimelist.net/anime/40748/Jujutsu_Kaisen_TV)[1]
 - [ ] [Jujutsu Kaisen](https://myanimelist.net/anime/51009/Jujutsu_Kaisen_2nd_Season)[2]
 - [ ] [Attack on Titan](https://myanimelist.net/anime/16498/Shingeki_no_Kyojin)
