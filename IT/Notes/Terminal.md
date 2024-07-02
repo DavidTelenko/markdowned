@@ -111,4 +111,20 @@ ffmpeg -i `file/path.mp4` -ss 00:00:00 -to 00:00:00 -c copy `file/out.mp4`
 
 See [this](https://trac.ffmpeg.org/wiki/Capture/Desktop) link to get more info on how to record screen
 
+# Notes on scoop pm
+
+```nu
+# Reset app to some version
+scoop reset <app_name>@<version>
+
+# List all outdated packages
+scoop status
+
+# List all packages
+scoop list
+
+# Export in json format
+scoop export
+```
+
 # yt-dlp commands
