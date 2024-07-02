@@ -17,7 +17,7 @@ ocean
 bubbles
 rivers
 hive
-canyon 
+canyon
 cliffs
 castles
 valley
@@ -79,3 +79,4 @@ Jesse van Dijk
 Leon Tukker
 ukiyo-e
 Classic of Mountains and Seas
+Adam Burke/Nightjar
