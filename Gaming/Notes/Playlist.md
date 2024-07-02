@@ -72,7 +72,7 @@
 - [x] Magicka 2
 - [x] Pilgrims
 - [x] Prince of Persia: The Two Thrones (3)
-- [x] Prince of Persia: Warrir Within (4)
+- [x] Prince of Persia: Warrior Within (4)
 - [x] Stardew Valley
 - [x] Subnautica
 - [x] Terraria
