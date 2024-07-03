@@ -15,6 +15,7 @@
 - [ ] Divinity: Original Sin
 - [ ] Do Not Feed the Monkeys
 - [ ] Doom Eternal
+- [ ] F.I.S.T.: Forged In Shadow Torch
 - [ ] Far Changing Tides
 - [ ] Ghostrunner
 - [ ] Ghostrunner 2
@@ -49,12 +50,15 @@
 - [ ] Shadow Tactic's: Aiko's Choice
 - [ ] Sleeping Dogs
 - [ ] Song of Conquest (co-op)
+- [ ] Styx: Master of Shadows
+- [ ] Styx: Shards of Darkness
 - [ ] Subnautica: Below Zero
 - [ ] The Elder Scrolls III: Morrowind
 - [ ] The Elder Scrolls IV: Oblivion
 - [ ] The Long Dark
 - [ ] The Sims 3
 - [ ] The Vanishing of Ethan Carter
+- [ ] The Gunk
 - [x] Disco Elysium
 - [x] Dishonored
 - [x] Divinity: Original Sin 2
