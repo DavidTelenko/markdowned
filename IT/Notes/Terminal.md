@@ -128,3 +128,10 @@ scoop export
 ```
 
 # yt-dlp commands
+
+# pdftk commands
+
+```nu
+# Merge all pdfs in folder
+pdftk *.pdf cat output out.pdf
+```
