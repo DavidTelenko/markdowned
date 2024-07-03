@@ -3,33 +3,32 @@
 ## Large Disk (HDD)
 
 - Cache
-    - GoogleDrive
-    - OneDrive
-    - Documents
-        - Markdowned
-        - Soft -> ~/Documents
-        - Backup
-        - Other
-    - Downloads -> ~/Downloads
-    - Family
-    - Games
-        - Files
-        - Installers
-        - Modding
-        - Organized
-        - Saves
-    - Videos -> ~/Videos
-        - Captures
-        - Series
-        - Movies
-    - Music -> ~/Music
-    - Pictures -> ~/Pictures
-        - Backgrounds
-        - Generated
-        - Screenshots
- - Temp
+  - GoogleDrive
+  - OneDrive
+- Documents
+  - Markdowned
+  - Soft -> ~/Documents
+  - Backup
+  - Other
+- Downloads -> ~/Downloads
+- Family
+- Games
+  - Files
+  - Mods
+  - Saves
+- Videos -> ~/Videos
+  - Captures
+  - Series
+  - Movies
+- Music -> ~/Music
+- Pictures -> ~/Pictures
+  - Backgrounds
+  - Generated
+  - Screenshots
+- Temp
 
-# Fast Dist (SSD)
- - Applications
- - Dev
- - Games
+## Fast Disk (SSD)
+
+- Applications
+- Dev
+- Games
