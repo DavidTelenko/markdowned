@@ -7,7 +7,6 @@
 - [x] [Fullmetal Alchemist](https://myanimelist.net/anime/121/Fullmetal_Alchemist)
 - [x] [Jobless Reincarnation](https://myanimelist.net/anime/39535/Mushoku_Tensei__Isekai_Ittara_Honki_Dasu)[1]
 - [x] [Jobless Reincarnation](https://myanimelist.net/anime/39535/Mushoku_Tensei__Isekai_Ittara_Honki_Dasu)[2]
-- [ ] [Jobless Reincarnation](https://myanimelist.net/anime/39535/Mushoku_Tensei__Isekai_Ittara_Honki_Dasu)[3]
 - [x] [Heion Sedai no Idaten-tachi](https://myanimelist.net/anime/42625/Heion_Sedai_no_Idaten-tachi)
 - [ ] [Paranoia Agent](https://myanimelist.net/anime/323/Mousou_Dairinin/)
 - [ ] [Goblin Slayer: Goblin's Crown](https://myanimelist.net/anime/39576/Goblin_Slayer__Goblins_Crown)
