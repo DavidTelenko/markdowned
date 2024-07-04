@@ -127,11 +127,29 @@ scoop list
 scoop export
 ```
 
-# yt-dlp commands
-
 # pdftk commands
 
 ```nu
 # Merge all pdfs in folder
 pdftk *.pdf cat output out.pdf
+```
+
+# yt-dlp commands
+
+```nu
+# Download playlist
+yt-dlp -o "%(playlist)s/%(playlist_index)s - %(title)s.%(ext)s" https://www.youtube.com/playlist?list=<list-id>
+
+# Download one video
+yt-dlp -o '%(title)s.%(ext)s' <video_url>
+
+# Download audio only
+yt-dlp -x --audio-format mp3 <video_url>
+```
+
+# ani-cli commands
+
+```nu
+# Download episodes from start to end
+ani-cli --dub -d "<name>" -e <start>-<end>
 ```
