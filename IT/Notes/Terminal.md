@@ -125,6 +125,9 @@ scoop list
 
 # Export in json format
 scoop export
+
+# Remove previous versions
+scoop cleanup <app_name>
 ```
 
 # pdftk commands
