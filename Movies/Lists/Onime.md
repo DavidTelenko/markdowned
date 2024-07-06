@@ -9,7 +9,7 @@
 - [x] [Jobless Reincarnation](https://myanimelist.net/anime/39535/Mushoku_Tensei__Isekai_Ittara_Honki_Dasu)[2]
 - [x] [Heion Sedai no Idaten-tachi](https://myanimelist.net/anime/42625/Heion_Sedai_no_Idaten-tachi)
 - [ ] [Paranoia Agent](https://myanimelist.net/anime/323/Mousou_Dairinin/)
-- [ ] [Goblin Slayer: Goblin's Crown](https://myanimelist.net/anime/39576/Goblin_Slayer__Goblins_Crown)
+- [ ] [Witch Hat Atelier](https://myanimelist.net/manga/100035/Tongari_Boushi_no_Atelier)
 - [x] [Tensei shitara Slime Datta Ken](https://myanimelist.net/anime/37430/Tensei_shitara_Slime_Datta_Ken/)[1]
 - [x] [Tensei shitara Slime Datta Ken](https://myanimelist.net/anime/37430/Tensei_shitara_Slime_Datta_Ken/)[2]
 - [ ] [Tensei shitara Slime Datta Ken](https://myanimelist.net/anime/37430/Tensei_shitara_Slime_Datta_Ken/)[3]
@@ -39,6 +39,7 @@
 - [ ] [Mairimashita Iruma-kun](https://myanimelist.net/anime/39196/Mairimashita_Iruma-kun)
 - [ ] [Kami no Tou](https://myanimelist.net/anime/40221/Kami_no_Tou)
 - [ ] [Mob Psycho 100](https://myanimelist.net/anime/32182/Mob_Psycho_100)
+- [ ] [Goblin Slayer: Goblin's Crown](https://myanimelist.net/anime/39576/Goblin_Slayer__Goblins_Crown)
 - [ ] [Spy x Family](https://myanimelist.net/anime/50265/Spy_x_Family)
 - [x] [One Punch Man](https://myanimelist.net/anime/30276/One_Punch_Man)[1]
 - [x] [One Punch Man](https://myanimelist.net/anime/34134/One_Punch_Man_2nd_Season)[2]
