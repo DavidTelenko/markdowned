@@ -41,6 +41,7 @@
 - [ ] [Mob Psycho 100](https://myanimelist.net/anime/32182/Mob_Psycho_100)
 - [ ] [Goblin Slayer: Goblin's Crown](https://myanimelist.net/anime/39576/Goblin_Slayer__Goblins_Crown)
 - [ ] [Spy x Family](https://myanimelist.net/anime/50265/Spy_x_Family)
+- [ ] [Himouto! Umaru-chan R](https://myanimelist.net/anime/35376/Himouto_Umaru-chan_R)
 - [x] [One Punch Man](https://myanimelist.net/anime/30276/One_Punch_Man)[1]
 - [x] [One Punch Man](https://myanimelist.net/anime/34134/One_Punch_Man_2nd_Season)[2]
 - [ ] [Macross](https://myanimelist.net/anime/1088/Macross)
