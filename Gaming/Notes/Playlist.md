@@ -10,7 +10,6 @@
 - [ ] Cuphead
 - [ ] Cyberpunk 2077
 - [ ] Dead Cells
-- [ ] Detroit: Become Human
 - [ ] Dishonored 2
 - [ ] Divinity: Original Sin
 - [ ] Do Not Feed the Monkeys
@@ -55,10 +54,11 @@
 - [ ] Subnautica: Below Zero
 - [ ] The Elder Scrolls III: Morrowind
 - [ ] The Elder Scrolls IV: Oblivion
+- [ ] The Gunk
 - [ ] The Long Dark
 - [ ] The Sims 3
 - [ ] The Vanishing of Ethan Carter
-- [ ] The Gunk
+- [x] Detroit: Become Human
 - [x] Disco Elysium
 - [x] Dishonored
 - [x] Divinity: Original Sin 2
