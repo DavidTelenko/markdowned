@@ -1,16 +1,27 @@
 # David Telen'ko
 
-## Hard Skills
+## Technical Skills
 
-- **General**
+- **Programming Languages**: JavaScript (ES6+), TypeScript
+- **Front-end**: React, Next.js, Redux, Vue.js, HTML5, CSS3, SASS, Tailwind, FramerMotion
+- **Back-end**: Node.js, Express.js, RESTful APIs, GraphQL
+- **Database**: MongoDB, MySQL, PostgreSQL
+- **Tools & Technologies**: Git, Docker, Webpack, Babel
+- **Other Skills**: Asynchronous programming, TDD/BDD, Agile methodologies, CI/CD
 
 ## Soft Skills
 
-- **Core**
+- Not conflicting or toxic.
+- Pair / Team programming lover.
+- Hard working and perfection oriented.
+- Creative and out of the box thinking.
+- Analysis and critical thinking.
+- Constant learning and ability to accept and correct mistakes.
 
-- **Languages**
-  - **Ukrainian**: C2, (native language)
-  - **English**: B2, (good speaking and writing skills)
+## Languages
+
+- **Ukrainian**: C2, (native language)
+- **English**: B2, (good speaking and writing skills)
 
 ## Education
 
