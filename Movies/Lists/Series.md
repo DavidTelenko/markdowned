@@ -16,6 +16,7 @@ This is the list of series i'm watching, seen and wanna watch, also with thought
 - The Sopranos
 - Wane
 - The Punisher
+- Dexter
 - Black Mirror
 - Brooklyn Nine-Nine (If you like the Office section)
 - The Witcher (Huh?)
