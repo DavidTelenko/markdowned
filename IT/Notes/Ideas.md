@@ -27,3 +27,11 @@
 - sync of package lists
 
 - add git repo to the configs folder and remap hardcoded configs
+
+# Interactive 3D AR Map
+
+- Scan environment height map
+- Perform photogrammetry
+- Make cooperative mode
+- Plan vacations
+- 3D model on table
