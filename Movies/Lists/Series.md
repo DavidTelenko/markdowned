@@ -11,6 +11,8 @@ This is the list of series i'm watching, seen and wanna watch, also with thought
 
 # To Watch
 
+- Gen V
+- The Boys S4
 - Ozark
 - 1899
 - The Sopranos
