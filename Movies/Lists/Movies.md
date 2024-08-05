@@ -33,6 +33,7 @@
 # To watch
 
 - Borat
+- The Shawshank Redemption
 - The Martian
 - The Talented Mr. Ripley
 - The Unbearable Weight of Massive Talent
