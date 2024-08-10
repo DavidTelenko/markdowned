@@ -29,6 +29,7 @@
 - The Lord Of The Rings (2001, 2002, 2003) (based fantasy, no plot holes, no cringe) [10/10]
 - The Hobbit (2012, 2013, 2014) (based fantasy, adventurous) [9/10]
 - Harry Potter (2001, 2002, 2004, 2005, 2007, 2009, 2010, 2011) (based with little pinches of cringe here and there) [9/10]
+- Brightburn (2019) (conceptually interesting) [7/10]
 
 # To watch
 
