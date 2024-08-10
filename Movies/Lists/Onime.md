@@ -14,6 +14,7 @@
 - [x] [Tensei shitara Slime Datta Ken](https://myanimelist.net/anime/37430/Tensei_shitara_Slime_Datta_Ken/)[2]
 - [ ] [Tensei shitara Slime Datta Ken](https://myanimelist.net/anime/37430/Tensei_shitara_Slime_Datta_Ken/)[3]
 - [ ] [No Game No Life (No Game, No Life)](https://myanimelist.net/anime/19815/No_Game_No_Life)
+- [ ] [Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru][https://myanimelist.net/anime/47790/Sekai_Saikou_no_Ansatsusha_Isekai_Kizoku_ni_Tensei_suru]
 - [ ] [Dororo](https://myanimelist.net/anime/37520/Dororo?q=dororo&cat=anime)
 - [ ] [Kaiju No. 8](https://myanimelist.net/anime/52588/Kaijuu_8-gou)
 - [ ] [Undead Unluck](https://myanimelist.net/anime/52741/Undead_Unluck)
