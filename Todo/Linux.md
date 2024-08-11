@@ -20,6 +20,7 @@ The road to greatness.
     - [x] night light
     - [x] keybinding
     - [x] bluetooth
+    - [ ] unify mouse cursor [hint](https://wiki.hyprland.org/FAQ/#how-do-i-change-me-mouse-cursor)
     - [ ] wifi status
     - [ ] dashboard (clock, battery, player, one shortcut opens menu with everything)
     - [x] clipboard
