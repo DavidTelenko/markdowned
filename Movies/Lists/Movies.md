@@ -30,6 +30,8 @@
 - The Hobbit (2012, 2013, 2014) (based fantasy, adventurous) [9/10]
 - Harry Potter (2001, 2002, 2004, 2005, 2007, 2009, 2010, 2011) (based with little pinches of cringe here and there) [9/10]
 - Brightburn (2019) (conceptually interesting) [7/10]
+- Deadpool and Woolverine (2024) (4-th wall broken, flashy, conceptually dull) [6/10]
+- The Last Boy Scout (1991) (atmosphere) [8/10]
 
 # To watch
 
