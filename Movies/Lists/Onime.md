@@ -21,6 +21,7 @@
 - [ ] [Gintama](https://myanimelist.net/anime/918/Gintama/)
 - [ ] [Vinland Saga](https://myanimelist.net/anime/37521/Vinland_Saga)
 - [ ] [86](https://myanimelist.net/anime/41457/86)
+- [ ] [Nige Jouzu no Wakagimi](https://myanimelist.net/anime/54724/Nige_Jouzu_no_Wakagimi)
 - [ ] [Isekai Shikkaku](https://myanimelist.net/anime/52367/Isekai_Shikkaku/video)
 - [ ] [Mo Dao Zu Shi (The Founder of Diabolism)](https://myanimelist.net/anime/37208/Mo_Dao_Zu_Shi)
 - [ ] [DanDaDan](https://myanimelist.net/anime/57334/Dandadan)
