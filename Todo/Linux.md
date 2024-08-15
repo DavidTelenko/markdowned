@@ -2,6 +2,8 @@
 
 The road to greatness.
 
+- [ ] Put dunst notifications to the bottom-right
+
 - [x] Nvim config
   - [x] modular config
 - [ ] Tmux config
