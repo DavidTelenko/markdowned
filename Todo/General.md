@@ -1,5 +1,13 @@
 # General TODO
 
+- [ ] Create dnf completions for nushell
+
+- [ ] Check [jess::codes](https://www.youtube.com/@jesscodes) content
+
+- [ ] Check fan on green hp
+
+- [ ] Check waneella wallpapers
+
 - [ ] Offline dictionary either by downloading one, or simply in markdown file
 
 - [ ] Watch [this series about networking](https://www.youtube.com/watch?v=tSodBEAJz9Y&list=PLF1hDMPPRqGxpYdo0ctaa7MxfOi9vjs1u&pp=iAQB)

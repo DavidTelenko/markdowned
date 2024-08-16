@@ -32,6 +32,7 @@
 - Brightburn (2019) (conceptually interesting) [7/10]
 - Deadpool and Woolverine (2024) (4-th wall broken, flashy, conceptually dull) [6/10]
 - The Last Boy Scout (1991) (atmosphere) [8/10]
+- Top Gun (1986) (based, simple, romantic, atmospheric) [8/10]
 
 # To watch
 

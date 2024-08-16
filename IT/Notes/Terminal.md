@@ -205,3 +205,23 @@ Download episodes from start to end
 ```nu
 ani-cli --dub -d "<name>" -e <start>-<end>
 ```
+
+# nvcli commands
+
+Connect to wifi spot
+
+```
+nmcli d wifi connect "NAME" password "PASSWORD"
+```
+
+List all available wifi spots
+
+```
+nmcli d wifi
+```
+
+Check connection status in general
+
+```
+nmcli c
+```
