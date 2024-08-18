@@ -206,7 +206,7 @@ Download episodes from start to end
 ani-cli --dub -d "<name>" -e <start>-<end>
 ```
 
-# nvcli commands
+# nmcli commands
 
 Connect to wifi spot
 
