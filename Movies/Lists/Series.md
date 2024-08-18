@@ -3,7 +3,7 @@ This is the list of series i'm watching, seen and wanna watch, also with thought
 # In process
 
 - Stranger Things S1 S2 S3 S4 (started to feel mild cringe, good, wait for the next S)
-- The House of Dragon S1 (good so far, wait for the next S)
+- The House of Dragon S1 S2 (good so far, wait for the next S)
 - Fargo S1 S2 S3 S4 (marvel)
 - The Boys S1 S2 S3 (started to cringe, wait for the next S)
 - Sex Education S1 S2 S3 (cringe but watchable, glass eaten)
