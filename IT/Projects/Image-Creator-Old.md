@@ -96,20 +96,23 @@ API CRUD operations on:
 - Collections page
 - Regenerate button
 
-**TUI frontend**
+## TUI frontend
+
+This section not only displays the command line interface usage, but also
+showcases all targeted functionality of GUI frontend
 
 **User commands**
 
 ```bash
-# login into remote account
-icreator user login "{login}" "{password}"
+# opens login view in browser
+imgen user login
 
 # register account will redirect to browser to register with web-view (see how
 # gh does it)
-icreator user register
+imgen user register
 
 # opens user control panel in browser
-icreator user control
+imgen user control
 ```
 
 **Directory commands**
@@ -124,16 +127,16 @@ icreator user control
 # if image belongs to two (or more) different collections, symlink to image of
 # collection with least amount of images will be generated
 # `All Images` collection will only contain symlinks
-icreator directory set "{path}"
+imgen directory set "{path}"
 
 # sync directory with database
 # if no directory was set you will be prompted to
 # please note that all hand made changes will be erased
-icreator directory sync
+imgen directory sync
 
 # opens directory in system explorer or
 # opens directory which corresponds to collection name or id
-icreator directory open [--collection "{collection_name}|{collection_id}"]
+imgen directory open [--collection "{collection_name}|{collection_id}"]
 ```
 
 **Image commands**
@@ -143,21 +146,43 @@ icreator directory open [--collection "{collection_name}|{collection_id}"]
 # this will output image_id(s) to terminal and save image in both local
 # directory and in database
 # output image(s) if terminal supports picture rendering
-icreator image generate "{prompt}" [--amount "{number}"]
+imgen image generate/create "{prompt}" [--amount "{number}"]
 
 # regenerates last generated image deleting it from database right away
 # if index was provided it will only regenerate that image from last generation
 # if index is out of bounds command will be rejected
-icreator image regenerate [--index "{number}"]
+imgen image regenerate [--index "{number}"]
 
-# finds image with prompt in directory or online database
-icreator image find "{prompt}" [--dir "{directory}"]
+# launches area selector to regenerate image, creates new image in the same
+# collection, with the same prompt, but edits selected area with new content
+imgen image paint "{image_prompt}|{image_id}" "{prompt}"
 
-# list all generated images in current collection
-icreator image list
+# delete image by id
+imgen image delete "{image_id}"
+
+# fuzzily find image(s) and return it as array of id's
+# searches only in specified collection if provided
+imgen image find "{prompt}" [--collection "{collection_id}"]
 
 # list all generated images in specified collection
-icreator image list "{collection_id}|{collection_name}"
+imgen image list ?"{collection_id}|{collection_name}"
+```
+
+**Tags related**
+
+```bash
+# generate tags for image (this probably involves different ai model aimed to
+# classify image by it's traits)
+imgen image tags generate
+
+# add tags for images
+imgen image tags add "{tag_text}"
+
+# remove tag from image
+imgen image tags delete "{tag_text}"
+
+# edit tag in image
+imgen image tags edit "{tag_text}" "{new_tag_text}"
 ```
 
 **Collection commands**
@@ -165,37 +190,42 @@ icreator image list "{collection_id}|{collection_name}"
 ```bash
 # create collection
 # this will output collection_id to terminal
-icreator collection create "{name}" [--set]
+imgen collection create "{name}" [--set]
 
 # delete image collection
-icreator collection delete "{collection_id}|{collection_name}"
+imgen collection delete "{collection_id}|{collection_name}"
 
 # list all collections (id, name, amount of pictures in it)
-icreator collection list
+imgen collection list
 
 # add image to collection
-icreator colletion add "{image_id}"
+imgen colletion add "{image_id}"
 
 # set current working collection to which all images will be generated
 icraetor collection set "{collection_id}|{collection_name}"
 
 # get id of collection by name
 # if collection has duplicates this will return array of indices
-icreator collection get "{collection_name}"
+imgen collection find "{collection_name}"
 
 # control collection public visibility
-icreator collection public true|false
+imgen collection public true|false
 
 # opens collection in web browser view
-icreator collection open "{collection_id}|{collection_name}"
+imgen collection open "{collection_id}|{collection_name}"
+
+# summarize collection and it's contents
+# this involves combining unique tags of all images and generating some other
+# stats
+imgen collection summarize "{collection_id}|{collection_name}"
 ```
 
-**Hints**
+**Minor hints**
 
 ```bash
 # both this command can be used to create collection and set it as current
-icreator collection create "{name}" | icreator collection set
-icreator collection create --set "{name}"
+imgen collection create "{name}" | icreator collection set
+imgen collection create --set "{name}"
 
 # every command which accepts collection name or id will work by conceptually
 # invoking this command first for the name then getting first element then
@@ -203,11 +233,25 @@ icreator collection create --set "{name}"
 
 # for example both this commands will show all images in
 # first found by name collection
-icreator collection get "{name}" | get 0 | icreator image list
-icreator image list "{name}"
+imgen collection find "{name}" | get 0 | icreator image list
+imgen image list "{name}"
 ```
 
 # Ideas:
 
 - All images collection: default collection which contains all images (can be
   implemented purely programmatically)
+
+- Image style and tags generation should involve similar to pinterest model
+
+- If images is not displayable in tui, it's probably very inconvenient to use
+  TUI tool. We should be able to show image right after generation
+
+- GUI frontend must have decent keyboard shortcuts in flutter this involves
+  dancing with a tambourine
+
+- Backend at first can be implemented with firebase, but should be decoupled
+  from frontend interfaces
+
+- There can be server (probably in go) which will do database management and
+  image generation, but it's in future.
