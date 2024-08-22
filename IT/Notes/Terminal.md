@@ -225,3 +225,7 @@ Check connection status in general
 ```
 nmcli c
 ```
+
+# ncdu
+
+Simple utility to show disk usage
