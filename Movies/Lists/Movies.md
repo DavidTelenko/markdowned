@@ -34,6 +34,7 @@
 - The Last Boy Scout (1991) (atmosphere) [8/10]
 - Top Gun (1986) (based, simple, romantic, atmospheric) [8/10]
 - Inglorious Bastards (2009) (bloody, based plot) [7/10]
+- The Wolf of Wall Street (2013) (lesson learned) [9/10]
 
 # To watch
 
@@ -51,7 +52,6 @@
 - Kill Bill: Vol. 1
 - Kill Bill: Vol. 2
 - Trueman Show
-- The Wolf of Wall Street
 - The Shawshank Redemption
 - The Italian Job
 - A Bronx Tale
