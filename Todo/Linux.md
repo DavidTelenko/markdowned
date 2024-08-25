@@ -9,44 +9,45 @@ The road to greatness.
 - [ ] Dots repo
 - [ ] Window manager config [hint](https://github.com/Aylur/dotfiles/tree/main)
   - [ ] hyprland config
-    - [x] different keyboard layout per workspace
+    - [x] different keyboard layout per workspace [hint](https://github.com/coffebar/hyprland-per-window-layout/)
     - [x] modular config
     - [x] inactive cursor timeout
     - [x] notify on volume changes
     - [x] notify on brightness changes
     - [ ] notify on keyboard layout
-    - [x] screenshot utility
+    - [x] screenshot utility [hint](https://github.com/DavidTelenko/win-configs/blob/main/hypr/scripts/screenshot.sh)
     - [ ] touchpad vs mouse sensitivity
     - [x] night light
     - [x] keybinding
     - [x] bluetooth
     - [ ] unify mouse cursor [hint](https://wiki.hyprland.org/FAQ/#how-do-i-change-me-mouse-cursor)
-    - [ ] wifi status (do i really need it?)
-    - [?] dashboard (clock, battery, player, one shortcut opens menu with everything)
-    - [x] clipboard
+    - [x] wifi status (do i really need it?)
+    - [x] dashboard (clock, battery, player, one shortcut opens menu with everything) (waybar superseded)
+    - [x] clipboard (cliphist + rofi)
     - [ ] disable keyboard backlight when not active
     - [ ] login right into hyprland [hint](https://www.reddit.com/r/hyprland/comments/127m3ef/starting_hyprland_directy_from_systemd_a_guide_to/)
-  - [ ] [mangohud](https://github.com/flightlessmango/MangoHud)
-  - [ ] eww
-  - [ ] playerctl next, prev source shortcut + notification
+  - [x] [mangohud](https://github.com/flightlessmango/MangoHud)
+  - [x] eww (waybar superseded)
+  - [ ] playerctl next, prev source shortcut + notification (impossible?)
   - [x] wallpapers
   - [x] notifications
-  - [ ] low battery notification
+  - [ ] low battery notification (waybar kinda superseded)
   - [ ] mail notification
-  - [ ] sway config
-  - [x] wofi
+  - [x] sway config (hyprland for now)
+  - [x] wofi (rofi superseded)
   - [x] rofi
   - [ ] media player
   - [x] waybar
-  - [ ] weather in the general notification
+  - [ ] weather in waybar?
   - [ ] timer utility with notification
   - [ ] swaylock
+  - [ ] hyprlock
   - [x] hypridle
-  - [~] ags
+  - [x] ags (waybar superseded)
   - [x] keyd
   - [x] kitty
     - [x] modular config
-  - [?] alacritty
-  - [x] vim-like mode
-- [ ] Nvidia drivers
+  - [x] alacritty (kitty superseded)
+  - [x] vim-like mode [hint](https://github.com/rvaiya/keyd)
+- [ ] Nvidia drivers (for now safe boot removal patch)
 - [ ] Ansible automation
