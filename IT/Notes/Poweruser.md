@@ -14,9 +14,10 @@
 
 ## Deep woods
 
-- [ ] Terminal workflow
+- [x] Terminal workflow
 - [ ] Must have terminal apps
-- [ ] Nushell (Opinionated)
+- [ ] CLI - Nushell, zsh, dash, bash, sh
+- [ ] Terminal emulator - Windows Terminal, Wezterm, Kitty
 - [ ] Configuring tools
 - [ ] Your `dots`
 - [ ] Neovim as your editor
@@ -54,8 +55,6 @@ you develop a muscle memory, you cannot be stopped!
 
 ## Touch typing
 
-> Approx ETA: 2-12 Months.
-
 Learn how to touch type, start where you are, use same tools as you use.
 
 I only have this tips for you here.
@@ -80,8 +79,6 @@ Some speed ranges:
 - 90+ WPM is good for all tasks you will find in this article.
 
 ## Vim Motions
-
-> Approx ETA: 1-3 Months.
 
 Next is learning vim motions. This step is crucial for most of the article,
 because a lot of tools listed here will use similar bindings.
@@ -156,8 +153,6 @@ All of the things listed above is quite advanced so don't bother about them for
 now, remember to take a look at them once you'll be a bit more skilled.
 
 ## Markdown
-
-> Approx ETA: 1-10 days
 
 After learning how to touch type and use vim motions you should practice. The
 best activity is of course coding and configuring. However if you like to write
@@ -277,6 +272,14 @@ Without further ado here is the list of my remapped keys:
 All other keyboard shortcuts is good enough in Windows and for Linux you can
 find my dot files in my GitHub.
 
+Keyboard shortcuts on Windows which is most useful is the following:
+
+- `Win + <Number>` - Launch or switch to app at <Number> icon in your bar
+- `Win + Shift + S` - Launch built-in screenshot utility
+- `Win + Tab` + `Alt + hjkl` - Switch around other apps which is far away from 123456 keys
+- `Alt + F4` - Close app, you can easily remap this to something closer to home row
+- `Win` + *start typing* - app launcher
+
 With these set up you can tackle a lot more and a lot faster. Vast majority of
 software will be way easier to navigate, any text field not becomes stripped
 version of Vim and with only one extra hold press you can achieve some
@@ -315,20 +318,14 @@ Ctrl+Shift+A keybind to search opened tab is Naver Whale.
 
 - Brave browser allows to search opened tabs, but searching from fullscreen is a
   pain (requires to use vimium c open tab action).
- 
 - Firefox does not allow searching opened tabs adequately.
- 
 - Vivaldi also doesn't allow it.
- 
 - Edge browser does not have and immersive search bar, it displays search and
   tabs even in fullscreen.
- 
 - Sidekick has too much so called +Pro features which is not free, and also does
   not allow searching opened tabs conventionally.
- 
 - Zen browser also doesn't search opened tabs and shows screen border even if
   everything is hidden.
- 
 - Opera has a lot of built-in features but neither allow searching tabs nor clean
   in fullscreen.
 
@@ -337,3 +334,94 @@ So for now my favorite browser is `Naver Whale` for Windows and `Brave` for Linu
 This all is opinionated and my personal preference, however if you also want to
 use apps in fullscreen and focus on an actual content rather then menus those
 two are the best choice for now.
+
+# Deep woods
+
+## Terminal workflow
+
+Now when you're already mastered all your tools and learned how to efficiently
+jump around your OS you can step up in the game and boost your OS management
+with keyboard centric approach.
+
+What i mean by that is you should learn how to use terminal and how to receive
+satisfaction from using it. You may ask why should I learn terminal if I
+already can do stuff with a GUI applications? I have several answers to this
+question. Firstly not all systems can have a GUI. Sometimes, especially in area
+of development and system management, there is no GUI and you need to work only
+with terminal. Secondly any GUI applications in one way or another requires you
+to use your mouse. The whole design revolves around you clicking buttons on the
+screen. It is extremely hard to master full keyboard driven workflow when
+you constantly need to reach for the mouse or touchpad in GUI applications.
+Lastly terminal applications is way simpler than GUI. All options of a GUI
+application is thrown on you when you first launch it. Sometimes apps can have
+thousand of buttons all around the place. Terminal commands on the other hand
+have none. You only use what you need and what you know. If you want to know
+more you learn. It's that simple. In GUI applications you still need to wrap
+your head around all of the buttons, even if it is delayed and can be grasped a
+bit faster with mnemonics, icons and tooltips. In the end I'd say that terminal
+is a way better place to use your keyboard and master all of the skills
+received in previous sections of this article.
+
+So now let's dive into the terminal workflow terminology and meaning behind
+most of the basic stuff. If you're already familiar feel free to skip this
+paragraph.
+
+- What is a **Terminal emulator**: this is a program which renders console,
+it's sole purpose is to draw you a picture and receive and input from you.
+Terminal emulators can have a lot of features, which generally involves
+rendering text, images, multiplexing (opening several CLIs and so on.)
+
+- What is a **Command line interpreter (CLI)**: this is a program which reads
+an input from user and invokes it. You type your command here, it executes and
+shows the result. This thing launches inside of your terminal emulator.
+
+- What is a **Command**: command is a general vague thing. It can be script,
+executable or build in command into your CLI. Any script or executable have a
+location on your disk. The most crucial difference between script and
+executable is that the script cannot be launched by itself, but executable can.
+The script needs a runtime or interpreter: different program which will read
+the script line by line and invoke machine code just as it reads it. And lastly
+build-in command, this thing does not have an actual file which represents it,
+this is a token / a name inside of a different program (CLI) which reads it
+sees that it is built-in command and executes it from within the machine code
+of itself.
+
+- What is a **Path environment variable**: in order to execute built-in command
+CLI looks into it's machine code, but in order to execute any external script
+or executable simply by it's name, it needs to know where exactly it is located
+in your file system in your disk. The **path environment variable** is special
+list of locations which can be executed from CLI. CLI will first look at the
+list of it's built-in commands and if none found, it will look in the list
+specified in **Path** and if some was found it will execute first script or
+executable listed there.
+
+- What is an **External script**: some scripts is just a bunch of commands
+written in succession for specific CLI. CLI can simply read this file line by
+line and execute it as if it where the user that typed them, other scripts can
+be written practically in any interpreted language (e.g javascript, python,
+lua). Normally CLI does not have built in javascript, python or lua interpreter
+baked into it so in order to execute this script it will first need to know
+which runtime to use. Some CLIs are smart enough to find which interpreter to
+use in the **Path**, others will require you to type command which will call a
+script from a necessary runtime.
+
+- What is a **Package manager**: in order to download new programs or scripts,
+maintain version control, stability, protection of your registry, non-pollution
+of a **Path** you need some automated tool. Meet **package manager**. It's yet
+another program which sits on your disks, have an entry in your **Path** and
+can be launched from CLI. The purpose of this program is to help you to
+download and/or update software on your PC. It is responsible for adding
+programs to **Path**, checking it's validity, safely removing them and cleaning
+all unnecessary garbage that may left after deletion maintaining all your
+personal configurations.
+
+> In the end you're left with a `terminal emulator` which runs `CLI` which
+> executes `commands` if it finds it in your `Path` or inside of a `built-in`
+> commands list.
+
+## Must have terminal apps
+
+So now when we understand all the terminology I will lay upon you the list of
+all my favorite command line utilities, commands, package managers, scripts,
+terminal emulators and command line interpreters.
+
