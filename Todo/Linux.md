@@ -39,7 +39,7 @@ The road to greatness.
   - [x] wofi
   - [x] rofi
   - [ ] media player
-  - [~] waybar
+  - [x] waybar
   - [ ] weather in the general notification
   - [ ] timer utility with notification
   - [ ] swaylock
