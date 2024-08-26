@@ -7,6 +7,7 @@ The road to greatness.
 - [ ] Tmux config
 - [x] Desktop environment config (GNOME)
 - [ ] Dots repo
+- [ ] set up DNS via systemctl-resolved
 - [ ] Window manager config [hint](https://github.com/Aylur/dotfiles/tree/main)
   - [ ] hyprland config
     - [x] different keyboard layout per workspace [hint](https://github.com/coffebar/hyprland-per-window-layout/)
@@ -31,6 +32,7 @@ The road to greatness.
   - [x] playerctl next, prev source shortcut + notification
   - [x] wallpapers
   - [x] notifications
+  - [ ] theming (qt gtk and so on, e.g pavucontrol)
   - [ ] low battery notification (waybar kinda superseded)
   - [ ] mail notification
   - [x] sway config (hyprland for now)
