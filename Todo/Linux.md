@@ -28,7 +28,7 @@ The road to greatness.
     - [ ] login right into hyprland [hint](https://www.reddit.com/r/hyprland/comments/127m3ef/starting_hyprland_directy_from_systemd_a_guide_to/)
   - [x] [mangohud](https://github.com/flightlessmango/MangoHud)
   - [x] eww (waybar superseded)
-  - [ ] playerctl next, prev source shortcut + notification (impossible?)
+  - [x] playerctl next, prev source shortcut + notification
   - [x] wallpapers
   - [x] notifications
   - [ ] low battery notification (waybar kinda superseded)
