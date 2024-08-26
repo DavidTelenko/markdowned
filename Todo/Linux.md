@@ -39,6 +39,7 @@ The road to greatness.
   - [x] wofi (rofi superseded)
   - [x] rofi
   - [ ] media player
+  - [ ] [gamemode](https://github.com/FeralInteractive/gamemode)
   - [x] waybar
   - [ ] weather in waybar?
   - [ ] timer utility with notification
