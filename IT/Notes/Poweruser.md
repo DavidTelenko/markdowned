@@ -425,3 +425,31 @@ So now when we understand all the terminology I will lay upon you the list of
 all my favorite command line utilities, commands, package managers, scripts,
 terminal emulators and command line interpreters.
 
+# // Temp List of Soft
+
+- `aria2c` - downloader (bit torrent client)
+- `bat` - cat
+- `bottom` - resource manager (btm > btop)
+- `brename` - batch rename
+- `cmus` - music player
+- `croc` - share files
+- `delta` - git diff
+- `eza` - better ls
+- `fd` - better find
+- `ffmpeg` - aio low level media driver
+- `fzf` - fuzzy finder (find anything from anything)
+- `gow` - gnu on windows
+- `mpv` - videoplayer
+- `mupdf` - books (dark reader)
+- `nu` - shell
+- `nvim` - edit
+- `oh-my-posh` - prompt styling
+- `pdftk` - pdf toolkit
+- `rg` - grep
+- `scoop` - win pm
+- `tokei` - lines of code
+- `ttyper` - typing trainer
+- `wiztree` - visual du Windows only
+- `yazi` - explorer
+- `yt-dlp` - download from youtube
+- `zoxide` - jump dir (cd with memory)
