@@ -5,14 +5,13 @@ This is the list of series i'm watching, seen and wanna watch, also with thought
 - Stranger Things S1 S2 S3 S4 (started to feel mild cringe, good, wait for the next S)
 - The House of Dragon S1 S2 (good so far, wait for the next S)
 - Fargo S1 S2 S3 S4 (marvel)
-- The Boys S1 S2 S3 (started to cringe, wait for the next S)
+- The Boys S1 S2 S3 S4 (ok so far, unexpected, wait for the next S)
+- Gen V S1 (some unmotivated actions, weird, ok)
 - Sex Education S1 S2 S3 (cringe but watchable, glass eaten)
 - Shadow and bone S1 (cringe but watchable)
 
 # To Watch
 
-- Gen V
-- The Boys S4
 - Ozark
 - 1899
 - The Sopranos
@@ -42,4 +41,4 @@ This is the list of series i'm watching, seen and wanna watch, also with thought
 - Better Call Saul S1-S6 (marvel, glass eaten) [9.5/10]
 - The end of the fucking world S1-S2 (quality) [8/10]
 - I Am Not Okay With This S1 (interesting, short) [8/10]
-- Big mouse S1 (interesting, stuffed, a bit broken) [7/10]
+- Big mouse (interesting, stuffed, a bit broken) [7/10]
