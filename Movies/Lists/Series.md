@@ -1,4 +1,4 @@
-This is the list of series i'm watching, seen and wanna watch, also with thoughts about it and future.
+This is the list of series i'm watching, seen and wanna watch, with thoughts about it and future.
 
 # In process
 
@@ -28,7 +28,6 @@ This is the list of series i'm watching, seen and wanna watch, also with thought
 - Alchemy of the Souls (Something interesting?)
 - Succession
 - How I Met Your Mother
-- Greedy People
 
 # Seen
 
