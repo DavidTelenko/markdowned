@@ -63,9 +63,9 @@
 
 API CRUD operations on:
 
-- user
-- image
-- image collection
+- User
+- Image
+- Image collection
 
 ## Database:
 
