@@ -27,3 +27,5 @@ tab to select some items and alt+q to add to quick list
 ctrl+q $ A to add to end of each line
 
 K - info about token under cursor (lsp help / man)
+
+zf - fold action (can be combined with ap and so on)
