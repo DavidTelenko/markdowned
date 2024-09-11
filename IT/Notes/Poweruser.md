@@ -1,34 +1,24 @@
-# Poweruser
+<!--toc:start-->
 
-## Baby Steps
-
-- [x] Touch typing
-- [x] Vim Motions
-- [x] Markdown
-
-## Shallow waters
-
-- [x] Poweruser settings, Powertoys
-- [x] Keyboard centric workflow
-- [x] Master your Browser (Opinionated)
-
-## Deep woods
-
-- [x] Terminal workflow
-- [ ] Must have terminal apps
-- [ ] CLI - Nushell, zsh, dash, bash, sh
-- [ ] Terminal emulator - Windows Terminal, Wezterm, Kitty
-- [ ] Configuring tools
-- [ ] Your `dots`
-- [ ] Neovim as your editor
-
-## Wildlife
-
-- [ ] Linux
-- [ ] Window Manager vs Desktop Environment
-- [ ] Key Mapping
-- [ ] Hyprland
-- [ ] Deep waters
+- [Preface](#preface)
+- [Baby steps](#baby-steps)
+  - [Touch typing](#touch-typing)
+  - [Vim Motions](#vim-motions)
+  - [Markdown](#markdown)
+- [Shallow waters](#shallow-waters)
+  - [Poweruser settings](#poweruser-settings)
+  - [Keyboard centric workflow](#keyboard-centric-workflow)
+  - [Master your Browser](#master-your-browser)
+- [Deep woods](#deep-woods)
+  - [Terminal workflow](#terminal-workflow)
+  - [Must have terminal apps](#must-have-terminal-apps)
+- [// Temp List of Soft](#temp-list-of-soft)
+- [TODO](#todo)
+  - [Baby Steps](#baby-steps)
+  - [Shallow waters](#shallow-waters)
+  - [Deep woods](#deep-woods)
+  - [Wildlife](#wildlife)
+  <!--toc:end-->
 
 # Preface
 
@@ -66,7 +56,7 @@ I only have this tips for you here.
 - If you feel that accuracy drops but speed grows, artificially slow your
   typing speed.
 - Increase your 'cache', try typing more and more words in succession.
-- Try exercising lookahead. If you typing a test, while typing one word try to
+- Try exercising look ahead. If you typing a test, while typing one word try to
   think and look for the next one. If you typing from your head, try splitting
   your mind into typing and thinking part (yeah that's weird).
 - Learn number row, don't bother too much about arrow keys and numpad, we will
@@ -106,7 +96,7 @@ The basic roadmap to learn vim motions is the following:
 
 And remember: for now don't try Vim itself.
 
-There is a ton of cheet sheets in the Internet which can be used as a bootstrap
+There is a ton of cheat sheets in the Internet which can be used as a bootstrap
 for learning.
 To make this article a bit shorter I will just write some of my own most used
 and interesting motions, so that when you learn and understand most of the
@@ -140,7 +130,7 @@ useful.
 - `@<any char>` - repeats presses (macro)
 - `:put <any char>` - put contents of macro as text into current buffer
 - `"<any char>y` - copy text to register <any char>, if text is macro it can be
-   played with `@<any char>`
+  played with `@<any char>`
 - `ctrl + f` - in command mode opens up editable buffer
 - `ctrl + x` - completion
 - `ctrl + q $ A` to add to end of each line
@@ -188,7 +178,7 @@ for Desktop environment Linux users and MacOS users.
 
 This is quite general advice and quite opinionated one. First thing first,
 manage system resources and processes. Remember to close long running and
-useless apps. Remove all unnecessary software and files. 
+useless apps. Remove all unnecessary software and files.
 
 Secondly, for the love of God, organize your directories. My personal layout is
 something along the lines of:
@@ -197,17 +187,17 @@ Hard drive (aka Slow one):
 
 - Downloads
 - Videos
-    - Captures
-    - Movies
-    - Series
+  - Captures
+  - Movies
+  - Series
 - Pictures
-    - Backgrounds
-    - Icons
-    - Personal
+  - Backgrounds
+  - Icons
+  - Personal
 - Games
-    - Files
-    - Saves
-    - Installers
+  - Files
+  - Saves
+  - Installers
 - Cache
 
 Solid state drive (aka Fast one)
@@ -250,24 +240,24 @@ of right thumb buttons: Meta, Alt or in some keyboards special space buttons.
 Without further ado here is the list of my remapped keys:
 
 - Arrow Keys
-    - `Alt + h` - `Arrow Left`
-    - `Alt + j` - `Arrow Down`
-    - `Alt + k` - `Arrow Up`
-    - `Alt + l` - `Arrow Right`
+  - `Alt + h` - `Arrow Left`
+  - `Alt + j` - `Arrow Down`
+  - `Alt + k` - `Arrow Up`
+  - `Alt + l` - `Arrow Right`
 - Word navigation
-    - `Alt + w` - `Ctrl` + `Arrow Left`
-    - `Alt + b` - `Ctrl` + `Arrow Right`
+  - `Alt + w` - `Ctrl` + `Arrow Left`
+  - `Alt + b` - `Ctrl` + `Arrow Right`
 - Media buttons
-    - `Alt + p` - `Play/Pause`
-    - `Alt + v` - `Volume Up`
-    - `Alt + Shift + v` - `Next Track`
-    - `Alt + n` - `Volume Up`
-    - `Alt + Shift + n` - `Previous Track`
-    - `Alt + ,` - Seek back 5 sec (Linux only)
-    - `Alt + .` - Seek forward 5 sec (Linux only)
+  - `Alt + p` - `Play/Pause`
+  - `Alt + v` - `Volume Up`
+  - `Alt + Shift + v` - `Next Track`
+  - `Alt + n` - `Volume Up`
+  - `Alt + Shift + n` - `Previous Track`
+  - `Alt + ,` - Seek back 5 sec (Linux only)
+  - `Alt + .` - Seek forward 5 sec (Linux only)
 - Other
-    - `Capslock` - `Left Control`
-    - `Alt + Numlock` - `Capslock`
+  - `Capslock` - `Left Control`
+  - `Alt + Numlock` - `Capslock`
 
 All other keyboard shortcuts is good enough in Windows and for Linux you can
 find my dot files in my GitHub.
@@ -278,7 +268,7 @@ Keyboard shortcuts on Windows which is most useful is the following:
 - `Win + Shift + S` - Launch built-in screenshot utility
 - `Win + Tab` + `Alt + hjkl` - Switch around other apps which is far away from 123456 keys
 - `Alt + F4` - Close app, you can easily remap this to something closer to home row
-- `Win` + *start typing* - app launcher
+- `Win` + _start typing_ - app launcher
 
 With these set up you can tackle a lot more and a lot faster. Vast majority of
 software will be way easier to navigate, any text field not becomes stripped
@@ -367,53 +357,53 @@ most of the basic stuff. If you're already familiar feel free to skip this
 paragraph.
 
 - What is a **Terminal emulator**: this is a program which renders console,
-it's sole purpose is to draw you a picture and receive and input from you.
-Terminal emulators can have a lot of features, which generally involves
-rendering text, images, multiplexing (opening several CLIs and so on.)
+  it's sole purpose is to draw you a picture and receive and input from you.
+  Terminal emulators can have a lot of features, which generally involves
+  rendering text, images, multiplexing (opening several CLIs and so on.)
 
 - What is a **Command line interpreter (CLI)**: this is a program which reads
-an input from user and invokes it. You type your command here, it executes and
-shows the result. This thing launches inside of your terminal emulator.
+  an input from user and invokes it. You type your command here, it executes and
+  shows the result. This thing launches inside of your terminal emulator.
 
 - What is a **Command**: command is a general vague thing. It can be script,
-executable or build in command into your CLI. Any script or executable have a
-location on your disk. The most crucial difference between script and
-executable is that the script cannot be launched by itself, but executable can.
-The script needs a runtime or interpreter: different program which will read
-the script line by line and invoke machine code just as it reads it. And lastly
-build-in command, this thing does not have an actual file which represents it,
-this is a token / a name inside of a different program (CLI) which reads it
-sees that it is built-in command and executes it from within the machine code
-of itself.
+  executable or build in command into your CLI. Any script or executable have a
+  location on your disk. The most crucial difference between script and
+  executable is that the script cannot be launched by itself, but executable can.
+  The script needs a runtime or interpreter: different program which will read
+  the script line by line and invoke machine code just as it reads it. And lastly
+  build-in command, this thing does not have an actual file which represents it,
+  this is a token / a name inside of a different program (CLI) which reads it
+  sees that it is built-in command and executes it from within the machine code
+  of itself.
 
 - What is a **Path environment variable**: in order to execute built-in command
-CLI looks into it's machine code, but in order to execute any external script
-or executable simply by it's name, it needs to know where exactly it is located
-in your file system in your disk. The **path environment variable** is special
-list of locations which can be executed from CLI. CLI will first look at the
-list of it's built-in commands and if none found, it will look in the list
-specified in **Path** and if some was found it will execute first script or
-executable listed there.
+  CLI looks into it's machine code, but in order to execute any external script
+  or executable simply by it's name, it needs to know where exactly it is located
+  in your file system in your disk. The **path environment variable** is special
+  list of locations which can be executed from CLI. CLI will first look at the
+  list of it's built-in commands and if none found, it will look in the list
+  specified in **Path** and if some was found it will execute first script or
+  executable listed there.
 
 - What is an **External script**: some scripts is just a bunch of commands
-written in succession for specific CLI. CLI can simply read this file line by
-line and execute it as if it where the user that typed them, other scripts can
-be written practically in any interpreted language (e.g javascript, python,
-lua). Normally CLI does not have built in javascript, python or lua interpreter
-baked into it so in order to execute this script it will first need to know
-which runtime to use. Some CLIs are smart enough to find which interpreter to
-use in the **Path**, others will require you to type command which will call a
-script from a necessary runtime.
+  written in succession for specific CLI. CLI can simply read this file line by
+  line and execute it as if it where the user that typed them, other scripts can
+  be written practically in any interpreted language (e.g javascript, python,
+  lua). Normally CLI does not have built in javascript, python or lua interpreter
+  baked into it so in order to execute this script it will first need to know
+  which runtime to use. Some CLIs are smart enough to find which interpreter to
+  use in the **Path**, others will require you to type command which will call a
+  script from a necessary runtime.
 
 - What is a **Package manager**: in order to download new programs or scripts,
-maintain version control, stability, protection of your registry, non-pollution
-of a **Path** you need some automated tool. Meet **package manager**. It's yet
-another program which sits on your disks, have an entry in your **Path** and
-can be launched from CLI. The purpose of this program is to help you to
-download and/or update software on your PC. It is responsible for adding
-programs to **Path**, checking it's validity, safely removing them and cleaning
-all unnecessary garbage that may left after deletion maintaining all your
-personal configurations.
+  maintain version control, stability, protection of your registry, non-pollution
+  of a **Path** you need some automated tool. Meet **package manager**. It's yet
+  another program which sits on your disks, have an entry in your **Path** and
+  can be launched from CLI. The purpose of this program is to help you to
+  download and/or update software on your PC. It is responsible for adding
+  programs to **Path**, checking it's validity, safely removing them and cleaning
+  all unnecessary garbage that may left after deletion maintaining all your
+  personal configurations.
 
 > In the end you're left with a `terminal emulator` which runs `CLI` which
 > executes `commands` if it finds it in your `Path` or inside of a `built-in`
@@ -453,3 +443,35 @@ terminal emulators and command line interpreters.
 - `yazi` - explorer
 - `yt-dlp` - download from youtube
 - `zoxide` - jump dir (cd with memory)
+
+# TODO
+
+## Baby Steps todo
+
+- [x] Touch typing
+- [x] Vim Motions
+- [x] Markdown
+
+## Shallow waters todo
+
+- [x] Poweruser settings, Powertoys
+- [x] Keyboard centric workflow
+- [x] Master your Browser (Opinionated)
+
+## Deep woods todo
+
+- [x] Terminal workflow
+- [ ] Must have terminal apps
+- [ ] CLI - Nushell, zsh, dash, bash, sh
+- [ ] Terminal emulator - Windows Terminal, Wezterm, Kitty
+- [ ] Configuring tools
+- [ ] Your `dots`
+- [ ] Neovim as your editor
+
+## Wildlife todo
+
+- [ ] Linux
+- [ ] Window Manager vs Desktop Environment
+- [ ] Key Mapping
+- [ ] Hyprland
+- [ ] Deep waters
