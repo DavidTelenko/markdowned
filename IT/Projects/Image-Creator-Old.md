@@ -73,6 +73,11 @@ API CRUD operations on:
 
 - Name
 - Password hash
+- Profile Id
+
+**Profile:**
+
+- Subscription plan
 
 **Collection:**
 
