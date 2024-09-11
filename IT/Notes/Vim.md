@@ -1,3 +1,5 @@
+# General
+
 [Features](https://www.youtube.com/watch?v=gccGjwTZA7k)
 
 gx follow link
@@ -19,11 +21,21 @@ q<any char> <record shit> q
 ctrl + f in command mode opens up editable buffer
 ctrl + x completion
 
+ctrl+q $ A to add to end of each line
+
+K - info about token under cursor (lsp help / man)
+
+zf - fold action (can be combined with ap and so on)
+
+# Telescope
+
 telescope grep to find
 ctrl+q to add all found files to quick list or
 tab to select some items and alt+q to add to quick list
 :cdo with buffer command to execute shit
 
-ctrl+q $ A to add to end of each line
+# nvim-surround
 
-K - info about token under cursor (lsp help / man)
+Stdiv - wrap selected text in visual mode with div
+dst - delete tag
+cst - change tag
