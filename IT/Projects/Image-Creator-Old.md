@@ -260,3 +260,5 @@ imgen image list "{name}"
 
 - There can be server (probably in go) which will do database management and
   image generation, but it's in future.
+
+- Scrollbar
