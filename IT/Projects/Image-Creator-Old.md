@@ -242,7 +242,7 @@ imgen collection find "{name}" | get 0 | icreator image list
 imgen image list "{name}"
 ```
 
-# Ideas:
+# Ideas and TODO:
 
 - All images collection: default collection which contains all images (can be
   implemented purely programmatically)
