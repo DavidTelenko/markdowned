@@ -73,6 +73,11 @@ API CRUD operations on:
 
 - Name
 - Password hash
+- Profile Id
+
+**Profile:**
+
+- Subscription plan
 
 **Collection:**
 
@@ -237,7 +242,7 @@ imgen collection find "{name}" | get 0 | icreator image list
 imgen image list "{name}"
 ```
 
-# Ideas:
+# Ideas and TODO:
 
 - All images collection: default collection which contains all images (can be
   implemented purely programmatically)
@@ -255,3 +260,5 @@ imgen image list "{name}"
 
 - There can be server (probably in go) which will do database management and
   image generation, but it's in future.
+
+- Scrollbar
