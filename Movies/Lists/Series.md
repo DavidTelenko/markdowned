@@ -20,6 +20,7 @@ This is the list of series i'm watching, seen and wanna watch, with thoughts abo
 - Dexter
 - Black Mirror
 - Brooklyn Nine-Nine (If you like the Office section)
+- Easy A
 - The Witcher (Huh?)
 - Peaky Blinders
 - Narcos
