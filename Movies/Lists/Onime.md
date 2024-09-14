@@ -36,6 +36,7 @@
 - [ ] [Shangri-La Frontier](https://myanimelist.net/anime/52347/Shangri-La_Frontier__Kusoge_Hunter_Kamige_ni_Idoman_to_su)
 - [ ] [Jigokuraku](https://myanimelist.net/anime/46569/Jigokuraku)
 - [ ] [Vanitas no Carte](https://myanimelist.net/anime/46569/Jigokuraku)
+- [ ] [Make Heroine ga Oosugiru!](https://myanimelist.net/anime/57524/Make_Heroine_ga_Oosugiru)
 - [ ] [Ao no Exorcist](https://myanimelist.net/anime/9919/Ao_no_Exorcist)
 - [ ] [Kusuriya no Hitorigoto](https://myanimelist.net/manga/107562/Kusuriya_no_Hitorigoto)
 - [ ] [Zom 100: Zombie ni Naru made ni Shitai 100 no Koto](https://myanimelist.net/anime/54112/Zom_100__Zombie_ni_Naru_made_ni_Shitai_100_no_Koto)
