@@ -39,3 +39,16 @@ tab to select some items and alt+q to add to quick list
 Stdiv - wrap selected text in visual mode with div
 dst - delete tag
 cst - change tag
+
+# find and replace occurrence after
+
+Breakdown:
+
+- `\*`: start a search for the word under the cursor (g\* if you don’t want the word boundaries)
+- `c`: change
+- `gn`: the next match
+
+So you put your cursor somewhere in a word, press \*cgn, type the replacement,
+hit <esc>, and then hit `.` to change the next occurrence.
+
+If you already searched for the word, ignore the \* and just cgn.
