@@ -41,6 +41,142 @@ Create simple archive
 tar -cf backup.tar path/to/dir
 ```
 
+# git remider
+
+#### general things
+
+1. Stage changes
+
+```nu
+git add <filepath> # which can be '.'
+```
+
+2. Commit changes
+
+```nu
+git commit -m <commit-message>
+```
+
+3. Push change to remote
+
+```nu
+git push
+```
+
+4. Clone repository
+
+```nu
+git clone --recurse-submodules <url>
+```
+
+5. Fetch changes
+
+```nu
+git fetch <remote>
+git switch <branch>
+git merge <remote>/<branch>
+
+# Example
+git fetch origin
+git switch fix/regex-lookahead
+git merge origin/fix/regex-lookahead
+```
+
+#### List remotes
+
+```nu
+git remote -v
+```
+
+#### Delete branch
+
+1. Locally
+
+```nu
+git branch -d <branch-name>
+
+# Example
+gti push -d "fix/some-fix"
+```
+
+2. Remotely
+
+```nu
+git push -d <remote-name> <branch-name>
+
+# Example
+gti push -d origin "fix/some-fix"
+```
+
+#### Reset recipes
+
+1. Unstage files
+
+```nu
+git restore --staged <filepath> # which can be '.'
+```
+
+2. Undo last commit
+
+```nu
+git reset HEAD~
+```
+
+3. Undo last reset
+
+```nu
+git reset HEAD@{1}
+```
+
+4. Remove file from last commit
+
+```nu
+git reset HEAD^ -- <filepath>
+git commit --amend --no-edit
+```
+
+#### Change commit, edit commit (patch commit)
+
+```nu
+git commit --amend           # craft a new name
+git commit --ament --no-edit # use the old name
+```
+
+#### List branches
+
+```nu
+git branch -a # all
+git branch -r # remote
+git branch -l # local
+```
+
+#### Switch branch
+
+```nu
+git switch <branch>        # switch branch
+git switch -c <new-branch> # create branch
+```
+
+#### Remove last stash entry
+
+```nu
+git stash drop stash@{0}
+```
+
+#### Show all stash entries
+
+```nu
+git stash list
+```
+
+#### Scenario: Put existing work to the new branch
+
+```nu
+git stash
+git switch -c <new-branch-name>
+git stash pop
+```
+
 # Croc utility reminder
 
 Send a file (self-hosted relay)
