@@ -135,6 +135,12 @@ git reset HEAD^ -- <filepath>
 git commit --amend --no-edit
 ```
 
+5. Clear current unstaged changes
+
+```nu
+git restore .
+```
+
 #### Change commit, edit commit (patch commit)
 
 ```nu
