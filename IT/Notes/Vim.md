@@ -26,6 +26,7 @@ ctrl+q $ A to add to end of each line
 K - info about token under cursor (lsp help / man)
 
 zf - fold action (can be combined with ap and so on)
+:wrap + :linebreak - to adequately view text files
 
 # Telescope
 
