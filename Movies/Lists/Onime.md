@@ -35,6 +35,7 @@
 - [ ] [One Piece](https://myanimelist.net/anime/21/One_Piece)
 - [ ] [Shangri-La Frontier](https://myanimelist.net/anime/52347/Shangri-La_Frontier__Kusoge_Hunter_Kamige_ni_Idoman_to_su)
 - [ ] [Jigokuraku](https://myanimelist.net/anime/46569/Jigokuraku)
+- [ ] [Noragami](https://myanimelist.net/anime/20507/Noragami)
 - [ ] [Vanitas no Carte](https://myanimelist.net/anime/46569/Jigokuraku)
 - [ ] [Make Heroine ga Oosugiru!](https://myanimelist.net/anime/57524/Make_Heroine_ga_Oosugiru)
 - [ ] [Ao no Exorcist](https://myanimelist.net/anime/9919/Ao_no_Exorcist)
