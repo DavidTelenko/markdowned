@@ -38,6 +38,7 @@
 
 # To watch
 
+- Swiss Army Man
 - Borat
 - Greedy People
 - The Shawshank Redemption
