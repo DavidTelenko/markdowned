@@ -262,3 +262,7 @@ imgen image list "{name}"
   image generation, but it's in future.
 
 - Scrollbar
+
+- Skeleton component for loading
+
+- useQuery (maybe tanstack) for fetching data
