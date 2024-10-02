@@ -152,11 +152,20 @@ imgen directory open [--collection "{collection_name}|{collection_id}"]
 # directory and in database
 # output image(s) if terminal supports picture rendering
 imgen image generate/create "{prompt}" [--amount "{number}"]
+# POST /api/image/generate
+# {
+#   amount: number
+#   prompt: string
+# } -> images: url[]
 
 # regenerates last generated image deleting it from database right away
 # if index was provided it will only regenerate that image from last generation
 # if index is out of bounds command will be rejected
 imgen image regenerate [--index "{number}"]
+# UPDATE /api/image/regenerate
+# {
+#   index: number | id: objectId
+# } -> image: url, index: number | id: objectId
 
 # launches area selector to regenerate image, creates new image in the same
 # collection, with the same prompt, but edits selected area with new content
@@ -164,13 +173,23 @@ imgen image paint "{image_prompt}|{image_id}" "{prompt}"
 
 # delete image by id
 imgen image delete "{image_id}"
+# DELETE /api/image/:id -> 200
 
 # fuzzily find image(s) and return it as array of id's
 # searches only in specified collection if provided
 imgen image find "{prompt}" [--collection "{collection_id}"]
+# GET /api/image/find
+# {
+#   prompt: string.max(1000)
+#   collectionId?: objectId
+# }
 
 # list all generated images in specified collection
 imgen image list ?"{collection_id}|{collection_name}"
+# GET /api/image/list/:collectionId -> n-images[], nextId
+# {
+#   marker: nextId
+# }
 ```
 
 **Tags related**
@@ -196,25 +215,44 @@ imgen image tags edit "{tag_text}" "{new_tag_text}"
 # create collection
 # this will output collection_id to terminal
 imgen collection create "{name}" [--set]
+# POST /api/collection/create
+# {
+#   name: string
+#   preview: ...
+# }
 
 # delete image collection
 imgen collection delete "{collection_id}|{collection_name}"
+# DELETE /api/collection/:id
 
 # list all collections (id, name, amount of pictures in it)
 imgen collection list
+# GET /api/collection/
 
 # add image to collection
 imgen colletion add "{image_id}"
+# PUT /api/collection/add/:collectionId
+# {
+#   image: objectId
+# }
 
 # set current working collection to which all images will be generated
-icraetor collection set "{collection_id}|{collection_name}"
+imgen collection set "{collection_id}|{collection_name}"
 
 # get id of collection by name
 # if collection has duplicates this will return array of indices
 imgen collection find "{collection_name}"
+# GET /api/collection/
+# {
+#   name: string
+# } -> collectionId[]
 
 # control collection public visibility
-imgen collection public true|false
+imgen collection public "true"|"false"
+# PUT /api/collection/:id
+# {
+#   isPrivate: boolean
+# }
 
 # opens collection in web browser view
 imgen collection open "{collection_id}|{collection_name}"
@@ -260,5 +298,3 @@ imgen image list "{name}"
 
 - There can be server (probably in go) which will do database management and
   image generation, but it's in future.
-
-- Scrollbar

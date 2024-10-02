@@ -28,6 +28,10 @@ K - info about token under cursor (lsp help / man)
 zf - fold action (can be combined with ap and so on)
 :wrap + :linebreak - to adequately view text files
 
+:bd - close buffer, this is useful when you have several files which you
+edited, didn't save and then deleted one of them, in this case use `:bd!` in
+the one which you deleted
+
 # Telescope
 
 telescope grep to find
