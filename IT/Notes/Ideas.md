@@ -35,3 +35,7 @@
 - Make cooperative mode
 - Plan vacations
 - 3D model on table
+
+# Random project ideas
+
+- Rewind by the beat
