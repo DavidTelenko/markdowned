@@ -183,13 +183,6 @@ imgen image find "{prompt}" [--collection "{collection_id}"]
 #   prompt: string.max(1000)
 #   collectionId?: objectId
 # }
-
-# list all generated images in specified collection
-imgen image list ?"{collection_id}|{collection_name}"
-# GET /api/image/list/:collectionId -> n-images[], nextId
-# {
-#   marker: nextId
-# }
 ```
 
 **Tags related**
@@ -227,7 +220,14 @@ imgen collection delete "{collection_id}|{collection_name}"
 
 # list all collections (id, name, amount of pictures in it)
 imgen collection list
-# GET /api/collection/
+# GET /api/collection/list
+
+# list all generated images in specified collection
+imgen collection list "{collection_id}|{collection_name}"
+# GET /api/collection/list/:collectionId -> n-images[], nextId
+# {
+#   marker: nextId
+# }
 
 # add image to collection
 imgen colletion add "{image_id}"
