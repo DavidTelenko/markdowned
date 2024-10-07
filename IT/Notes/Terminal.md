@@ -96,7 +96,7 @@ git remote -v
 git branch -d <branch-name>
 
 # Example
-gti branch -d "fix/some-fix"
+git branch -d "fix/some-fix"
 ```
 
 2. Remotely
