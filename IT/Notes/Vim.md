@@ -1,6 +1,7 @@
 # General
 
 [Features](https://www.youtube.com/watch?v=gccGjwTZA7k)
+[Nice article](https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/moving-blazingly-fast-with-the-core-vim-motions/)
 
 gx follow link
 gf follow file
@@ -27,6 +28,15 @@ K - info about token under cursor (lsp help / man)
 
 zf - fold action (can be combined with ap and so on)
 :wrap + :linebreak - to adequately view text files
+
+:bd - close buffer, this is useful when you have several files which you
+edited, didn't save and then deleted one of them, in this case use `:bd!` in
+the one which you deleted
+
+/{pattern} - search forward
+?{pattern} - search backward
+
+{line}gg - to go to specific line
 
 # Telescope
 
