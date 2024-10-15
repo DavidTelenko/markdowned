@@ -215,7 +215,7 @@ What is this document? This is just my long list of general already implemented 
 # Soundtrack
 
 - Atmospheric sound effects, upon entering, exiting POI
-- Continuous ambient
+- Continuous ambient [ideas](https://www.youtube.com/watch?v=5HU8Jm6pNS0)
 - No cuts
 - A LOT of combat rhythmic music
 - Deeper sounds, low, bass, sound design
