@@ -38,6 +38,16 @@ the one which you deleted
 
 {line}gg - to go to specific line
 
+# Quicklist
+
+:copen - Open the quickfix list window.
+:ccl or :cclose - Close the quickfix list window.
+:cnext or :cn - Go to the next item on the list.
+:cprev or :cp - Go to the previous item on the list.
+:cfirst - Go to the first item on the list.
+:clast - Go to the last item on the list.
+:cc <n> - Go to the nth item.
+
 # Telescope
 
 telescope grep to find
