@@ -51,6 +51,18 @@ tar -cf backup.tar path/to/dir
 git add <filepath> # which can be '.'
 ```
 
+Interactively
+
+```nu
+git add -i
+```
+
+By hunk (probably my favorite)
+
+```nu
+git add -p
+```
+
 2. Commit changes
 
 ```nu
