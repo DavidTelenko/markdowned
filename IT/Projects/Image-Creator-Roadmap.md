@@ -302,7 +302,18 @@ imgen image list "{name}"
 # Frontend Ideas
 
 - Scrollbar
-
 - Skeleton component for loading
-
 - useQuery (maybe tanstack) for fetching data
+
+# Done
+
+- Automatic module loading
+- Server setup
+  - Graceful shutdown
+- Server middleware (sink, pipe)
+- Database connection
+- PM2
+- Logging (winston, morgan)
+- Jwt auth
+- Validation
+- Server routes
