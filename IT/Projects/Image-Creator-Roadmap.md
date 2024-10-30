@@ -307,6 +307,8 @@ imgen image list "{name}"
 
 # Done
 
+- Lint + check (husky)
+- Npm scripts
 - Automatic module loading
 - Server setup
   - Graceful shutdown
@@ -317,3 +319,4 @@ imgen image list "{name}"
 - Jwt auth
 - Validation
 - Server routes
+- CRUD operations
