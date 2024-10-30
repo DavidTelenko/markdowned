@@ -27,6 +27,9 @@ ctrl+q $ A to add to end of each line
 K - info about token under cursor (lsp help / man)
 
 zf - fold action (can be combined with ap and so on)
+zo - open fold
+zc - close fold
+za - toggle fold
 :wrap + :linebreak - to adequately view text files
 
 :bd - close buffer, this is useful when you have several files which you
