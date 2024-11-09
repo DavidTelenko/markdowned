@@ -27,8 +27,6 @@ ctrl+q $ A to add to end of each line
 K - info about token under cursor (lsp help / man)
 
 zf - fold action (can be combined with ap and so on)
-zo - open fold
-zc - close fold
 za - toggle fold
 :wrap + :linebreak - to adequately view text files
 
@@ -82,3 +80,13 @@ So you put your cursor somewhere in a word, press \*cgn, type the replacement,
 hit <esc>, and then hit `.` to change the next occurrence.
 
 If you already searched for the word, ignore the \* and just cgn.
+
+# fugitive
+
+\_gg - open git menu
+= - toggle diffview
+visual selection to add hunk
+s - to stage
+u - to unstage
+<CR> - to go to file
+cc - commit (hooks run before message)
