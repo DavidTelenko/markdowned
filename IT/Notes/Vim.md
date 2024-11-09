@@ -41,6 +41,12 @@ the one which you deleted
 
 {line}gg - to go to specific line
 
+# Macros
+
+q<register-name> - records macro into <register-name>
+"<register-name>p - pastes recored macro into buffer
+q<register-name><macro>Q - <macro> will replay until error
+
 # Quicklist
 
 :copen - Open the quickfix list window.
