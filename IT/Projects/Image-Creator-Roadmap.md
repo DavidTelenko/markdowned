@@ -280,25 +280,6 @@ imgen collection find "{name}" | get 0 | icreator image list
 imgen image list "{name}"
 ```
 
-# Ideas and TODO:
-
-- All images collection: default collection which contains all images (can be
-  implemented purely programmatically)
-
-- Image style and tags generation should involve similar to pinterest model
-
-- If images is not displayable in tui, it's probably very inconvenient to use
-  TUI tool. We should be able to show image right after generation
-
-- GUI frontend must have decent keyboard shortcuts in flutter this involves
-  dancing with a tambourine
-
-- Backend at first can be implemented with firebase, but should be decoupled
-  from frontend interfaces
-
-- There can be server (probably in go) which will do database management and
-  image generation, but it's in future.
-
 # Frontend Ideas
 
 - Scrollbar
