@@ -1,3 +1,55 @@
+# PyQT V1
+
+- [x] Bing image creator api view
+- [x] Centered image
+- [x] Prepended prompt and body prompt input field
+- [x] Asyncronous generation and ui
+- [x] Proper window resizing
+- [x] Save image on right click
+- [x] Copy image on right click to clipboard
+- [x] Git repo
+- [x] History (promt - local image path)
+- [x] Watermark inpainting.
+- [x] EXIF tags, implement prompt injection (preferably into comment tag)
+- [ ] Build-in upscale.
+  - [x] Local model /
+  - [ ] online API
+  - [ ] switch
+- [ ] Comparison arrows like in nvidia rtx page
+- [ ] Hand pick inpaint mask.
+- [ ] Sort by image content into separate folders.
+- [ ] Implement other OpenCV features.
+- [ ] Folder management, (cloud storage)
+- [ ] Settings
+  - Choose image generation engine (via `_U` cookie token or API token), maybe run local model?
+  - Localization
+  - Themes
+  - Temp folder choose, cache file, history file...
+- [ ] Button to switch between presentation modes, centered one or grid of 4
+
+# WinUI 3 V2
+
+- [ ] Git Repo
+- [ ] UI
+  - [ ] Prompt and prepend fields
+  - [ ] Centered image (Next, Previous, Full Screen)
+  - [ ] Side menu (Folder Tree view)
+  - [ ] Grid view
+  - [ ] Settings dialog
+  - [ ] Prompt editor
+  - [ ] Blur image when generating
+- [ ] Actions
+  - [ ] Save Image
+  - [ ] Copy image to clipboard
+  - [ ] Copy prompt to clipboard
+  - [ ] Delete image
+  - [ ] Favorite image
+  - [ ] Upscale image
+  - [ ] Edit Prompt
+- [ ] Include prompt to EXIF Comment Tag
+- [ ] Auto inpaint bing watermark
+- [ ] Google Drive Auto backup favourites
+- [ ] Notify when job finished
 - [ ] **Functionality**: Image Generation
 - [ ] **Functionality**: Users, web based database, error report storing
 
@@ -51,9 +103,8 @@
 
 # V 2.0 (React)
 
-- [ ] **Feature**: Loading spinner in login and register screens
 - [ ] **Bug**: Input caret is not visible in login screen
-- [ ] **Feature**: All images collection: default collection which contains all
+- [x] **Feature**: All images collection: default collection which contains all
       images (can be implemented purely programmatically)
 - [ ] **Feature**: Image style and tags generation should involve similar to
       pinterest model
@@ -67,3 +118,37 @@
 - [x] **Feature**: There can be server (probably in go) which will do database
       management and image generation, but it's in future.
 
+# Hot
+
+- [ ] Generation
+- [ ] Create collection
+- [ ] Delete collection
+- [ ] Add image to collection
+- [ ] Show prompt for images inside of collection
+- [ ] Based on subscription user can set collection to private
+- [ ] Viewing other users collections (without an ability to modify of course)
+- [ ] Make ellipsis buttons show appropriate pop-up menus
+
+# Secondary
+
+- [?] Optimize images add proper placeholder images / skeletons
+- [ ] Paginate users list (server side + client side)
+- [ ] Virtuoso image list
+- [ ] Fix image loading styles, lazy loading etc.
+- [ ] Generator creation
+- [ ] User widget
+- [ ] More settings
+- [ ] Add searching capability using something like [algolia](https://dashboard.algolia.com/apps/BMK9DASM4Y/dashboard)
+- [ ] Make sort-by widget have it's own context and hook to give ability for
+      queries to select sorting options
+- [ ] Loading spinner in login and register screens
+
+# Ready
+
+- [x] Fix migrate script
+- [?] Fix generation upload potential bug
+- [x] Expand collection in collections page
+- [x] Pagination in collections and in images
+- [x] General collection
+- [x] Open collection and see images inside (router!)
+- [x] Fix more button not showing in collections without preview image
