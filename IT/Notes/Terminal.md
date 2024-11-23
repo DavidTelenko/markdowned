@@ -117,7 +117,7 @@ git branch -d "fix/some-fix"
 git push -d <remote-name> <branch-name>
 
 # Example
-gti push -d origin "fix/some-fix"
+git push -d origin "fix/some-fix"
 ```
 
 #### Reset recipes
