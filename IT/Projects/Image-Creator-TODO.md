@@ -120,17 +120,41 @@
 
 # Hot
 
-- [ ] Generation
-- [ ] Create collection
-- [ ] Delete collection
-- [ ] Add image to collection
+- [ ] Deployment
+- [x] Generation
+- [ ] Cypress
+- [ ] Docker
+
+- [ ] C generator
+- [ ] R generator
+- [ ] U generator
+- [ ] D generator
+
+- [x] C collection
+- [x] R collection
+- [ ] U collection
+- [ ] D collection
+
+- [x] C image
+- [x] R image
+- [ ] U image in collection
+- [ ] D image from collection
+- [ ] D image completely
+
 - [ ] Show prompt for images inside of collection
 - [ ] Based on subscription user can set collection to private
 - [ ] Viewing other users collections (without an ability to modify of course)
 - [ ] Make ellipsis buttons show appropriate pop-up menus
+- [x] Sort query needs to be passed with the body because it is an object
 
 # Secondary
 
+- [ ] Full-screen image viewer (on left image on right prompt + carousel)
+- [ ] Favorites
+- [x] Sorting
+- [ ] Set appropriate amount of image skeletons in image-results component
+- [ ] If image is only one set it in a component with 1 cell grid instead of 2 by n
+- [ ] Event emitter server side memory leak
 - [?] Optimize images add proper placeholder images / skeletons
 - [ ] Paginate users list (server side + client side)
 - [ ] Virtuoso image list
