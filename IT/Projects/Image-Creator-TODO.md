@@ -122,53 +122,30 @@
 
 - [ ] Deployment
 - [x] Generation
-- [ ] Cypress
-- [ ] Docker
+- [x] Cypress
+- [x] Docker
 
-- [ ] C generator
-- [ ] R generator
+- [x] C generator
+- [x] R generator
 - [ ] U generator
-- [ ] D generator
+- [x] D generator
 
 - [x] C collection
 - [x] R collection
-- [ ] U collection
-- [ ] D collection
+- [x] U collection
+- [x] D collection
 
 - [x] C image
 - [x] R image
-- [ ] U image in collection
-- [ ] D image from collection
-- [ ] D image completely
+- [x] U image in collection
+- [x] D image from collection
+- [x] D image completely
 
-- [ ] Show prompt for images inside of collection
+- [x] Show prompt for images inside of collection
 - [ ] Based on subscription user can set collection to private
 - [ ] Viewing other users collections (without an ability to modify of course)
-- [ ] Make ellipsis buttons show appropriate pop-up menus
+- [x] Make ellipsis buttons show appropriate pop-up menus
 - [x] Sort query needs to be passed with the body because it is an object
-
-# Secondary
-
-- [ ] Full-screen image viewer (on left image on right prompt + carousel)
-- [ ] Favorites
-- [x] Sorting
-- [ ] Set appropriate amount of image skeletons in image-results component
-- [ ] If image is only one set it in a component with 1 cell grid instead of 2 by n
-- [ ] Event emitter server side memory leak
-- [?] Optimize images add proper placeholder images / skeletons
-- [ ] Paginate users list (server side + client side)
-- [ ] Virtuoso image list
-- [ ] Fix image loading styles, lazy loading etc.
-- [ ] Generator creation
-- [ ] User widget
-- [ ] More settings
-- [ ] Add searching capability using something like [algolia](https://dashboard.algolia.com/apps/BMK9DASM4Y/dashboard)
-- [ ] Make sort-by widget have it's own context and hook to give ability for
-      queries to select sorting options
-- [ ] Loading spinner in login and register screens
-
-# Ready
-
 - [x] Fix migrate script
 - [?] Fix generation upload potential bug
 - [x] Expand collection in collections page
@@ -176,3 +153,26 @@
 - [x] General collection
 - [x] Open collection and see images inside (router!)
 - [x] Fix more button not showing in collections without preview image
+
+# Secondary
+
+- [ ] select images -> add to (new) collection
+- [ ] multiple selection workflow
+- [ ] [image watermarking](https://github.com/syvaidya/openstego)
+- [x] Full-screen image viewer (on left image on right prompt + carousel)
+- [x] Favorites
+- [x] Sorting
+- [x] Set appropriate amount of image skeletons in image-results component
+- [x] If image is only one set it in a component with 1 cell grid instead of 2 by n
+- [ ] Event emitter server side memory leak
+- [?] Optimize images add proper placeholder images / skeletons
+- [ ] Paginate users list (server side + client side)
+- [ ] Virtuoso image list
+- [?] Fix image loading styles, lazy loading etc.
+- [x] Generator creation
+- [ ] User widget
+- [ ] More settings
+- [ ] Add searching capability using something like [algolia](https://dashboard.algolia.com/apps/BMK9DASM4Y/dashboard)
+- [x] Make sort-by widget have it's own context and hook to give ability for
+      queries to select sorting options
+- [?] Loading spinner in login and register screens
