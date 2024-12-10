@@ -52,3 +52,18 @@
 
 - [x] Check this [guy's
       work](https://github.com/folke?tab=repositories&q=&type=&language=lua&sort=stargazers)
+
+# MKR
+
+- [ ] First chapter (10%)
+- [ ] Second chapter (80%)
+- [ ] Third chapter (20%)
+- [ ] Abstract references
+- [ ] Proper image numbering
+- [ ] GOST Additional content
+- [x] Server components diagram
+- [x] Declarative API
+- [x] Server workflow diagram
+- [x] General architecture diagram
+- [ ] Auth diagram (refresh+access token)
+- [x] Use-case diagram generation
