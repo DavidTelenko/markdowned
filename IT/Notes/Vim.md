@@ -24,6 +24,8 @@ ctrl + x completion
 
 ctrl+q $ A to add to end of each line
 
+^w= - make all splits the same size
+
 K - info about token under cursor (lsp help / man)
 
 zf - fold action (can be combined with ap and so on)
@@ -54,6 +56,8 @@ q<register-name><macro>Q - <macro> will replay until error
 :cfirst - Go to the first item on the list.
 :clast - Go to the last item on the list.
 :cc <n> - Go to the nth item.
+:cdo s/old/new/cgi - execute command for each entry in list
+:cfdo s/old/new/cgi - execute command for each file in list
 
 # Telescope
 
@@ -90,3 +94,4 @@ s - to stage
 u - to unstage
 <CR> - to go to file
 cc - commit (hooks run before message)
+dv - show diff view
