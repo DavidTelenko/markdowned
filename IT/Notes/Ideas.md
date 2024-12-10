@@ -39,3 +39,7 @@
 # Random project ideas
 
 - Rewind by the beat
+- Telegram but for local network
+- Plugin system
+- Support OS system (plugin based)
+- Sessionizer for windows terminal (probably involves tinkering with wt github repo)
