@@ -57,7 +57,7 @@ q<register-name><macro>Q - <macro> will replay until error
 :clast - Go to the last item on the list.
 :cc <n> - Go to the nth item.
 :cdo s/old/new/cgi - execute command for each entry in list
-:cfdo s/old/new/cgi - execute command for each file in list
+:cfdo %s/old/new/cgi - execute command for each file in list
 
 # Telescope
 
