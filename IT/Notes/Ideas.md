@@ -43,3 +43,4 @@
 - Plugin system
 - Support OS system (plugin based)
 - Sessionizer for windows terminal (probably involves tinkering with wt github repo)
+- Torrent tracker viewer
