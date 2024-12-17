@@ -38,6 +38,8 @@
 
 # To watch
 
+- The Wonderful Story of Henry Sugar (2023)
+- Wolfs (2024)
 - Swiss Army Man
 - Borat
 - Greedy People
