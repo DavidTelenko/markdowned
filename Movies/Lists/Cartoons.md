@@ -9,3 +9,4 @@
 
 - Pantheon
 - Inside Out 2
+- Trollhunters: Rise of the Titans (2021)
