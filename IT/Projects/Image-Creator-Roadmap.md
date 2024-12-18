@@ -227,14 +227,11 @@ imgen collection find "{name}" | get 0 | icreator image list
 imgen image list "{name}"
 ```
 
-# Frontend Ideas
+# Done
 
 - Scrollbar
 - Skeleton component for loading
 - useQuery (maybe tanstack) for fetching data
-
-# Done
-
 - Lint + check (husky)
 - Npm scripts
 - Automatic module loading

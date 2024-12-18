@@ -20,6 +20,20 @@
 - AI summarizer, translator.
 - Custom model for AI from internet.
 
+# Interesting topics
+
+- Quantum computing
+- IoT (smart house)
+- Glove of magic
+- Computer vision
+- Bionic systems
+- Tech vision
+- Intellectual illumination systems (smart city)
+- Build-in inertia systems
+- Intellectual system of waste treatment (Smart city)
+- Eco monitoring
+- 3D perception game rendering
+
 # Syncing stuff ideas
 
 - full sync of configs
@@ -44,4 +58,3 @@
 - Support OS system (plugin based)
 - Sessionizer for windows terminal (probably involves tinkering with wt github repo)
 - Torrent tracker viewer
-
