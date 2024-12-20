@@ -274,7 +274,7 @@ List all devices for dshow grabber (Windows)
 ffmpeg -list_devices true -f dshow -i dummy
 ```
 
-Merge all videos in folder IMPORTANT: don't forget to cd into right directory
+Merge all videos in folder. **IMPORTANT**: don't forget to cd into right directory
 
 ```nu
 (
