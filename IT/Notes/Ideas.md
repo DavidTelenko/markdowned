@@ -58,3 +58,4 @@
 - Support OS system (plugin based)
 - Sessionizer for windows terminal (probably involves tinkering with wt github repo)
 - Torrent tracker viewer
+- Sending dynamic linking libs, over TCP (QUIC) and executing them on the fly (rpc on steroids?)
