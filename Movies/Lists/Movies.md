@@ -35,6 +35,8 @@
 - Top Gun (1986) (based, simple, romantic, atmospheric) [8/10]
 - Inglorious Bastards (2009) (bloody, based plot) [7/10]
 - The Wolf of Wall Street (2013) (lesson learned) [9/10]
+- Mad Max: Fury Road (2015) (atmospheric, daunting) [8/10]
+- Furiosa: A Mad Max Saga (2024) (atmospheric) [8/10]
 
 # To watch
 
