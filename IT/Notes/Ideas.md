@@ -59,3 +59,4 @@
 - Sessionizer for windows terminal (probably involves tinkering with wt github repo)
 - Torrent tracker viewer
 - Sending dynamic linking libs, over TCP (QUIC) and executing them on the fly (rpc on steroids?)
+- Different system level indexing types based on a metatags of a directories and files (to implement something like virtual filtering and aggregations)
