@@ -58,6 +58,7 @@
 - [ ] The Long Dark
 - [ ] The Sims 3
 - [ ] The Vanishing of Ethan Carter
+- [x] Mad Max 2015
 - [x] Detroit: Become Human
 - [x] Disco Elysium
 - [x] Dishonored
