@@ -41,6 +41,7 @@
 # To watch
 
 - The Wonderful Story of Henry Sugar (2023)
+- Black Mass
 - Wolfs (2024)
 - Copshop
 - Swiss Army Man
