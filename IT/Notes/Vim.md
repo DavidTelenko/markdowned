@@ -6,6 +6,7 @@
 gx follow link
 gf follow file
 gu gU change case
+gq split lines by 80 chars
 
 :X encrypt file
 
