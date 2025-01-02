@@ -401,6 +401,8 @@ Download audio only
 yt-dlp -x --audio-format mp3 <video_url>
 ```
 
+See also: [[yt-dlp]]
+
 # ani-cli commands
 
 Download episodes from start to end
