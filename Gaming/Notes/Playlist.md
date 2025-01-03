@@ -58,7 +58,7 @@
 - [ ] The Long Dark
 - [ ] The Sims 3
 - [ ] The Vanishing of Ethan Carter
-- [x] Mad Max 2015
+- [x] DREDGE
 - [x] Detroit: Become Human
 - [x] Disco Elysium
 - [x] Dishonored
@@ -74,6 +74,8 @@
 - [x] Grand Theft Auto: V
 - [x] Grand Theft Auto: Vice City
 - [x] Graveyard Keeper
+- [x] INSIDE
+- [x] Mad Max 2015
 - [x] Magicka 2
 - [x] Pilgrims
 - [x] Prince of Persia: The Two Thrones (3)
