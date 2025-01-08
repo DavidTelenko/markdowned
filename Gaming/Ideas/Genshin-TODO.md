@@ -2,17 +2,23 @@
 
 List of tasks to submit to genshin survey.
 
-- Add an ability to use Radiant Spincrystals without going to tea pot
+- An ability to use Radiant Spincrystals without going to tea pot
 - Not only show an amount of collected item, but also the amount of currently
   possessed ones. So for example if you collect one flower it will show +1 and 32
   total in inventory.
-- Add an ability to skip filler dialogues.
-- Add notifications for Parametric Transformer
-- Add bank of boss drops, meaning if I don't want to farm currently present
-  bosses in world, and want to wait for a newer boss, i can collect up to certain
-  amount of tries instead of waiting when new boss comes out.
+- An ability to skip filler dialogues. For example from resents there was
+  several chill parties, and other minor chit-chat in Natlan archon quests, it
+  could be skipped right to action, which means you need to only set some time
+  points in configuration that indicates them and be able to skip through.
+- Notifications for Parametric Transformer. When it's done exclamation mark
+  could be shown on inventory.
+- Bank of boss drops, meaning if I don't want to farm currently present bosses
+  in the world, and want to wait for a newer boss, I can collect up to certain
+  amount of tries and then use them whenever the new boss comes out. It would
+  greatly increase satisfaction of playing a newly added character with new boss
+  materials for talents, and also give an ability to spend more resin.
 - More locations with artifacts in game. Just like with Obsidian fragments.
   Maybe add some guaranteed afixes for this kind of artifacts.
-- Add permanent hide'n'seek mini game.
+- Permanent hide'n'seek mini game.
 - Make restart button for a Crystalfly Trap, so that it would just place it in
   the same place with same materials as a fuel.
