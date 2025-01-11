@@ -40,6 +40,7 @@
 
 # To watch
 
+- John Carter
 - The Wonderful Story of Henry Sugar (2023)
 - Black Mass
 - Wolfs (2024)
