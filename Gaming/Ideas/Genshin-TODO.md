@@ -2,6 +2,9 @@
 
 List of tasks to submit to genshin survey.
 
+- An ability to select which theme to use, there's both dark and white loading
+  screens in game, but they alternate randomly, add a single switch in settings
+  to select one particular.
 - An ability to use Radiant Spincrystals without going to tea pot
 - Not only show an amount of collected item, but also the amount of currently
   possessed ones. So for example if you collect one flower it will show +1 and 32
