@@ -1,0 +1,3 @@
+- [ ] (WAI)[https://www.w3.org/WAI/courses/foundations-course/]
+- [ ] (axe-con)[https://www.deque.com/axe-con/]
+- [ ] (inclusive design)[https://inclusivedesign24.org/2024/]
