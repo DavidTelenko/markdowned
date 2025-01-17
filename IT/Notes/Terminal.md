@@ -209,6 +209,12 @@ git commit --amend           # craft a new name
 git commit --ament --no-edit # use the old name
 ```
 
+After this it might be needed to push with `--force-with-lease` flag
+
+```nu
+git push --force-with-lease
+```
+
 #### List branches
 
 ```nu
@@ -224,10 +230,13 @@ git switch <branch>        # switch branch
 git switch -c <new-branch> # create branch
 ```
 
-#### Remove last stash entry
+#### Operate on stash entry
 
 ```nu
-git stash drop stash@{0}
+git stash drop # remove last entry
+git stash pop # pop last entry
+git stash drop stash@{1} # remove n-th entry
+git stash pop stash@{1} # pop n-th entry
 ```
 
 #### Show all stash entries
@@ -242,6 +251,15 @@ git stash list
 git stash
 git switch -c <new-branch-name>
 git stash pop
+```
+
+#### Scenario: Rebase branch to other head
+
+You're forgot to switch to `main` before creating branch and now your new branch has different parent
+
+```nu
+git switch <new-parent>
+git rebase <some-branch>
 ```
 
 # Croc utility reminder
