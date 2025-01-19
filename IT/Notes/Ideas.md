@@ -66,6 +66,9 @@
 - Torrent tracker viewer
 - Sending dynamic linking libs, over TCP (QUIC) and executing them on the fly
   (rpc on steroids?)
+- Hooking into AST of some lang, generating source code with source code,
+  injecting source code into source code.
+  [see](https://www.youtube.com/watch?v=FFgvV0sA3kU)
 - Different system level indexing types based on a metatags of a directories
   and files (to implement something like virtual filtering and aggregations)
 - Pipe based loader (download from one source on desktop, send this data down
