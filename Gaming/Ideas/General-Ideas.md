@@ -211,6 +211,7 @@ What is this document? This is just my long list of general already implemented 
 - Generate trees (using ebnf grammar) and rocks using noise
 - Generate clouds using 3d noise combined with shaders
 - Quests and lore generation based on static rules using gpt or similar technique
+- Game outcomes based on ebnf grammars
 
 # Soundtrack
 
