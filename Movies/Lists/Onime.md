@@ -10,13 +10,14 @@
 - [x] [Heion Sedai no Idaten-tachi](https://myanimelist.net/anime/42625/Heion_Sedai_no_Idaten-tachi)
 - [ ] [Paranoia Agent](https://myanimelist.net/anime/323/Mousou_Dairinin/)
 - [ ] [Witch Hat Atelier](https://myanimelist.net/manga/100035/Tongari_Boushi_no_Atelier)
+- [ ] [Golden Boy](https://myanimelist.net/anime/268/Golden_Boy)
 - [x] [Tensei shitara Slime Datta Ken](https://myanimelist.net/anime/37430/Tensei_shitara_Slime_Datta_Ken/)[1]
 - [x] [Tensei shitara Slime Datta Ken](https://myanimelist.net/anime/37430/Tensei_shitara_Slime_Datta_Ken/)[2]
 - [ ] [Tensei shitara Slime Datta Ken](https://myanimelist.net/anime/37430/Tensei_shitara_Slime_Datta_Ken/)[3]
 - [ ] [Orb: On the Movements of the Earth](https://myanimelist.net/anime/52215/Chi_Chikyuu_no_Undou_ni_Tsuite)
 - [ ] [The Seven Deadly Sins](https://myanimelist.net/anime/23755/Nanatsu_no_Taizai)
 - [ ] [No Game No Life (No Game, No Life)](https://myanimelist.net/anime/19815/No_Game_No_Life)
-- [ ] [Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru][https://myanimelist.net/anime/47790/Sekai_Saikou_no_Ansatsusha_Isekai_Kizoku_ni_Tensei_suru]
+- [ ] [Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru](https://myanimelist.net/anime/47790/Sekai_Saikou_no_Ansatsusha_Isekai_Kizoku_ni_Tensei_suru)
 - [ ] [Dororo](https://myanimelist.net/anime/37520/Dororo?q=dororo&cat=anime)
 - [ ] [Sakamoto Days](https://myanimelist.net/manga/131334/Sakamoto_Days)
 - [ ] [Kaiju No. 8](https://myanimelist.net/anime/52588/Kaijuu_8-gou)
