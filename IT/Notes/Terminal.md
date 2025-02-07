@@ -262,6 +262,35 @@ git switch <new-parent>
 git rebase <some-branch>
 ```
 
+#### Use interactive rebase
+
+> [video](https://www.youtube.com/watch?v=H7RFt0Pxxp8)
+
+To start rebasing select the base commit
+
+```nu
+git rebase -i <commmit-hash>
+```
+
+1. `reword` to rename commit
+2. `drop` to remove commit
+3. change order (lower is newer)
+
+#### Update current branch with `main` branch
+
+```nu
+git switch <branch>
+git pull origin main
+```
+
+or
+
+```nu
+git switch <branch>
+git fetch origin main
+git rebase origin/main
+```
+
 # Croc utility reminder
 
 Send a file (self-hosted relay)
