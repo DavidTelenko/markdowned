@@ -169,6 +169,24 @@ git push -d <remote-name> <branch-name>
 git push -d origin "fix/some-fix"
 ```
 
+#### Rename branch
+
+1. Locally
+
+```nu
+git branch -m <old-name> <new-name>
+```
+
+2. Remotely
+
+```nu
+git push origin --delete <old-name>
+git push origin :<old-name>
+git branch --unset-upstream <new-name>
+git push origin <new-name>
+git push origin -u <new-name>
+```
+
 #### Reset recipes
 
 1. Unstage files
