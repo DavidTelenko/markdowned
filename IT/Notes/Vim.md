@@ -96,3 +96,4 @@ u - to unstage
 <CR> - to go to file
 cc - commit (hooks run before message)
 dv - show diff view
+a - push to remote
