@@ -63,6 +63,7 @@
 - [x] Disco Elysium
 - [x] Dishonored
 - [x] Divinity: Original Sin 2
+- [x] Elden Ring
 - [x] Enderal: Forgotten Stories
 - [x] Far Cry 3 (3)
 - [x] Far Cry 4 (2)
