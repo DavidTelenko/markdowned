@@ -63,7 +63,7 @@
 - Support OS system (plugin based)
 - Sessionizer for windows terminal (probably involves tinkering with wt github
   repo)
-- Torrent tracker viewer
+- Mobile torrent tracker viewer
 - Sending dynamic linking libs, over TCP (QUIC) and executing them on the fly
   (rpc on steroids?)
 - Hooking into AST of some lang, generating source code with source code,
