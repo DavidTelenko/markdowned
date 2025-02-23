@@ -41,6 +41,7 @@
 # To watch
 
 - The Gentlemen (2019)
+- War dogs
 - Chaos Walking
 - John Carter
 - The Wonderful Story of Henry Sugar (2023)
