@@ -14,6 +14,7 @@ This is the list of series i'm watching, seen and wanna watch, with thoughts abo
 
 - Lucky Hank
 - Ted Lasso
+- Wecrashed
 - Ozark
 - 1899
 - The Sopranos
