@@ -41,6 +41,7 @@
 # To watch
 
 - The Gentlemen (2019)
+- Life of a king
 - War dogs
 - Chaos Walking
 - John Carter
