@@ -48,6 +48,13 @@ q<register-name> - records macro into <register-name>
 "<register-name>p - pastes recored macro into buffer
 q<register-name><macro>Q - <macro> will replay until error
 
+# Buffers
+
+:enew create buffer
+:e edit file (pass file as param)
+:bd close buffer
+:bw wipe buffer
+
 # Quicklist
 
 :copen - Open the quickfix list window.
