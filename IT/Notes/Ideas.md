@@ -74,3 +74,4 @@
 - Pipe based loader (download from one source on desktop, send this data down
   to mobile phone in local network)
 - EGS store client
+- YouTube view manager: watch time, topics, currently watching
