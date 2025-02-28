@@ -68,6 +68,7 @@
 
 - `:X` - encrypt file
 - `:wrap` and `:linebreak` - to adequately view text files
+- `:LspRestart` - restart lsp
 
 # Telescope
 
