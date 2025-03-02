@@ -480,19 +480,19 @@ ani-cli --dub -d "<name>" -e <start>-<end>
 
 Connect to wifi spot
 
-```
+```nu
 nmcli d wifi connect "NAME" password "PASSWORD"
 ```
 
 List all available wifi spots
 
-```
+```nu
 nmcli d wifi
 ```
 
 Check connection status in general
 
-```
+```nu
 nmcli c
 ```
 
