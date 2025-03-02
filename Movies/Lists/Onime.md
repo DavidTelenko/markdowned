@@ -34,6 +34,8 @@
 - [ ] [Dungeon Meshi](https://myanimelist.net/anime/52701/Dungeon_Meshi)
 - [x] [Jujutsu Kaisen](https://myanimelist.net/anime/40748/Jujutsu_Kaisen_TV)[1]
 - [ ] [Jujutsu Kaisen](https://myanimelist.net/anime/51009/Jujutsu_Kaisen_2nd_Season)[2]
+- [ ] [K-On](https://myanimelist.net/anime/5680/K-On)
+- [ ] [Sakigake!! Otokojuku](https://myanimelist.net/anime/2903/Sakigake_Otokojuku)
 - [ ] [Attack on Titan](https://myanimelist.net/anime/16498/Shingeki_no_Kyojin)
 - [ ] [Demon Slayer: Kimetsu no Yaiba](https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba)
 - [ ] [One Piece](https://myanimelist.net/anime/21/One_Piece)
