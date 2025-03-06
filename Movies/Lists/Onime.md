@@ -47,6 +47,7 @@
 - [ ] [Ao no Exorcist](https://myanimelist.net/anime/9919/Ao_no_Exorcist)
 - [ ] [Kusuriya no Hitorigoto](https://myanimelist.net/manga/107562/Kusuriya_no_Hitorigoto)
 - [ ] [Zom 100: Zombie ni Naru made ni Shitai 100 no Koto](https://myanimelist.net/anime/54112/Zom_100__Zombie_ni_Naru_made_ni_Shitai_100_no_Koto)
+- [ ] [Sword Art Online](https://myanimelist.net/anime/11757/Sword_Art_Online)
 - [ ] [Tower of God](https://myanimelist.net/anime/40221/kami_no_tou)
 - [ ] [Mairimashita Iruma-kun](https://myanimelist.net/anime/39196/Mairimashita_Iruma-kun)
 - [ ] [Kami no Tou](https://myanimelist.net/anime/40221/Kami_no_Tou)
