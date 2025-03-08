@@ -14,6 +14,25 @@
 - `K` info about token under cursor (lsp help / man)
 
 - `{line}gg` to go to specific line
+- `<leader>sa` to swap parameters (custom treesitter mapping)
+
+## Text objects
+
+Is used with `i` and `a` motions. E.g: `viw` (visual inside word), `dat` (delete around tag)
+
+### Custom [nvim-various-textobjs](https://github.com/chrisgrieser/nvim-various-textobjs)
+
+- `s` subword (*camel*Case)
+- `i` indentation block
+- `q` any quote
+- `o` any bracket
+
+### Native
+
+- `w` word
+- `W` consecutive characters
+- `p` paragraph
+- `t` tag block
 
 ## Folds
 
