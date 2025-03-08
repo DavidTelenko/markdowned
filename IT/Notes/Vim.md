@@ -13,6 +13,12 @@
 - `J` join lines (removes \n in the end)
 - `K` info about token under cursor (lsp help / man)
 
+- `L` to the end of the line (custom)
+- `A` to the end of the line and go to insert mode
+- `0` to the start of the line (custom)
+- `H` to the first printable character of the line
+- `I` to the first printable character of the line and go to insert mode
+
 - `{line}gg` to go to specific line
 - `<leader>sa` to swap parameters (custom treesitter mapping)
 
