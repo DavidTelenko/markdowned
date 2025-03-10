@@ -31,7 +31,7 @@
 - [ ] [DanDaDan](https://myanimelist.net/anime/57334/Dandadan)
 - [ ] [City Hunter](https://myanimelist.net/anime/1473/City_Hunter_91)
 - [ ] [Elfen Lied](https://myanimelist.net/anime/226/Elfen_Lied)
-- [ ] [Dungeon Meshi](https://myanimelist.net/anime/52701/Dungeon_Meshi)
+- [x] [Dungeon Meshi](https://myanimelist.net/anime/52701/Dungeon_Meshi)
 - [x] [Jujutsu Kaisen](https://myanimelist.net/anime/40748/Jujutsu_Kaisen_TV)[1]
 - [ ] [Jujutsu Kaisen](https://myanimelist.net/anime/51009/Jujutsu_Kaisen_2nd_Season)[2]
 - [ ] [K-On](https://myanimelist.net/anime/5680/K-On)
@@ -48,7 +48,6 @@
 - [ ] [Kusuriya no Hitorigoto](https://myanimelist.net/manga/107562/Kusuriya_no_Hitorigoto)
 - [ ] [Zom 100: Zombie ni Naru made ni Shitai 100 no Koto](https://myanimelist.net/anime/54112/Zom_100__Zombie_ni_Naru_made_ni_Shitai_100_no_Koto)
 - [ ] [Sword Art Online](https://myanimelist.net/anime/11757/Sword_Art_Online)
-- [ ] [Tower of God](https://myanimelist.net/anime/40221/kami_no_tou)
 - [ ] [Mairimashita Iruma-kun](https://myanimelist.net/anime/39196/Mairimashita_Iruma-kun)
 - [ ] [Kami no Tou](https://myanimelist.net/anime/40221/Kami_no_Tou)
 - [ ] [Mob Psycho 100](https://myanimelist.net/anime/32182/Mob_Psycho_100)
@@ -70,7 +69,6 @@
 - [ ] [Tengen Toppa Gurren Lagann (Gurren Lagann)](https://myanimelist.net/anime/2001/Tengen_Toppa_Gurren_Lagann)
 - [ ] [Bungou Stray Dogs (Bungo Stray Dogs)](https://myanimelist.net/anime/31478/Bungou_Stray_Dogs)
 - [ ] [Samurai Champloo](https://myanimelist.net/anime/205/Samurai_Champloo)
-- [ ] [Nige Jouzu no Wakagimi](https://myanimelist.net/anime/54724/Nige_Jouzu_no_Wakagimi)
 - [ ] [Tsue to Tsurugi no Wistoria](https://myanimelist.net/anime/58059/Tsue_to_Tsurugi_no_Wistoria)
 - [ ] [Ore dake Level Up na Ken](https://myanimelist.net/anime/52299/Ore_dake_Level_Up_na_Ken)
 - [ ] [Evangelion: 1.0 You Are (Not) Alone](https://myanimelist.net/anime/2759/Evangelion__10_You_Are_Not_Alone)
@@ -93,7 +91,6 @@
 - [ ] [Cyberpunk](https://myanimelist.net/anime/42310/Cyberpunk__Edgerunners)
 - [ ] [Kimagure Orange Road](https://myanimelist.net/anime/1087/Kimagure_Orange%E2%98%86Road)
 - [ ] [Hellsing](https://myanimelist.net/anime/270/Hellsing)
-- [ ] [Noragami](https://myanimelist.net/anime/20507/Noragami)
 - [ ] [Boku no Hero Academia (My Hero Academia)](https://myanimelist.net/anime/31964/Boku_no_Hero_Academia)
 - [x] [Oshi no Ko](https://myanimelist.net/anime/52034/Oshi_no_Ko)[1]
 - [ ] [Oshi no Ko](https://myanimelist.net/anime/52034/Oshi_no_Ko)[2]
@@ -103,7 +100,6 @@
 - [ ] [Bastard!! Ankoku no Hakaishin (Bastard!!)](https://myanimelist.net/anime/404/Bastard_Ankoku_no_Hakaishin)
 - [ ] [Lodoss-tou Senki (Record of Lodoss War)](https://myanimelist.net/anime/207/Lodoss-tou_Senki)
 - [ ] [Akame ga Kill!](https://myanimelist.net/anime/22199/Akame_Ga_Kill)
-- [ ] [Boku no Pico](https://myanimelist.net/anime/1639/Boku_no_Picu)
 
 # Movies
 
