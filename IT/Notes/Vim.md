@@ -25,6 +25,7 @@
 ## Text objects
 
 Is used with `i` and `a` motions. E.g: `viw` (visual inside word), `dat` (delete around tag)
+If you're already in visual mode using `i<text-object>` `a<text-object>` will move into inner/outer selection region
 
 ### Custom [nvim-various-textobjs](https://github.com/chrisgrieser/nvim-various-textobjs)
 
@@ -62,6 +63,7 @@ Is used with `i` and `a` motions. E.g: `viw` (visual inside word), `dat` (delete
 
 - `/{pattern}` search forward
 - `?{pattern}` search backward
+- `:put = execute('<command>')` copy contents of executing command into current buffer
 
 ### Buffers
 
