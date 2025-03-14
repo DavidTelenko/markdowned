@@ -6,9 +6,9 @@
 | ✅     | Cauldron               | $100  |
 |        | UPS 1Kw                | $500  |
 |        | Web camera             | $50   |
-|        | Fence pillars chores   | $350  |
-|        | Whitewashing chores    | $???  |
-|        | Car repair             | $500  |
+| ✅     | Fence pillars chores   | $350  |
+| ✅     | Whitewashing chores    | $???  |
+| ✅     | Car repair             | $500  |
 |        | Total                  | $2100 |
 
 # Long term
