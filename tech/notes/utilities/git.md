@@ -77,6 +77,8 @@ git push -d origin "fix/some-fix"
 #### Locally
 
 ```nu
+git branch -m <new-name> # local branch
+# or
 git branch -m <old-name> <new-name>
 ```
 
