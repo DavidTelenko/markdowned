@@ -1,23 +1,28 @@
 # General
 
-## Motions
+#### With `g`
 
 - `gx` follow link
 - `gf` follow file
 - `gu` `gU` change case
 - `gq` split lines by 80 chars
 
+#### Integer incremets
+
 - `^a` increment value of an integer
 - `^x` decrement value of an integer
 
+#### Capital `hjkl`
+
 - `J` join lines (removes \n in the end)
 - `K` info about token under cursor (lsp help / man)
-
 - `L` to the end of the line (custom)
 - `A` to the end of the line and go to insert mode
 - `0` to the start of the line (custom)
 - `H` to the first printable character of the line
 - `I` to the first printable character of the line and go to insert mode
+
+#### Other
 
 - `{line}gg` to go to specific line
 - `<leader>sa` to swap parameters (custom treesitter mapping)
@@ -60,10 +65,10 @@ If you're already in visual mode using `i<text-object>` `a<text-object>` will mo
 
 - `^f` in command mode opens up editable buffer
 - `^x` completion
-
 - `/{pattern}` search forward
 - `?{pattern}` search backward
 - `:put = execute('<command>')` copy contents of executing command into current buffer
+- `:Bufferize <command>` [plugin](https://github.com/AndrewRadev/bufferize.vim) to put results into buffer
 
 ### Buffers
 
@@ -94,20 +99,23 @@ If you're already in visual mode using `i<text-object>` `a<text-object>` will mo
 - `:wrap` and `:linebreak` to adequately view text files
 - `:LspRestart` restart lsp
 
-## Telescope
+## Workflows
+
+### nvim-surround
+
+- `Stdiv` wrap selected text in visual mode with div
+- `dst` delete tag
+- `cst` change tag
+- `viWS(` surround the WORD with parenthesis
+
+### Telescope
+
+One of the most used refactoring workflows
 
 - telescope grep - to find
 - `^q` to add all found files to quick list or
 - `<tab>` to select some items and alt+q to add to quick list
 - `:cdo` with buffer command to execute shit
-
-## nvim-surround
-
-- `Stdiv` wrap selected text in visual mode with div
-- `dst` delete tag
-- `cst` change tag
-
-## Workflows
 
 ### Add to start of each line
 
@@ -150,5 +158,5 @@ If you already searched for the word, ignore the \* and just cgn.
 
 ## References
 
-[Features](https://www.youtube.com/watch?v=gccGjwTZA7k)
-[Nice article](https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/moving-blazingly-fast-with-the-core-vim-motions/)
+- [Features](https://www.youtube.com/watch?v=gccGjwTZA7k)
+- [Nice article](https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/moving-blazingly-fast-with-the-core-vim-motions/)
