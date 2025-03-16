@@ -4,11 +4,15 @@
 - [ ] Baldurs Gate 3
 - [ ] BioShock
 - [ ] Blasphemous
+- [ ] Bloodborne
 - [ ] Bully: Scholarship Edition
 - [ ] Call of the Sea
 - [ ] Cossacks 3
 - [ ] Cuphead
 - [ ] Cyberpunk 2077
+- [ ] Dark Souls
+- [ ] Dark Souls 2
+- [ ] Dark Souls 3
 - [ ] Dead Cells
 - [ ] Dishonored 2
 - [ ] Divinity: Original Sin
@@ -58,6 +62,7 @@
 - [ ] The Long Dark
 - [ ] The Sims 3
 - [ ] The Vanishing of Ethan Carter
+- [ ] Titanfall 2
 - [x] DREDGE
 - [x] Detroit: Become Human
 - [x] Disco Elysium
