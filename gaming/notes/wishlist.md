@@ -1,8 +1,10 @@
 # Game wishlist
 
+- [ ] Black Myth: Wukong
 - [ ] Dark Souls 3
 - [ ] Dragon Dogma 2
 - [ ] Fears to Fathom
+- [ ] Ghost of Tsushima
 - [ ] God of War
 - [ ] Horizon Forbidden West
 - [ ] Sekiro: Shadows Die Twice
