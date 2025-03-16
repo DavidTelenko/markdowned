@@ -139,6 +139,9 @@ Breakdown:
 - take a look at your diff
 - `:diffoff` stop diff mode
 
+Also it is sometimes useful to just do `set scrollbind` and `set cursorbind` in
+order to synchronize two opened buffers
+
 ### Find and replace occurrence after
 
 Breakdown:
