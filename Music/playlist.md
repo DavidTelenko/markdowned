@@ -8,11 +8,6 @@ Haddaway - What Is Love
 Ice MC - Bom Digi Bom
 Jam And Spoon - Right In The Night
 Cappella - U Got 2 Let The Music
-
-<hr class="__chatgpt_plugin">
-
-role::assistant
-
 Culture Beat - Mr. Vain
 Technotronic - Pump Up the Jam
 2 Unlimited - No Limit
@@ -23,8 +18,3 @@ La Bouche - Tonight Is the Night
 Vengaboys - We Like to Party!
 Gala - Freed From Desire
 Robin S - Show Me Love
-
-<hr class="__chatgpt_plugin">
-
-role::user
-
