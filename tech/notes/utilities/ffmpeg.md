@@ -30,7 +30,8 @@ Here each option listed before the source applies to this source
         -video_size 1920x1080
         -f gdigrab # video grabber
         -i desktop # input device
-        -b:v 15000000 # bitrate
+        -b:v 9063218 # bitrate
+        -c:v h264
         $"D:/Videos/Captures/Capture_(date now | format date '%Y-%m-%d_%H-%M-%S').mp4"
 )
 ```
