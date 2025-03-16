@@ -3,6 +3,7 @@
 - [ ] Alien: Isolation
 - [ ] Baldurs Gate 3
 - [ ] BioShock
+- [ ] Black Myth: Wukong
 - [ ] Blasphemous
 - [ ] Bloodborne
 - [ ] Bully: Scholarship Edition
@@ -20,12 +21,14 @@
 - [ ] Doom Eternal
 - [ ] F.I.S.T.: Forged In Shadow Torch
 - [ ] Far Changing Tides
+- [ ] Ghost of Tsushima
 - [ ] Ghostrunner
 - [ ] Ghostrunner 2
 - [ ] Gothic 1 Classic
 - [ ] Gothic 2: Gold Classic
 - [ ] Gothic 3
 - [ ] Grand Theft Auto: IV
+- [ ] Hades
 - [ ] Hellblade: Senua's Sacrifice
 - [ ] Hollow Knight
 - [ ] Horizon: Zero Dawn
