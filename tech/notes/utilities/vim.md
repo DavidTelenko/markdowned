@@ -1,18 +1,18 @@
 # General
 
-#### With `g`
+## With `g`
 
 - `gx` follow link
 - `gf` follow file
 - `gu` `gU` change case
 - `gq` split lines by 80 chars
 
-#### Integer incremets
+## Integer incremets
 
 - `^a` increment value of an integer
 - `^x` decrement value of an integer
 
-#### Capital `hjkl`
+## Capital `hjkl`
 
 - `J` join lines (removes \n in the end)
 - `K` info about token under cursor (lsp help / man)
@@ -22,7 +22,7 @@
 - `H` to the first printable character of the line
 - `I` to the first printable character of the line and go to insert mode
 
-#### Other
+## Other
 
 - `{line}gg` to go to specific line
 - `<leader>sa` to swap parameters (custom treesitter mapping)
@@ -64,7 +64,7 @@ If you're already in visual mode using `i<text-object>` `a<text-object>` will mo
 ## Commands
 
 - `^f` in command mode opens up editable buffer
-- `^x` completion
+- `^x` in command mode completion
 - `/{pattern}` search forward
 - `?{pattern}` search backward
 - `:put = execute('<command>')` copy contents of executing command into current buffer
@@ -79,7 +79,7 @@ If you're already in visual mode using `i<text-object>` `a<text-object>` will mo
   the one which you deleted
 - `:bw` wipe buffer
 - `:only` close all splits except the focused one
-- `^w`= - make all splits the same size
+- `^w=` - make all splits the same size
 
 ### Quicklist
 
@@ -130,6 +130,14 @@ Breakdown:
 - `^q` enter visual block mode
 - `$` goto end of each line
 - `A` append
+
+### Diff two files
+
+- `^wv` open vertical split
+- `:diffthis` mark first buffer to diff
+- `^wl:diffthis` mark second buffer to diff
+- take a look at your diff
+- `:diffoff` stop diff mode
 
 ### Find and replace occurrence after
 
