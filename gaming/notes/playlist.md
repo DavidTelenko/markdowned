@@ -1,11 +1,14 @@
 # Game playlist
 
 - [ ] Alien: Isolation
-- [ ] Baldurs Gate 3
+- [ ] American Truck Simulator
+- [ ] Baldur’s Gate 3
+- [ ] BeamNG.drive
 - [ ] BioShock
 - [ ] Black Myth: Wukong
 - [ ] Blasphemous
 - [ ] Bloodborne
+- [ ] Bloons TD 6
 - [ ] Bully: Scholarship Edition
 - [ ] Call of the Sea
 - [ ] Cossacks 3
@@ -14,27 +17,42 @@
 - [ ] Dark Souls
 - [ ] Dark Souls 2
 - [ ] Dark Souls 3
+- [ ] Dave The Diver
 - [ ] Dead Cells
+- [ ] Deep Rock Galactic
 - [ ] Dishonored 2
 - [ ] Divinity: Original Sin
 - [ ] Do Not Feed the Monkeys
+- [ ] Don’t Starve
 - [ ] Doom Eternal
+- [ ] Euro Truck Simulator 2
 - [ ] F.I.S.T.: Forged In Shadow Torch
+- [ ] Factorio
+- [ ] Fallout: New Vegas
 - [ ] Far Changing Tides
+- [ ] Garry’s Mod
 - [ ] Ghost of Tsushima
 - [ ] Ghostrunner
 - [ ] Ghostrunner 2
+- [ ] God of War
 - [ ] Gothic 1 Classic
 - [ ] Gothic 2: Gold Classic
 - [ ] Gothic 3
 - [ ] Grand Theft Auto: IV
 - [ ] Hades
+- [ ] Half-Life
+- [ ] Half-Life 2
+- [ ] HellTaker
 - [ ] Hellblade: Senua's Sacrifice
+- [ ] Hollow Knight
 - [ ] Hollow Knight
 - [ ] Horizon: Zero Dawn
 - [ ] INSIDE
+- [ ] Inscryption
 - [ ] Just Cause 3
 - [ ] LIMBO
+- [ ] Left 4 Dead 2
+- [ ] Lethal Company
 - [ ] Loop Hero
 - [ ] Mafia
 - [ ] Mafia I
@@ -44,28 +62,52 @@
 - [ ] Marver's Guardians of the Galaxy
 - [ ] Middle Earth Shadow of War
 - [ ] Mortal Combat X
+- [ ] Mount & Blade: Warband
 - [ ] NieR:Automata
 - [ ] Ori and the Blind Forest
 - [ ] Ori and the Will of the Wisps
+- [ ] Outlast
+- [ ] Oxygen Not Included
+- [ ] People Playground
+- [ ] Phasmophobia
+- [ ] Plants vs. Zombies GOTY Edition
+- [ ] Postal 2
 - [ ] Potion Craft
 - [ ] Prince of Persia: Sands of Time
+- [ ] Resident Evil 2
+- [ ] Resident Evil 4
+- [ ] RimWorld
+- [ ] Risk of Rain 2
 - [ ] S.T.A.L.K.E.R.: Call of Pripyat
 - [ ] S.T.A.L.K.E.R.: Clear Sky
 - [ ] S.T.A.L.K.E.R.: Shadow of Chernobyl
+- [ ] Satisfactory
 - [ ] Sea of Theives
 - [ ] Shadow Tactic's: Aiko's Choice
+- [ ] Slay the Spire
 - [ ] Sleeping Dogs
+- [ ] Slime Rancher
 - [ ] Song of Conquest (co-op)
+- [ ] Stardew Valley
+- [ ] Stray
 - [ ] Styx: Master of Shadows
 - [ ] Styx: Shards of Darkness
 - [ ] Subnautica: Below Zero
+- [ ] Terraria
+- [ ] The Binding Of Isaac: Rebirth
 - [ ] The Elder Scrolls III: Morrowind
 - [ ] The Elder Scrolls IV: Oblivion
 - [ ] The Gunk
 - [ ] The Long Dark
 - [ ] The Sims 3
 - [ ] The Vanishing of Ethan Carter
+- [ ] The Witcher 3: Wild Hunt
 - [ ] Titanfall 2
+- [ ] Tomb Raider
+- [ ] Totally Accurate Battle Simulator
+- [ ] UltraKill
+- [ ] Undertale
+- [ ] Vampire survivors
 - [x] DREDGE
 - [x] Detroit: Become Human
 - [x] Disco Elysium
@@ -87,6 +129,8 @@
 - [x] Mad Max 2015
 - [x] Magicka 2
 - [x] Pilgrims
+- [x] Portal
+- [x] Portal 2
 - [x] Prince of Persia: The Two Thrones (3)
 - [x] Prince of Persia: Warrior Within (4)
 - [x] Stardew Valley
