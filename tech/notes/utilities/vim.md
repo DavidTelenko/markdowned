@@ -166,6 +166,8 @@ If you already searched for the word, ignore the \* and just cgn.
 - `cc` commit (hooks run before message)
 - `dv` show diff view
 - `s` push to remote
+- `ca` amend + edit the message.
+- `ce` amend + without editing the message.
 
 ## References
 
