@@ -169,6 +169,12 @@ git stash apply stash@{1} # apply changes but preserve them in stash
 git stash list
 ```
 
+### Stash all changes (with untracked files)
+
+```nu
+git stash -u
+```
+
 ### Put existing work to the new branch
 
 ```nu
