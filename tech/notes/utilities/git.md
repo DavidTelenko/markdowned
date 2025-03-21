@@ -158,9 +158,15 @@ git switch -c <new-branch> # create branch
 ```nu
 git stash drop # remove last entry
 git stash pop # pop last entry
-git stash drop stash@{1} # remove n-th entry
-git stash pop stash@{1} # pop n-th entry
-git stash apply stash@{1} # apply changes but preserve them in stash
+git stash drop stash@{n} # remove n-th entry
+git stash pop stash@{n} # pop n-th entry
+git stash apply stash@{n} # apply changes but preserve them in stash
+```
+
+### Apply changes in stash only from one file
+
+```nu
+git restore --source=stash@{n} -- <filename>
 ```
 
 ### Show all stash entries
