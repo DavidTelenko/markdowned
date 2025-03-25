@@ -69,6 +69,7 @@ If you're already in visual mode using `i<text-object>` `a<text-object>` will mo
 - `?{pattern}` search backward
 - `:put = execute('<command>')` copy contents of executing command into current buffer
 - `:Bufferize <command>` [plugin](https://github.com/AndrewRadev/bufferize.vim) to put results into buffer
+- `:setglobal` set option globally
 
 ### Buffers
 
