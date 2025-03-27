@@ -189,6 +189,12 @@ git switch -c <new-branch-name>
 git stash pop
 ```
 
+### Change branch only of the one directory
+
+```nu
+git checkout <branch-name> <path/to/directory/or/file.f>
+```
+
 ### Rebase branch to other head
 
 You're forgot to switch to `main` before creating branch and now your new branch has different parent
