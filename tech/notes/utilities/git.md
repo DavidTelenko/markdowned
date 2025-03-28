@@ -252,3 +252,28 @@ git rebase origin/main
 # then
 git push --force-with-lease
 ```
+
+## Reflog help
+
+### Timestampts
+
+- `@{1.minute.ago}` See the state of your repository just a minute ago.
+- `@{1.hour.ago}` Rewind your Git journey by one hour.
+- `@{1.day.ago}` Compare your current work with yesterday's progress.
+- `@{yesterday}` Travel back to yesterday's snapshot of your repository.
+- `@{1.week.ago}` Analyze changes made a week ago.
+- `@{1.month.ago}` Recall the state of your project a month back.
+- `@{1.year.ago}` Explore the evolution of your work over a year.
+- `@{2023-10-21.0830:00}`: Jump to a specific date and time in your Git history.
+
+To use timestamps use reflog like this
+
+```nu
+git reflog <timestamp>
+```
+
+To check if the revision exists
+
+```nu
+git reflog exists <rev>
+```
