@@ -181,6 +181,12 @@ git stash list
 git stash -u
 ```
 
+### Stash unstaged changes
+
+```nu
+git stash --keep-index
+```
+
 ### Put existing work to the new branch
 
 ```nu
