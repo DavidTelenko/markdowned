@@ -1,5 +1,7 @@
 # General
 
+- `^[` esc escape sequence
+
 ## With `g`
 
 - `gx` follow link
