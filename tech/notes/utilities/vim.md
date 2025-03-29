@@ -28,6 +28,7 @@
 
 - `{line}gg` to go to specific line
 - `<leader>sa` to swap parameters (custom treesitter mapping)
+- `]c` and `[c` jump between git hunk
 
 ## Text objects
 
