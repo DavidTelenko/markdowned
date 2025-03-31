@@ -9,6 +9,14 @@
 - `gu` `gU` change case
 - `gq` split lines by 80 chars
 
+## With `[` `]`
+
+- `]<Space>` insert space below/above cursor
+- `]q` next quickfix entry
+- `]b` next buffer
+- `]l` next loclist entry
+- `]c` next git hunk
+
 ## Integer incremets
 
 - `^a` increment value of an integer
@@ -28,7 +36,6 @@
 
 - `{line}gg` to go to specific line
 - `<leader>sa` to swap parameters (custom treesitter mapping)
-- `]c` and `[c` jump between git hunk
 
 ## Text objects
 
