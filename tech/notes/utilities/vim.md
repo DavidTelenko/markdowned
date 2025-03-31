@@ -109,6 +109,7 @@ If you're already in visual mode using `i<text-object>` `a<text-object>` will mo
 
 - `Stdiv` wrap selected text in visual mode with div
 - `dst` delete tag
+- `dsf` delete function call
 - `cst` change tag
 - `viWS(` surround the WORD with parenthesis
 
