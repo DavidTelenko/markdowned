@@ -106,6 +106,12 @@ git restore --staged <filepath> # which can be '.'
 git reset HEAD~
 ```
 
+### Undo file deletion
+
+```nu
+git checkout <path/to/delete/file>
+```
+
 ### Undo last reset
 
 ```nu
