@@ -17,7 +17,7 @@
 - `]l` next loclist entry
 - `]c` next git hunk
 
-## Integer incremets
+## Integer increments
 
 - `^a` increment value of an integer
 - `^x` decrement value of an integer
