@@ -201,6 +201,12 @@ git switch -c <new-branch-name>
 git stash pop
 ```
 
+### List all edited stash files
+
+```nu
+git stash list --name-status
+```
+
 ### Change branch only of the one directory
 
 ```nu
