@@ -73,6 +73,7 @@ If you're already in visual mode using `i<text-object>` `a<text-object>` will mo
 
 ## Commands
 
+- `q:` in normal mode opens command mode buffer
 - `^f` in command mode opens up editable buffer
 - `^x` in command mode completion
 - `/{pattern}` search forward
