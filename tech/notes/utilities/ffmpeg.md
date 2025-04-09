@@ -71,6 +71,12 @@ ffmpeg -list_devices true -f dshow -i dummy
 )
 ```
 
+### Convert .mp4 to .gif
+
+```nu
+ffmpeg -i input.mp4 -vf "fps=15,scale=640:-1:flags=lanczos,split[s0][s1];[s0]palettegen[p];[s1][p]paletteuse" -loop 1 output.gif
+```
+
 ## References
 
 - [How to record screen](https://trac.ffmpeg.org/wiki/Capture/Desktop)
