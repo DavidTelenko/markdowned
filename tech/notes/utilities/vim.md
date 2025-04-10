@@ -81,6 +81,8 @@ If you're already in visual mode using `i<text-object>` `a<text-object>` will mo
 - `:put = execute('<command>')` copy contents of executing command into current buffer
 - `:Bufferize <command>` [plugin](https://github.com/AndrewRadev/bufferize.vim) to put results into buffer
 - `:setglobal` set option globally
+- `:norm` execute any normal mode actions in a buffer
+- `:r! <command>` execute command and copy its stdout to current buffer
 
 ### Buffers
 
