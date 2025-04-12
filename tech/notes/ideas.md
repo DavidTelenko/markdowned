@@ -75,3 +75,4 @@
   to mobile phone in local network)
 - EGS store client
 - YouTube view manager: watch time, topics, currently watching
+- Plugin for telegram for vim like keymaps
