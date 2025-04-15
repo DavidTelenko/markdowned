@@ -83,6 +83,7 @@ If you're already in visual mode using `i<text-object>` `a<text-object>` will mo
 - `:setglobal` set option globally
 - `:norm` execute any normal mode actions in a buffer
 - `:r! <command>` execute command and copy its stdout to current buffer
+- `:g` Execute the Ex command [cmd] (default ":p") on the lines within [range] where {pattern} matches.
 
 ### Buffers
 
