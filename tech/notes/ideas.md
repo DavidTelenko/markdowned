@@ -1,8 +1,3 @@
-# Windows player bar-widget
-
-- Create similar to [spotify bar](https://github.com/Debuggingss/SpotifyWidget)
-  status bar but show all media that currently playing
-
 # Ideas for the productivity in OS (design for desktop environment)
 
 - Sidebar with master search
@@ -25,26 +20,11 @@
 - AI summarizer, translator.
 - Custom model for AI from internet.
 
-# Interesting topics
-
-- Quantum computing
-- IoT (smart house)
-- Glove of magic
-- Computer vision
-- Bionic systems
-- Tech vision
-- Intellectual illumination systems (smart city)
-- Build-in inertia systems
-- Intellectual system of waste treatment (Smart city)
-- Eco monitoring
-- 3D perception game rendering
-
 # Syncing stuff ideas
 
 - full sync of configs
 - sync of images/large files
 - sync of package lists
-
 - add git repo to the configs folder and remap hardcoded configs
 
 # Interactive 3D AR Map
@@ -54,6 +34,14 @@
 - Make cooperative mode
 - Plan vacations
 - 3D model on table
+
+# Nvim plugin for ai
+
+- Separate permanent buffer (similar to oil/quicker)
+- Input text just as like in a file
+- Special textobject to select last "prompt"
+- Send to something like tgpt
+- Receive reply and stream that below into the buffer
 
 # Random project ideas
 
@@ -76,3 +64,4 @@
 - EGS store client
 - YouTube view manager: watch time, topics, currently watching
 - Plugin for telegram for vim like keymaps
+- Similar to [spotify bar](https://github.com/Debuggingss/SpotifyWidget) status bar but show all media that currently playing
