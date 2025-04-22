@@ -169,6 +169,22 @@ git stash pop stash@{n} # pop n-th entry
 git stash apply stash@{n} # apply changes but preserve them in stash
 ```
 
+### Double stash
+
+```nu
+git add path/to/remain/in/stash # first stage everything you want to stage
+
+git stash push --keep-index -u  # stash unstaged changes
+git stash push -m 'clean stash' # stash staged changes
+
+git stash pop stash@{1}         # pop the first 'dirty' stash
+
+git add path/to/remain/in/cwd   # second stage everything you want to stage
+
+git restore .                   # restore everything that was staged before
+git clean -df                   # remove every new files
+```
+
 ### Apply changes in stash only from one file
 
 ```nu

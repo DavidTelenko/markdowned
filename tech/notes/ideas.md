@@ -64,4 +64,8 @@
 - EGS store client
 - YouTube view manager: watch time, topics, currently watching
 - Plugin for telegram for vim like keymaps
-- Similar to [spotify bar](https://github.com/Debuggingss/SpotifyWidget) status bar but show all media that currently playing
+- Similar to [spotify bar](https://github.com/Debuggingss/SpotifyWidget) status
+  bar but show all media that currently playing
+- YouTube / General video processing plugin that allows to analyze video with
+  AI and produce array of timestamps for navigation.
+- Simple AI plugin for nvim [hint](https://www.youtube.com/watch?v=HlfjpstqXwE)
