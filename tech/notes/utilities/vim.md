@@ -85,6 +85,9 @@ If you're already in visual mode using `i<text-object>` `a<text-object>` will mo
 - `:r! <command>` execute command and copy its stdout to current buffer
 - `:g` Execute the Ex command [cmd] (default ":p") on the lines within [range] where {pattern} matches.
 - `:noa` disable running autocommands once (useful to omit autoformatting on write)
+- `:%bd|e#` kill all buffers except current one
+- `:%bd` kill all buffers
+- `:e#` open the last buffer
 
 ### Buffers
 
@@ -158,6 +161,11 @@ Breakdown:
 
 Also it is sometimes useful to just do `set scrollbind` and `set cursorbind` in
 order to synchronize two opened buffers
+
+### :norm instead of macro
+
+- `v` visually select text which you want to change
+- `:norm <keys><cr>` do you stuff
 
 ### Find and replace occurrence after
 
