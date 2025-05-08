@@ -64,6 +64,7 @@
 - [ ] Mortal Combat X
 - [ ] Mount & Blade: Warband
 - [ ] NieR:Automata
+- [ ] No Man's Sky
 - [ ] Ori and the Blind Forest
 - [ ] Ori and the Will of the Wisps
 - [ ] Outlast
@@ -76,6 +77,7 @@
 - [ ] Prince of Persia: Sands of Time
 - [ ] Resident Evil 2
 - [ ] Resident Evil 4
+- [ ] Revenge of the Savage Planet
 - [ ] RimWorld
 - [ ] Risk of Rain 2
 - [ ] S.T.A.L.K.E.R.: Call of Pripyat
@@ -92,7 +94,6 @@
 - [ ] Stray
 - [ ] Styx: Master of Shadows
 - [ ] Styx: Shards of Darkness
-- [ ] Subnautica: Below Zero
 - [ ] Terraria
 - [ ] The Binding Of Isaac: Rebirth
 - [ ] The Elder Scrolls III: Morrowind
@@ -135,6 +136,7 @@
 - [x] Prince of Persia: Warrior Within (4)
 - [x] Stardew Valley
 - [x] Subnautica
+- [x] Subnautica: Below Zero
 - [x] Terraria
 - [x] The Elder Scrolls V: Skyrim (Vanilla, RFAB) (15)
 - [x] The Survivalist
