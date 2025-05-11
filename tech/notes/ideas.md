@@ -43,6 +43,18 @@
 - Send to something like tgpt
 - Receive reply and stream that below into the buffer
 
+# Custom editor
+
+- Terminal emulator by itself
+- Not editor in terminal, terminal in editor
+- Multiplexing
+- LSP, DAP, TreeSitter, MCP
+- Vim based motions + extended motions (based on nvim plugins (textobj, surround))
+- Object files plugins (no runtime)
+- Tabs, splits
+- Built-in fuzzy finder
+- Object files modules (toggle-able)
+
 # Random project ideas
 
 - [ ] Rewind by the beat
