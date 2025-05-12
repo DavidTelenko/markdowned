@@ -54,6 +54,7 @@
 - Tabs, splits
 - Built-in fuzzy finder
 - Object files modules (toggle-able)
+- Maybe [helpful](https://github.com/helix-editor/helix)
 
 # Random project ideas
 
