@@ -58,28 +58,29 @@
 
 # Random project ideas
 
-- [ ] Rewind by the beat
-- [ ] Telegram but for local network
-- [ ] Plugin system
-- [ ] Support OS system (plugin based)
-- [ ] Sessionizer for windows terminal (probably involves tinkering with wt github
-      repo)
-- [ ] Mobile torrent tracker viewer
-- [ ] Sending dynamic linking libs, over TCP (QUIC) and executing them on the fly
-      (rpc on steroids?)
-- [ ] Hooking into AST of some lang, generating source code with source code,
-      injecting source code into source code.
-      [see](https://www.youtube.com/watch?v=FFgvV0sA3kU)
-- [ ] Different system level indexing types based on a metatags of a directories
-      and files (to implement something like virtual filtering and aggregations)
-- [ ] Pipe based loader (download from one source on desktop, send this data down
-      to mobile phone in local network)
-- [ ] EGS store client
-- [ ] YouTube view manager: watch time, topics, currently watching
-- [ ] Plugin for telegram for vim like keymaps
-- [ ] Similar to [spotify bar](https://github.com/Debuggingss/SpotifyWidget) status
-      bar but show all media that currently playing
-- [ ] YouTube / General video processing plugin that allows to analyze video with
-      AI and produce array of timestamps for navigation.
-- [x] Simple AI plugin for nvim [hint](https://www.youtube.com/watch?v=HlfjpstqXwE)
-- [ ] Simple rust based vim-like text editor
+- Rewind by the beat
+- Telegram but for local network
+- Plugin system
+- Support OS system (plugin based)
+- Sessionizer for windows terminal (probably involves tinkering with wt github
+  repo)
+- Mobile torrent tracker viewer
+- Sending dynamic linking libs, over TCP (QUIC) and executing them on the fly
+  (rpc on steroids?)
+- Hooking into AST of some lang, generating source code with source code,
+  injecting source code into source code.
+  [see](https://www.youtube.com/watch?v=FFgvV0sA3kU)
+- Different system level indexing types based on a metatags of a directories
+  and files (to implement something like virtual filtering and aggregations)
+- Pipe based loader (download from one source on desktop, send this data down
+  to mobile phone in local network)
+- EGS store client
+- YouTube view manager: watch time, topics, currently watching
+- Plugin for telegram for vim like keymaps
+- Similar to [spotify bar](https://github.com/Debuggingss/SpotifyWidget) status
+  bar but show all media that currently playing
+- YouTube / General video processing plugin that allows to analyze video with
+  AI and produce array of timestamps for navigation.
+- Simple AI plugin for nvim [hint](https://www.youtube.com/watch?v=HlfjpstqXwE)
+- Simple rust based vim-like text editor
+- Package manager
