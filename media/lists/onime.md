@@ -51,6 +51,7 @@
 - [ ] [Zom 100: Zombie ni Naru made ni Shitai 100 no Koto](https://myanimelist.net/anime/54112/Zom_100__Zombie_ni_Naru_made_ni_Shitai_100_no_Koto)
 - [ ] [Sword Art Online](https://myanimelist.net/anime/11757/Sword_Art_Online)
 - [ ] [Mairimashita Iruma-kun](https://myanimelist.net/anime/39196/Mairimashita_Iruma-kun)
+- [ ] [Psycho-pass](https://myanimelist.net/anime/13601/psycho-pass)
 - [ ] [Kami no Tou](https://myanimelist.net/anime/40221/Kami_no_Tou)
 - [ ] [Mob Psycho 100](https://myanimelist.net/anime/32182/Mob_Psycho_100)
 - [ ] [Goblin Slayer: Goblin's Crown](https://myanimelist.net/anime/39576/Goblin_Slayer__Goblins_Crown)
