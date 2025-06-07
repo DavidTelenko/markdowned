@@ -2,7 +2,7 @@
 
 - Total War: WARHAMMER +gfn -cringe-strategy +strategy
 - Gloomhaven +gfn -read
-- Killing Floor +gfn -old
+- Dead Island 2 +gfn
 - Redout +gfn -too-arcade
 - Just Die Already +gfn -cirnge
 - Mothergunship +gfn -cringe
