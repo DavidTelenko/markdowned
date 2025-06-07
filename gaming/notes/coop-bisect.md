@@ -28,3 +28,4 @@
 - Barotrauma +gfn -complex
 - World War Z +gfn
 - Dark and Darker
+- Sea of Thieves
