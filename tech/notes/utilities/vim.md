@@ -67,6 +67,7 @@ If you're already in visual mode using `i<text-object>` `a<text-object>` will mo
 
 - `q<register-name><inputs>q` records macro into <register-name>
 - `"<register-name>p` paste recorded macro into buffer
+- `"<register-name>yy` yank back into register
 - `q<register-name><macro>Q` <macro> will replay until error
 - `@<register-name>` replay macro
 - `Q` replay last recorded macro
@@ -167,6 +168,14 @@ order to synchronize two opened buffers
 
 - `v` visually select text which you want to change
 - `:norm <keys><cr>` do you stuff
+
+### Edit existing register visually
+
+- `:let @q='` open the q register
+- `<Cntl-r><Cntl-r>q` paste the contents of the q register into the buffer
+- `^` add the missing motion to return to the front of the line
+- `'` add a closing quote
+- `<Enter>` finish editing the macro
 
 ### Find and replace occurrence after
 
