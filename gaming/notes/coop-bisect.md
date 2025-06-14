@@ -9,7 +9,6 @@
 - Unrailed +gfn -cringe -long-play -try-hard
 - Terraria +gfn -already-played
 - Rogue Company +gfn -maybe-cringe
-
 - TES: O +gfn
 - Never Alone -gfn +fast-pased -arcade
 - Deep Rock Galactic +gfn -long-play
@@ -20,7 +19,6 @@
 - Magicka 2 +gfn +gameplay -volodka
 - Risk of Rain 2 +gfn -already-played -boring
 - Trine +gfn -boring -cringe
-
 - Deathloop +gfn
 - Titan Quest +gfn
 - Valheim +gfn
@@ -29,3 +27,12 @@
 - World War Z +gfn
 - Dark and Darker
 - Sea of Thieves
+
+Titan Quest
+Valheim
+Barotrauma
+World War Z
+Dark and Darker
+Sea of Thieves
+TES: O
+Gloomhaven
