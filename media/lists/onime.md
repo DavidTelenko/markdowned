@@ -74,6 +74,7 @@
 - [ ] [Samurai Champloo](https://myanimelist.net/anime/205/Samurai_Champloo)
 - [ ] [Tsue to Tsurugi no Wistoria](https://myanimelist.net/anime/58059/Tsue_to_Tsurugi_no_Wistoria)
 - [ ] [Ore dake Level Up na Ken](https://myanimelist.net/anime/52299/Ore_dake_Level_Up_na_Ken)
+- [ ] [Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha](https://myanimelist.net/anime/59205/Clevatess__Majuu_no_Ou_to_Akago_to_Shikabane_no_Yuusha)
 - [ ] [Evangelion: 1.0 You Are (Not) Alone](https://myanimelist.net/anime/2759/Evangelion__10_You_Are_Not_Alone)
 - [x] [Hunter x Hunter](https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011)
 - [x] [Death Note](https://myanimelist.net/anime/1535/Death_Note)
