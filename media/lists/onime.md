@@ -1,8 +1,8 @@
 # Series
 
-- [x] [Monster](https://myanimelist.net/anime/19/Monster?q=Monster&cat=anime)
+- [x] [Monster](https://myanimelist.net/anime/19/Monster)
 - [ ] [Sousou no Frieren (Frieren: Beyond Journey's End)](https://myanimelist.net/anime/52991/Sousou_no_Frieren)
-- [ ] [Cowboy Bebop](https://myanimelist.net/manga/173/Cowboy_Bebop?q=Cowboy%20Bebop&cat=manga)
+- [ ] [Cowboy Bebop](https://myanimelist.net/manga/173/Cowboy_Bebop)
 - [ ] [Fullmetal Alchemist: Brotherhood](https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood)
 - [x] [Fullmetal Alchemist](https://myanimelist.net/anime/121/Fullmetal_Alchemist)
 - [x] [Jobless Reincarnation](https://myanimelist.net/anime/39535/Mushoku_Tensei__Isekai_Ittara_Honki_Dasu)[1]
@@ -19,7 +19,7 @@
 - [ ] [The Seven Deadly Sins](https://myanimelist.net/anime/23755/Nanatsu_no_Taizai)
 - [ ] [No Game No Life (No Game, No Life)](https://myanimelist.net/anime/19815/No_Game_No_Life)
 - [ ] [Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru](https://myanimelist.net/anime/47790/Sekai_Saikou_no_Ansatsusha_Isekai_Kizoku_ni_Tensei_suru)
-- [ ] [Dororo](https://myanimelist.net/anime/37520/Dororo?q=dororo&cat=anime)
+- [ ] [Dororo](https://myanimelist.net/anime/37520/Dororo)
 - [ ] [Sakamoto Days](https://myanimelist.net/manga/131334/Sakamoto_Days)
 - [ ] [Hellsing Ultimate](https://myanimelist.net/anime/777/Hellsing_Ultimate)
 - [ ] [Kaiju No. 8](https://myanimelist.net/anime/52588/Kaijuu_8-gou)
@@ -47,6 +47,7 @@
 - [ ] [Vanitas no Carte](https://myanimelist.net/anime/46569/Jigokuraku)
 - [ ] [Make Heroine ga Oosugiru!](https://myanimelist.net/anime/57524/Make_Heroine_ga_Oosugiru)
 - [ ] [Ao no Exorcist](https://myanimelist.net/anime/9919/Ao_no_Exorcist)
+- [ ] [Takopi's Original Sin](https://myanimelist.net/anime/60489/Takopii_no_Genzai)
 - [ ] [Kusuriya no Hitorigoto](https://myanimelist.net/manga/107562/Kusuriya_no_Hitorigoto)
 - [ ] [Zom 100: Zombie ni Naru made ni Shitai 100 no Koto](https://myanimelist.net/anime/54112/Zom_100__Zombie_ni_Naru_made_ni_Shitai_100_no_Koto)
 - [ ] [Sword Art Online](https://myanimelist.net/anime/11757/Sword_Art_Online)
@@ -109,7 +110,7 @@
 **Work in progress** [Hayao Miyazaki](https://myanimelist.net/people/1870/Hayao_Miyazaki?q=hayao&cat=person) movies list is not finished.
 
 - [x] [Perfect Blue](https://myanimelist.net/anime/437/Perfect_Blue)
-- [x] [Vampire Hunter D](https://myanimelist.net/anime/543/Vampire_Hunter_D_2000?q=vampire%20hunter%20d&cat=anime)
+- [x] [Vampire Hunter D](https://myanimelist.net/anime/543/Vampire_Hunter_D_2000)
 - [ ] [Suzume no Tojimari](https://myanimelist.net/anime/50594/Suzume_no_Tojimari)
 - [x] [Sen to Chihiro no Kamikakushi](https://myanimelist.net/anime/199/Sen_to_Chihiro_no_Kamikakushi)
 - [x] [Howl no Ugoku Shiro](https://myanimelist.net/anime/431/Howl_no_Ugoku_Shiro)
