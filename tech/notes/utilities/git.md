@@ -261,6 +261,14 @@ If you're working on custom branch it's highly advisable to use merge in order t
 
 > However if you're working on custom branch which doesn't have a PR yet and is purely local to your work it may be a good idea to use rebase also.
 
+### Check diff for current branch with main
+
+Similar to what github uses to show all changes on your branch.
+
+```nu
+git diff <branch> (git merge-base <branch> main)
+```
+
 #### Switch to desired branch (`-c` to create):
 
 ```nu
