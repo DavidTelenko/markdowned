@@ -37,13 +37,14 @@
 - The Wolf of Wall Street (2013) (lesson learned) [9/10]
 - Mad Max: Fury Road (2015) (atmospheric, daunting) [8/10]
 - Furiosa: A Mad Max Saga (2024) (atmospheric) [8/10]
+- What Women Want (2000) (warm) [8/10]
+- Monty Python and the Holy Grail (1975) (extreme cringe, but based) [7/10]
 
 # To watch
 
-- Monty Python and the Holy Grail
 - The King's Speech (2010)
 - The Gentlemen (2019)
-- Babylon (2023)
+- Babylon (2022)
 - Life of a king
 - Snatch
 - Wildflower
