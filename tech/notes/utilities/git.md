@@ -238,6 +238,12 @@ git switch <new-parent>
 git rebase <some-branch>
 ```
 
+### Rebase onto
+
+```nu
+git rebase --onto newBase oldBase feature/branch
+```
+
 ### Use interactive rebase
 
 > [video](https://www.youtube.com/watch?v=H7RFt0Pxxp8)
