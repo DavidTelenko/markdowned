@@ -1,3 +1,7 @@
+# Just a wisdom
+
+- Design everything as a library, add an entry point to it later!
+
 # Ideas for the productivity in OS (design for desktop environment)
 
 - Sidebar with master search
