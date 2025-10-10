@@ -162,10 +162,10 @@ git switch -c <new-branch> # create branch
 ### Operate on stash entry
 
 ```nu
-git stash drop # remove last entry
-git stash pop # pop last entry
-git stash drop stash@{n} # remove n-th entry
-git stash pop stash@{n} # pop n-th entry
+git stash drop            # remove last entry
+git stash pop             # pop last entry
+git stash drop stash@{n}  # remove n-th entry
+git stash pop stash@{n}   # pop n-th entry
 git stash apply stash@{n} # apply changes but preserve them in stash
 ```
 
