@@ -10,6 +10,7 @@ The road to greatness.
 - [ ] Set up DNS via systemctl-resolved
 - [ ] Window manager config [hint](https://github.com/Aylur/dotfiles/tree/main)
   - [ ] Hyprland config
+    - [ ] Automatically open new window in new workspace
     - [x] Different keyboard layout per workspace [hint](https://github.com/coffebar/hyprland-per-window-layout/)
     - [x] Modular config
     - [x] Inactive cursor timeout
