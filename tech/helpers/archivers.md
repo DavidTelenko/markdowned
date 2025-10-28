@@ -42,3 +42,17 @@ Create simple archive
 ```nu
 tar -cf backup.tar path/to/dir
 ```
+
+## Unar
+
+Create foo/bar/ directory with archive contents
+
+```nu
+unar foo/bar.zip
+```
+
+Unpack in the specified directory
+
+```nu
+unar foo/bar.zip -o baz/bar
+```
