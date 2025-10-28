@@ -10,6 +10,7 @@
 - [x] [Heion Sedai no Idaten-tachi](https://myanimelist.net/anime/42625/Heion_Sedai_no_Idaten-tachi)
 - [ ] [Paranoia Agent](https://myanimelist.net/anime/323/Mousou_Dairinin/)
 - [ ] [Overlord](https://myanimelist.net/anime/29803/Overlord)
+- [ ] [To Be Hero X](https://myanimelist.net/anime/53447/Tu_Bian_Yingxiong_X)
 - [ ] [Witch Hat Atelier](https://myanimelist.net/manga/100035/Tongari_Boushi_no_Atelier)
 - [ ] [Golden Boy](https://myanimelist.net/anime/268/Golden_Boy)
 - [x] [Tensei shitara Slime Datta Ken](https://myanimelist.net/anime/37430/Tensei_shitara_Slime_Datta_Ken/)[1]
