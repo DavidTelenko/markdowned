@@ -8,6 +8,18 @@ The list of most basic useful commands
 cp source dest
 ```
 
+## Copy hard-link staple from source to dest
+
+```nu
+cp -al source dest
+```
+
+## Create symlink
+
+```nu
+ln -s source dest
+```
+
 ## Remove something
 
 ```nu
