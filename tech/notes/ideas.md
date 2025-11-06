@@ -88,3 +88,4 @@
 - Simple AI plugin for nvim [hint](https://www.youtube.com/watch?v=HlfjpstqXwE)
 - Simple rust based vim-like text editor
 - Package manager
+- Cross browser tab management solution
