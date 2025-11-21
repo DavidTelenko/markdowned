@@ -12,6 +12,7 @@ This is the list of series i'm watching, seen and wanna watch, with thoughts abo
 
 # To Watch
 
+- Secret Level
 - Lucky Hank
 - Ted Lasso
 - The Day of the Jackal
