@@ -1,4 +1,4 @@
-# Git remider
+# Git reminder
 
 ## General things
 
