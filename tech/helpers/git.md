@@ -4,43 +4,43 @@
 
 ### Stage changes
 
-```nu
+```sh
 git add <filepath> # which can be '.'
 ```
 
 #### Interactively
 
-```nu
+```sh
 git add -i
 ```
 
 #### By hunk (probably my favorite)
 
-```nu
+```sh
 git add -p
 ```
 
 ### Commit changes
 
-```nu
+```sh
 git commit -m <commit-message>
 ```
 
 ### Push change to remote
 
-```nu
+```sh
 git push
 ```
 
 ### Clone repository
 
-```nu
+```sh
 git clone --recurse-submodules <url>
 ```
 
 ### Fetch changes
 
-```nu
+```sh
 git fetch <remote> # origin
 git switch <branch> # fix/regex-lookahead
 git merge <remote>/<branch> # origin/fix/regex-lookahead
@@ -48,7 +48,7 @@ git merge <remote>/<branch> # origin/fix/regex-lookahead
 
 ### List remotes
 
-```nu
+```sh
 git remote -v
 ```
 
@@ -56,7 +56,7 @@ git remote -v
 
 #### Locally
 
-```nu
+```sh
 git branch -d <branch-name>
 
 # Example
@@ -65,7 +65,7 @@ git branch -d "fix/some-fix"
 
 #### Remotely
 
-```nu
+```sh
 git push -d <remote-name> <branch-name>
 
 # Example
@@ -76,7 +76,7 @@ git push -d origin "fix/some-fix"
 
 #### Locally
 
-```nu
+```sh
 git branch -m <new-name> # local branch
 # or
 git branch -m <old-name> <new-name>
@@ -84,7 +84,7 @@ git branch -m <old-name> <new-name>
 
 #### Remotely
 
-```nu
+```sh
 git push origin --delete <old-name>
 git push origin :<old-name>
 git branch --unset-upstream <new-name>
@@ -96,58 +96,58 @@ git push origin -u <new-name>
 
 ### Unstage files
 
-```nu
+```sh
 git restore --staged <filepath> # which can be '.'
 ```
 
 ### Undo last commit
 
-```nu
+```sh
 git reset HEAD~
 git reset --soft HEAD@{1}
 ```
 
 ### Undo file deletion
 
-```nu
+```sh
 git checkout <path/to/delete/file>
 ```
 
 ### Undo last reset
 
-```nu
+```sh
 git reset HEAD@{1}
 ```
 
 ### Remove file from last commit
 
-```nu
+```sh
 git reset HEAD^ -- <filepath>
 git commit --amend --no-edit
 ```
 
 ### Clear current unstaged changes
 
-```nu
+```sh
 git restore .
 ```
 
 ### Change commit, edit commit (patch commit)
 
-```nu
+```sh
 git commit --amend           # craft a new name
 git commit --ament --no-edit # use the old name
 ```
 
 After this it might be needed to push with `--force-with-lease` flag
 
-```nu
+```sh
 git push --force-with-lease
 ```
 
 ### List branches
 
-```nu
+```sh
 git branch -a # all
 git branch -r # remote
 git branch -l # local
@@ -155,14 +155,14 @@ git branch -l # local
 
 ### Switch branch
 
-```nu
+```sh
 git switch <branch>        # switch branch
 git switch -c <new-branch> # create branch
 ```
 
 ### Operate on stash entry
 
-```nu
+```sh
 git stash drop            # remove last entry
 git stash pop             # pop last entry
 git stash drop stash@{n}  # remove n-th entry
@@ -172,7 +172,7 @@ git stash apply stash@{n} # apply changes but preserve them in stash
 
 ### Double stash
 
-```nu
+```sh
 git add path/to/remain/in/stash # first stage everything you want to stage
 
 git stash push --keep-index -u  # stash unstaged changes
@@ -188,31 +188,31 @@ git clean -df                   # remove every new files
 
 ### Apply changes in stash only from one file
 
-```nu
+```sh
 git restore --source=stash@{n} -- <filename>
 ```
 
 ### Show all stash entries
 
-```nu
+```sh
 git stash list
 ```
 
 ### Stash all changes (with untracked files)
 
-```nu
+```sh
 git stash -u
 ```
 
 ### Stash unstaged changes
 
-```nu
+```sh
 git stash --keep-index
 ```
 
 ### Put existing work to the new branch
 
-```nu
+```sh
 git stash
 git switch -c <new-branch-name>
 git stash pop
@@ -220,13 +220,13 @@ git stash pop
 
 ### List all edited stash files
 
-```nu
+```sh
 git stash list --name-status
 ```
 
 ### Change branch only of the one directory
 
-```nu
+```sh
 git checkout <branch-name> <path/to/directory/or/file.f>
 ```
 
@@ -234,14 +234,14 @@ git checkout <branch-name> <path/to/directory/or/file.f>
 
 You're forgot to switch to `main` before creating branch and now your new branch has different parent
 
-```nu
+```sh
 git switch <new-parent>
 git rebase <some-branch>
 ```
 
 ### Rebase onto
 
-```nu
+```sh
 git rebase --onto newBase oldBase feature/branch
 ```
 
@@ -251,7 +251,7 @@ git rebase --onto newBase oldBase feature/branch
 
 To start rebasing select the base commit
 
-```nu
+```sh
 git rebase -i <commit-hash>
 ```
 
@@ -272,13 +272,13 @@ If you're working on custom branch it's highly advisable to use merge in order t
 
 Similar to what github uses to show all changes on your branch.
 
-```nu
+```sh
 git diff <branch> (git merge-base <branch> main)
 ```
 
 #### Switch to desired branch (`-c` to create):
 
-```nu
+```sh
 git switch <branch> # -c
 ```
 
@@ -317,12 +317,12 @@ git push --force-with-lease
 
 To use timestamps use reflog like this
 
-```nu
+```sh
 git reflog <timestamp>
 ```
 
 To check if the revision exists
 
-```nu
+```sh
 git reflog exists <rev>
 ```
