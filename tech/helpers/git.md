@@ -252,7 +252,7 @@ git rebase --onto newBase oldBase feature/branch
 To start rebasing select the base commit
 
 ```nu
-git rebase -i <commmit-hash>
+git rebase -i <commit-hash>
 ```
 
 1. `reword` to rename commit
@@ -304,7 +304,7 @@ git push --force-with-lease
 
 ## Reflog help
 
-### Timestampts
+### Timestamps
 
 - `@{1.minute.ago}` See the state of your repository just a minute ago.
 - `@{1.hour.ago}` Rewind your Git journey by one hour.
