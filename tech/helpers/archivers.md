@@ -4,21 +4,21 @@
 
 Unzip archive to the folder with the same name
 
-```nu
+```sh
 7z x archive.zip -o*
 ```
 
 Zip folder to archive with the same name.
 This command will add directory as is inside of archive
 
-```nu
+```sh
 7z a -tzip path/to/dir path/to/dir
 ```
 
 This command will add each file so that archive will contain files as if it was a directory.
 TL;DR this is the one
 
-```nu
+```sh
 cd path/to/dir
 7z a -tzip ../dir *
 ```
@@ -27,19 +27,19 @@ cd path/to/dir
 
 Unpack archive
 
-```nu
+```sh
 tar -xf path/to/archive.tar.gz
 ```
 
 Create compressed archive
 
-```nu
+```sh
 tar -czf backup.tar.gz path/to/dir
 ```
 
 Create simple archive
 
-```nu
+```sh
 tar -cf backup.tar path/to/dir
 ```
 
@@ -47,12 +47,12 @@ tar -cf backup.tar path/to/dir
 
 Create foo/bar/ directory with archive contents
 
-```nu
+```sh
 unar foo/bar.zip
 ```
 
 Unpack in the specified directory
 
-```nu
+```sh
 unar foo/bar.zip -o baz/bar
 ```

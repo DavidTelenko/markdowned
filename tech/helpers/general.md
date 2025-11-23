@@ -6,20 +6,20 @@
 
 1. Start relay on pc with adress 192.168.0.0
 
-```nu
+```sh
 croc relay
 ```
 
 2. On pc with address 192.168.0.0
 
-```nu
+```sh
 croc --relay 192.168.0.0:9009 [filename]
 
 ```
 
 3. On receiving pc
 
-```nu
+```sh
 croc --relay 192.168.0.0:9009 [pass-phrase]
 ```
 
@@ -30,31 +30,31 @@ restarting pc, and activate network sharing in control panel (on windows)
 
 ### Reset app to some version
 
-```nu
+```sh
 scoop reset <app_name>@<version>
 ```
 
 ### List all outdated packages
 
-```nu
+```sh
 scoop status
 ```
 
 ### List all packages
 
-```nu
+```sh
 scoop list
 ```
 
 ### Export in json format
 
-```nu
+```sh
 scoop export
 ```
 
 ### Remove previous versions
 
-```nu
+```sh
 scoop cleanup <app_name>
 ```
 
@@ -62,7 +62,7 @@ scoop cleanup <app_name>
 
 ### Merge all pdfs in folder
 
-```nu
+```sh
 pdftk *.pdf cat output out.pdf
 ```
 
@@ -70,7 +70,7 @@ pdftk *.pdf cat output out.pdf
 
 ### Download playlist
 
-```nu
+```sh
 (
     yt-dlp
         -o "%(playlist)s/%(playlist_index)s - %(title)s.%(ext)s"
@@ -80,13 +80,13 @@ pdftk *.pdf cat output out.pdf
 
 ### Download one video
 
-```nu
+```sh
 yt-dlp -o '%(title)s.%(ext)s' <video_url>
 ```
 
 ### Download audio only
 
-```nu
+```sh
 yt-dlp -x --audio-format mp3 <video_url>
 ```
 
@@ -94,7 +94,7 @@ yt-dlp -x --audio-format mp3 <video_url>
 
 ### Download episodes from start to end
 
-```nu
+```sh
 ani-cli --dub -d "<name>" -e <start>-<end>
 ```
 
@@ -102,19 +102,19 @@ ani-cli --dub -d "<name>" -e <start>-<end>
 
 ### Connect to wifi spot
 
-```nu
+```sh
 nmcli d wifi connect "NAME" password "PASSWORD"
 ```
 
 ### List all available wifi spots
 
-```nu
+```sh
 nmcli d wifi
 ```
 
 ### Check connection status in general
 
-```nu
+```sh
 nmcli c
 ```
 

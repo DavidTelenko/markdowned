@@ -2,19 +2,19 @@
 
 ### Remove sound in video
 
-```nu
+```sh
 ffmpeg -i `file/path.mp4` -c copy -an `file/out.mp4`
 ```
 
 ### Speed up video
 
-```nu
+```sh
 ffmpeg -i `file/path.mp4` -filter:v "setpts=0.25*PTS" `file/out.mp4`
 ```
 
 ### Cut video
 
-```nu
+```sh
 ffmpeg -i `file/path.mp4` -ss 00:00:00 -to 00:00:00 -c copy `file/out.mp4`
 ```
 
@@ -22,7 +22,7 @@ ffmpeg -i `file/path.mp4` -ss 00:00:00 -to 00:00:00 -c copy `file/out.mp4`
 
 Here each option listed before the source applies to this source
 
-```nu
+```sh
 (
     ffmpeg
         -framerate 60
@@ -38,7 +38,7 @@ Here each option listed before the source applies to this source
 
 ### Record audio (Windows)
 
-```nu
+```sh
 (
     ffmpeg
         -f dshow # video & audio grabber
@@ -49,7 +49,7 @@ Here each option listed before the source applies to this source
 
 ### List all devices for dshow grabber (Windows)
 
-```nu
+```sh
 ffmpeg -list_devices true -f dshow -i dummy
 ```
 
@@ -57,7 +57,7 @@ ffmpeg -list_devices true -f dshow -i dummy
 
 > **IMPORTANT**: don't forget to cd into right directory
 
-```nu
+```sh
 (
     let list = "list.txt";
     ls | where type =~ file | each {
@@ -73,7 +73,7 @@ ffmpeg -list_devices true -f dshow -i dummy
 
 ### Convert .mp4 to .gif
 
-```nu
+```sh
 ffmpeg -i input.mp4 -vf "fps=15,scale=640:-1:flags=lanczos,split[s0][s1];[s0]palettegen[p];[s1][p]paletteuse" -loop 1 output.gif
 ```
 
