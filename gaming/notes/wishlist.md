@@ -7,7 +7,7 @@
 - [ ] Ghost of Tsushima
 - [ ] God of War
 - [ ] Horizon Forbidden West
-- [ ] Sekiro: Shadows Die Twice
+- [x] Sekiro: Shadows Die Twice
 - [x] Baldur's Gate 3
 - [x] Elden Ring
 - [x] Hollow Knight
