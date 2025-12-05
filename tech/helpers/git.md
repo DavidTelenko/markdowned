@@ -126,6 +126,12 @@ git reset HEAD^ -- <filepath>
 git commit --amend --no-edit
 ```
 
+### Remove all files listed in .gitignore
+
+```powershell
+git ls-files -i -c --exclude-from=.gitignore | %{ git rm --cached $_ }
+```
+
 ### Clear current unstaged changes
 
 ```sh
