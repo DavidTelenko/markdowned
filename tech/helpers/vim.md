@@ -155,6 +155,11 @@ Breakdown:
 - `$` goto end of each line
 - `A` append
 
+### Replace search under cursor
+
+- `*` or `#` to search for next
+- `:%s//replaced/g` to replace found text
+
 ### Diff two files
 
 - `^wv` open vertical split
