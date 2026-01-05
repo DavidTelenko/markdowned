@@ -212,6 +212,7 @@ If you already searched for the word, ignore the \* and just cgn.
 - `s` push to remote
 - `ca` amend + edit the message.
 - `ce` amend + without editing the message.
+- `ru` interactive rebase against @{upstream}
 
 ## References
 
