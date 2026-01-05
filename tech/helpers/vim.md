@@ -89,6 +89,8 @@ If you're already in visual mode using `i<text-object>` `a<text-object>` will mo
 - `:g` Execute the Ex command [cmd] (default ":p") on the lines within [range] where {pattern} matches.
 - `:noa` disable running autocommands once (useful to omit autoformatting on write)
 - `:set ft=` set filetype of a buffer, useful for syntax highlighting in `:new`
+- `:au` list autocommands
+- `:map` list mappings
 
 ### Buffers
 
