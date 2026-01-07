@@ -199,6 +199,10 @@ hit <esc>, and then hit `.` to change the next occurrence.
 
 If you already searched for the word, ignore the \* and just cgn.
 
+### Oil
+
+- `baz -> usr/bin/baz` will create symlink
+
 ## fugitive
 
 - `\_gg` open git menu
