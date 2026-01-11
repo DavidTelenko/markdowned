@@ -199,9 +199,10 @@ hit <esc>, and then hit `.` to change the next occurrence.
 
 If you already searched for the word, ignore the \* and just cgn.
 
-### Oil
+## Oil
 
 - `baz -> usr/bin/baz` will create symlink
+- `baz` > `foo/baz` > will create directory foo and move baz into it (custom to only my fork for now)
 
 ## fugitive
 
@@ -217,6 +218,20 @@ If you already searched for the word, ignore the \* and just cgn.
 - `ca` amend + edit the message.
 - `ce` amend + without editing the message.
 - `ru` interactive rebase against @{upstream}
+
+## multicursor.nvim
+
+All mappings are custom
+
+- `M` in visual mode - match all by regex and add cursor there
+- `S` cursor split by regex
+- `<leader>x` remove cursor
+- `<leader>m` double motion 1. select what 2. select where
+- `ga` add cursor motion
+- `gA` match all similar words under cursor in file
+- `]n` `[n` go to next/previous similar word and add cursor in current position
+- `]s` `[s` go to next/previous similar word and skip cursor in current position
+- `<A-c>` remember current position, `<esc>` enable cursors for each position and `<esc>` again collapse cursors
 
 ## References
 
