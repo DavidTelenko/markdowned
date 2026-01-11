@@ -6,5 +6,4 @@ Frigid winds howl fierce,
 But the crystal warrior waits,
 Serene and steadfast.
 
-![20230616060414.png](resources/20230616060414.png)
-
+![20230616060414.png](../../res/20230616060414.png)

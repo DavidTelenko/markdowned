@@ -13,4 +13,4 @@ For dangers lurk, in the soil they grow
 Take care, tread softly, lest you disturb
 This precious world, of which we preserve.
 
-![20230616060543.png](resources/20230616060543.png)
+![20230616060543.png](../../res/resources/20230616060543.png)
