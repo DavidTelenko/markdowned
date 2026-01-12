@@ -4,16 +4,16 @@ This is the list of series i'm watching, seen and wanna watch, with thoughts abo
 
 - Stranger Things S1 S2 S3 S4 (started to feel mild cringe, good, wait for the next S)
 - The House of Dragon S1 S2 (good so far, wait for the next S)
-- Fargo S1 S2 S3 S4 (marvel)
+- Fargo S1 S2 S3 S4 S5 (marvel)
 - The Boys S1 S2 S3 S4 (ok so far, unexpected, wait for the next S)
 - Gen V S1 (some unmotivated actions, weird, ok)
 - Sex Education S1 S2 S3 (cringe but watchable, glass eaten)
 - Shadow and bone S1 (cringe but watchable)
+- Lucky Hank S1 (kinda mid, sitcom(ish))
 
 # To Watch
 
 - Secret Level
-- Lucky Hank
 - Ted Lasso
 - The Day of the Jackal
 - Wecrashed
@@ -35,6 +35,7 @@ This is the list of series i'm watching, seen and wanna watch, with thoughts abo
 - Alchemy of the Souls (Something interesting?)
 - Succession
 - How I Met Your Mother
+- Pantheon
 
 # Seen
 
