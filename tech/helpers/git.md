@@ -86,7 +86,6 @@ git branch -m $old_name $new_name
 
 ```sh
 git push origin --delete $old_name
-git push origin :$old_name
 git branch --unset-upstream $new_name
 git push origin $new_name
 git push origin -u $new_name
