@@ -163,6 +163,7 @@ git branch -l # local
 ```sh
 git switch $branch        # switch branch
 git switch -c $new_branch # create branch
+git switch origin/$base_branch -c $new_branch # create branch on base branch
 ```
 
 ### Operate on stash entry
