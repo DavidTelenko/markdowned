@@ -99,6 +99,15 @@ git push origin -u $new_name
 git restore --staged $filepath # which can be '.'
 ```
 
+### Generate and load diff
+
+Extremely easy and native stuff.
+
+```sh
+git diff > foo.patch # save
+git apply foo.patch # load
+```
+
 ### Undo last commit
 
 ```sh
