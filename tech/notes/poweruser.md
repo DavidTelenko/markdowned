@@ -130,7 +130,7 @@ To be completely honest with you I really like markdown and think that it is the
 
 Learning md is extremely easy, [here](https://www.markdownguide.org/cheat-sheet/) is the source i learned from. I won't list any of the syntax here, because everything is listed pretty neatly in the Internet.
 
-The thin I would suggest though is start your own markdown diary. Create conscience file structure which suits you, and write some ideas, lists, todo's and so on in markdown. This will bootstrap your productivity with Vim motions, cause it would require you to know some more advanced motions to navigate and edit in bulk, and also will help you practice touch typing. Every editor in existence have some sort of an extension for markdown, so you can use it and start working on your notes. As a newbie tool for markdown I'd suggest [obsidian](https://obsidian.md/).
+The thing I would suggest though is start your own markdown diary. Create conscience file structure which suits you, and write some ideas, lists, todo's and so on in markdown. This will bootstrap your productivity with Vim motions, cause it would require you to know some more advanced motions to navigate and edit in bulk, and also will help you practice touch typing. Every editor in existence have some sort of an extension for markdown, so you can use it and start working on your notes. As a newbie tool for markdown I'd suggest [obsidian](https://obsidian.md/).
 
 # Shallow waters
 

@@ -199,6 +199,12 @@ hit <esc>, and then hit `.` to change the next occurrence.
 
 If you already searched for the word, ignore the \* and just cgn.
 
+### Paste using terminal clipboard (set paste)
+
+Say you're logged into the ssh server and trying to paste something from host machine.
+
+use `:set paste` and invoke paste shortcut (e.g `ctrl+v`), this will paste directly to buffer from system clipboard of host terminal.
+
 ## Oil
 
 - `baz -> usr/bin/baz` will create symlink
