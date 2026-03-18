@@ -8,6 +8,7 @@ The road to greatness.
 - [x] Desktop environment config (GNOME)
 - [ ] Dots repo
 - [ ] Set up DNS via systemctl-resolved
+- [ ] Dumk Material Shell config
 - [ ] Window manager config [hint](https://github.com/Aylur/dotfiles/tree/main)
   - [ ] Hyprland config
     - [ ] Automatically open new window in new workspace
