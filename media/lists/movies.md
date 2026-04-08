@@ -42,6 +42,7 @@
 
 # To watch
 
+- Project Hail Mary
 - The Usual Suspects
 - Don't look up
 - Tomorrowland
