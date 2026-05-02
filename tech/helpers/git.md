@@ -108,6 +108,46 @@ git diff > foo.patch # save
 git apply foo.patch # load
 ```
 
+### How to authenticate into remote
+
+- Follow [this](./ssh.md) guide on how to setup ssh key.
+- Assume `server` machine to be service provider.
+- In provided UI by `server` add your `.pub` key.
+
+### Create multi-remote setup
+
+First make sure you're able to authenticate into all remotes.
+
+Create new local `.gitconfig`. Add your remotes list, e.g:
+
+```gitconfig
+# ./.gitconfig
+[remote "origin"]
+    pushurl = git@gitlab.com:davidtelenko/markdowned
+    pushurl = git@github.com:davidtelenko/markdowned
+```
+
+Add link to that config in your `.git/config`
+
+```gitconfig
+# ./.git/config
+[include]
+    path = ../.gitconfig
+```
+
+> [!NOTE]
+> Last step needs to be repeated on a "per local setup" basis.
+
+### Git filter-repo
+
+```sh
+git filter-repo --path-glob 'PATH_SPEC' --invert-paths
+```
+
+Where `PATH_SPEC` is regular glob of file you want to **erase** from history.
+
+Normally it would be some big static files accidentally committed to repo like `*.png` or `*.mp4` files.
+
 ### Undo last commit
 
 ```sh
