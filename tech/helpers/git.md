@@ -148,6 +148,32 @@ Where `PATH_SPEC` is regular glob of file you want to **erase** from history.
 
 Normally it would be some big static files accidentally committed to repo like `*.png` or `*.mp4` files.
 
+### Interactive rebase
+
+#### Fixup / Squash
+
+Simple yet one of the most effective ways to avoid `foo` `bar` `baz` commits.
+
+1. Start with `git rebase -i origin`
+2. Mark buzz commits with `fixup` and reorder them **beneath** the commits you want to merge them into. (The rule of thumb, they'll be merged on the top commit from the "buzz" commit)
+3. Optionally if you also wanted to change the merged commit message you could mark the commit with `squash` this way `git` will prompt you for a new commit message.
+
+#### Edit
+
+Assume you've committed a bunch of files into single commit and now want to split them.
+
+1. See only filenames of files that was changed.
+
+   ```sh
+   git show HEAD --name-only
+   ```
+
+2. Start interactive rebase with `git rebase -i origin`
+3. `edit` the commit you wish to change
+4. On the detached head you can now `git reset --soft HEAD^` which will put all changes of the currently edited commit into staging area.
+5. From here you're cooking your own magic, create as many commits as you want edit neighboring commits, drop files, basically do whatever you normally would do during normal workflow...
+6. In the end `git rebase --continue` will add all new commits into the history at the point of `edit`.
+
 ### Undo last commit
 
 ```sh
@@ -337,7 +363,7 @@ git diff $branch (git merge-base $branch main)
 git switch $branch # -c
 ```
 
-#### With merge:
+#### With merge
 
 ```sh
 git pull origin main --no-rebase
@@ -347,7 +373,7 @@ git merge origin/main
 git push
 ```
 
-#### With rebase:
+#### With rebase
 
 ```sh
 git pull origin main
