@@ -9,3 +9,4 @@ Enter by typing `about:config` in search bar.
 - `zen.view.compact.animate-sidebar: boolean` - useful to set to `false` if speed of opening matter.
 - `zen.view.compact.show-sidebar-and-toolbar-on-hover` - useful to set to `false` if mouse drifts over the edge often in fullscreen.
 - `zen.view.compact.show-sidebar-and-toolbar-on-hover` - should be set to `true` to be able to see unified settings tab bar
+- `ui.key.menuAccessKeyFocuses` - set fo `false` when menu bar popping up on `Alt` key is undesirable
