@@ -1,5 +1,29 @@
 # Game playlist
 
+- [ ] The Outer Worlds
+- [ ] Relicta
+- [ ] Deliver Us Mars
+- [ ] Obduction
+- [ ] Remnant: From the Ashes
+- [ ] Wolfenstein
+- [ ] Watch Dogs
+- [ ] Eternal Threads
+- [ ] First Class Trouble
+- [ ] Frostpunk
+- [ ] Gamedec
+- [ ] Gloomhaven
+- [ ] Gonner
+- [ ] Hand of Fate 2
+- [ ] Islets
+- [ ] Song of Silence
+- [ ] The Stanley Parable
+- [ ] The Stone of Madness
+- [ ] Tacoma
+- [ ] Sunless Sea
+- [ ] Sunless Skies
+- [ ] Total War Warhammer 3 (Epic)
+- [ ] Universe for Sale
+
 - [ ] Alien: Isolation
 - [ ] American Truck Simulator
 - [ ] Baldur’s Gate 3
