@@ -1,5 +1,9 @@
 # Co-op Games Bisect List
 
+- Two Worlds Epic Edition +gothic -maybe-old
+- Peak +short +replayable -short
+- Path of Exile +ftp -grin
+- Outward +steam -hardcore
 - Total War: WARHAMMER +gfn -cringe-strategy +strategy
 - Gloomhaven +gfn -read
 - Dead Island 2 +gfn
@@ -27,12 +31,3 @@
 - World War Z +gfn
 - Dark and Darker
 - Sea of Thieves
-
-Titan Quest
-Valheim
-Barotrauma
-World War Z
-Dark and Darker
-Sea of Thieves
-TES: O
-Gloomhaven
