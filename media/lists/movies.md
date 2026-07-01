@@ -42,6 +42,7 @@
 
 # To watch
 
+- Kinds of Kindness
 - Project Hail Mary
 - The Usual Suspects
 - Don't look up
