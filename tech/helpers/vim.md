@@ -70,6 +70,7 @@ If you're already in visual mode using `i<text-object>` `a<text-object>` will mo
 - `"<register-name>yy` yank back into register
 - `q<register-name><macro>Q` <macro> will replay until error
 - `q<capital-register-name><macro>` will record macro to the end of `<register-name>`
+- `:g/pattern/norm! @a` execute the macro stored in register a on all lines matching pattern
 - `@<register-name>` replay macro
 - `Q` replay last recorded macro
 
