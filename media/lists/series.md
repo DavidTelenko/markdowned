@@ -13,6 +13,7 @@ This is the list of series i'm watching, seen and wanna watch, with thoughts abo
 
 # To Watch
 
+- Silo
 - Secret Level
 - Ted Lasso
 - The Day of the Jackal
