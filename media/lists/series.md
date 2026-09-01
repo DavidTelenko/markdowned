@@ -13,6 +13,7 @@ This is the list of series i'm watching, seen and wanna watch, with thoughts abo
 
 # To Watch
 
+- Foundation
 - Silo
 - Secret Level
 - Ted Lasso
